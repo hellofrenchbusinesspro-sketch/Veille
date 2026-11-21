@@ -1,11 +1,11 @@
-"""Récupère l'actu de médias de référence, la résume avec GitHub Models, écrit data/news.json."""
+"""Récupère l'actu de médias de référence, la résume avec une IA gratuite, écrit data/news.json."""
 import datetime as dt, hashlib, json, os, re, time
-import urllib.error, urllib.parse, urllib.request
+import urllib.error, urllib.request
 import feedparser, trafilatura
 
-MODEL = "openai/gpt-4.1-mini"   # modèle léger, gratuit avec un compte GitHub
-PAR_FLUX = 4                    # articles max par flux et par jour
-JOURS = 7                       # durée de conservation
+PAR_FLUX = 3      # articles max par flux et par jour
+JOURS = 7         # durée de conservation
+PAUSE = 20        # secondes entre deux demandes (respecte les limites gratuites)
 SORTIE = "data/news.json"
 
 # Médias reconnus uniquement : ajoute ou retire des lignes (source, domaine, flux RSS).
@@ -33,37 +33,38 @@ CONSIGNE = """Tu es un éditeur strictement factuel. À partir UNIQUEMENT du tex
 Utilise "incertain" si le texte relève de la rumeur, d'une affirmation non sourcée ou d'un contenu trop vague.
 Si une information manque dans le texte, ne l'invente pas. Écris en français."""
 
-CLE = os.environ["GITHUB_TOKEN"]   # fourni automatiquement par GitHub Actions
-URL_IA = "https://models.github.ai/inference/chat/completions"
-ENTETES = {"Content-Type": "application/json", "Authorization": f"Bearer {CLE}",
-           "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
+# Fournisseurs gratuits : le premier dont la clé existe dans les secrets est utilisé.
+# (nom du secret, adresse de l'API, modèles à essayer dans l'ordre)
+FOURNISSEURS = [
+    ("GROQ_API_KEY", "https://api.groq.com/openai/v1/chat/completions",
+     ["openai/gpt-oss-20b", "openai/gpt-oss-120b", "llama-3.3-70b-versatile"]),
+    ("GEMINI_API_KEY", "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions",
+     ["gemini-flash-latest", "gemini-flash-lite-latest"]),
+    ("MISTRAL_API_KEY", "https://api.mistral.ai/v1/chat/completions",
+     ["mistral-small-latest"]),
+]
+
+for nom, adresse, modeles in FOURNISSEURS:
+    if os.environ.get(nom):
+        CLE, URL_IA, MODELES = os.environ[nom], adresse, list(modeles)
+        print("Fournisseur utilisé :", nom)
+        break
+else:
+    raise SystemExit("Aucune clé trouvée : ajoute GROQ_API_KEY dans les secrets du dépôt.")
 
 
-class PasDeRedirection(urllib.request.HTTPRedirectHandler):
-    """Empêche Python de transformer silencieusement la demande en autre chose."""
-    def redirect_request(self, req, fp, code, msg, headers, newurl):
-        return None
-
-
-OUVREUR = urllib.request.build_opener(PasDeRedirection)
-
-
-def appeler_ia(corps):
-    """Envoie la demande ; suit à la main les redirections vers GitHub. Renvoie (statut, texte)."""
-    url = URL_IA
-    for _ in range(4):
-        req = urllib.request.Request(url, corps, ENTETES)
-        try:
-            with OUVREUR.open(req, timeout=90) as r:
-                return r.status, r.read().decode("utf-8", "replace")
-        except urllib.error.HTTPError as err:
-            suite = urllib.parse.urljoin(url, err.headers.get("Location", ""))
-            hote = urllib.parse.urlparse(suite).hostname or ""
-            if err.code in (301, 302, 303, 307, 308) and hote.endswith(("github.ai", "github.com")):
-                url = suite
-                continue
-            return err.code, err.read().decode("utf-8", "replace")
-    return 0, "trop de redirections"
+def appeler(modele, messages):
+    donnees = {"model": modele, "messages": messages, "temperature": 0.2, "max_tokens": 2500}
+    if modele.startswith("openai/gpt-oss"):
+        donnees["reasoning_effort"] = "low"
+    req = urllib.request.Request(URL_IA, json.dumps(donnees).encode(), {
+        "Content-Type": "application/json", "Authorization": f"Bearer {CLE}",
+        "User-Agent": "veille-bot/1.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=90) as r:
+            return r.status, r.read().decode("utf-8", "replace")
+    except urllib.error.HTTPError as err:
+        return err.code, err.read().decode("utf-8", "replace")
 
 
 def texte_article(url, repli):
@@ -78,29 +79,31 @@ def texte_article(url, repli):
 
 
 def resumer(titre, texte):
-    corps = json.dumps({
-        "model": MODEL,
-        "messages": [
-            {"role": "system", "content": CONSIGNE},
-            {"role": "user", "content": f"Titre : {titre}\n\n{texte[:8000]}"},
-        ],
-        "temperature": 0.2,
-        "max_tokens": 1200,
-    }).encode()
-    for essai in range(3):
-        statut, brut = appeler_ia(corps)
-        if statut == 429 and essai < 2:   # limite atteinte : on attend et on réessaie
-            time.sleep(40)
-            continue
-        break
-    if statut != 200:
-        raise RuntimeError(f"IA statut {statut} : {brut[:300]}".replace("\n", " "))
-    try:
-        contenu = json.loads(brut)["choices"][0]["message"]["content"]
-    except Exception:
-        raise RuntimeError(f"réponse illisible (statut {statut}) : {brut[:300]}".replace("\n", " "))
-    time.sleep(5)   # espace les demandes pour rester dans la limite gratuite
-    return json.loads(re.search(r"\{.*\}", contenu, re.S).group(0))
+    messages = [{"role": "system", "content": CONSIGNE},
+                {"role": "user", "content": f"Titre : {titre}\n\n{texte[:6000]}"}]
+    erreur = ""
+    for modele in list(MODELES):
+        for essai in range(3):
+            statut, brut = appeler(modele, messages)
+            if statut == 429 and essai < 2:   # limite atteinte : on attend une minute
+                time.sleep(60)
+                continue
+            break
+        if statut == 401:
+            raise SystemExit("Clé refusée (401) : vérifie le secret dans les paramètres du dépôt.")
+        if statut == 200:
+            try:
+                contenu = json.loads(brut)["choices"][0]["message"]["content"]
+                resultat = json.loads(re.search(r"\{.*\}", contenu, re.S).group(0))
+            except Exception:
+                erreur = f"{modele} réponse illisible : {brut[:200]}"
+                continue
+            MODELES.remove(modele)
+            MODELES.insert(0, modele)   # on garde en premier le modèle qui marche
+            time.sleep(PAUSE)
+            return resultat
+        erreur = f"{modele} statut {statut} : {brut[:200]}"
+    raise RuntimeError(erreur.replace("\n", " "))
 
 
 def main():
