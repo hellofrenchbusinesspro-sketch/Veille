@@ -1,6 +1,6 @@
 """Récupère l'actu de médias de référence, la résume avec GitHub Models, écrit data/news.json."""
 import datetime as dt, hashlib, json, os, re, time
-import urllib.error, urllib.request
+import urllib.error, urllib.parse, urllib.request
 import feedparser, trafilatura
 
 MODEL = "openai/gpt-4.1-mini"   # modèle léger, gratuit avec un compte GitHub
@@ -35,6 +35,35 @@ Si une information manque dans le texte, ne l'invente pas. Écris en français."
 
 CLE = os.environ["GITHUB_TOKEN"]   # fourni automatiquement par GitHub Actions
 URL_IA = "https://models.github.ai/inference/chat/completions"
+ENTETES = {"Content-Type": "application/json", "Authorization": f"Bearer {CLE}",
+           "Accept": "application/vnd.github+json", "X-GitHub-Api-Version": "2022-11-28"}
+
+
+class PasDeRedirection(urllib.request.HTTPRedirectHandler):
+    """Empêche Python de transformer silencieusement la demande en autre chose."""
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        return None
+
+
+OUVREUR = urllib.request.build_opener(PasDeRedirection)
+
+
+def appeler_ia(corps):
+    """Envoie la demande ; suit à la main les redirections vers GitHub. Renvoie (statut, texte)."""
+    url = URL_IA
+    for _ in range(4):
+        req = urllib.request.Request(url, corps, ENTETES)
+        try:
+            with OUVREUR.open(req, timeout=90) as r:
+                return r.status, r.read().decode("utf-8", "replace")
+        except urllib.error.HTTPError as err:
+            suite = urllib.parse.urljoin(url, err.headers.get("Location", ""))
+            hote = urllib.parse.urlparse(suite).hostname or ""
+            if err.code in (301, 302, 303, 307, 308) and hote.endswith(("github.ai", "github.com")):
+                url = suite
+                continue
+            return err.code, err.read().decode("utf-8", "replace")
+    return 0, "trop de redirections"
 
 
 def texte_article(url, repli):
@@ -58,21 +87,19 @@ def resumer(titre, texte):
         "temperature": 0.2,
         "max_tokens": 1200,
     }).encode()
-    entetes = {"Content-Type": "application/json", "Authorization": f"Bearer {CLE}",
-               "Accept": "application/vnd.github+json"}
     for essai in range(3):
-        req = urllib.request.Request(URL_IA, corps, entetes)
-        try:
-            with urllib.request.urlopen(req, timeout=90) as r:
-                rep = json.load(r)
-            break
-        except urllib.error.HTTPError as err:
-            if err.code == 429 and essai < 2:   # limite atteinte : on attend et on réessaie
-                time.sleep(40)
-                continue
-            raise
+        statut, brut = appeler_ia(corps)
+        if statut == 429 and essai < 2:   # limite atteinte : on attend et on réessaie
+            time.sleep(40)
+            continue
+        break
+    if statut != 200:
+        raise RuntimeError(f"IA statut {statut} : {brut[:300]}".replace("\n", " "))
+    try:
+        contenu = json.loads(brut)["choices"][0]["message"]["content"]
+    except Exception:
+        raise RuntimeError(f"réponse illisible (statut {statut}) : {brut[:300]}".replace("\n", " "))
     time.sleep(5)   # espace les demandes pour rester dans la limite gratuite
-    contenu = rep["choices"][0]["message"]["content"]
     return json.loads(re.search(r"\{.*\}", contenu, re.S).group(0))
 
 
