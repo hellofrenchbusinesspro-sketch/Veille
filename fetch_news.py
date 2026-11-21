@@ -1,11 +1,11 @@
-"""Récupère l'actu de médias de référence, la résume avec Claude, écrit data/news.json."""
-import datetime as dt, hashlib, json, os, re
+"""Récupère l'actu de médias de référence, la résume avec GitHub Models, écrit data/news.json."""
+import datetime as dt, hashlib, json, os, re, time
+import urllib.error, urllib.request
 import feedparser, trafilatura
-from anthropic import Anthropic
 
-MODEL = "claude-haiku-5-5"   # rapide et peu coûteux
-PAR_FLUX = 4                 # articles max par flux et par jour
-JOURS = 7                    # durée de conservation
+MODEL = "openai/gpt-4.1-mini"   # modèle léger, gratuit avec un compte GitHub
+PAR_FLUX = 4                    # articles max par flux et par jour
+JOURS = 7                       # durée de conservation
 SORTIE = "data/news.json"
 
 # Médias reconnus uniquement : ajoute ou retire des lignes (source, domaine, flux RSS).
@@ -33,7 +33,8 @@ CONSIGNE = """Tu es un éditeur strictement factuel. À partir UNIQUEMENT du tex
 Utilise "incertain" si le texte relève de la rumeur, d'une affirmation non sourcée ou d'un contenu trop vague.
 Si une information manque dans le texte, ne l'invente pas. Écris en français."""
 
-client = Anthropic()  # lit la variable ANTHROPIC_API_KEY
+CLE = os.environ["GITHUB_TOKEN"]   # fourni automatiquement par GitHub Actions
+URL_IA = "https://models.github.ai/inference/chat/completions"
 
 
 def texte_article(url, repli):
@@ -48,9 +49,31 @@ def texte_article(url, repli):
 
 
 def resumer(titre, texte):
-    r = client.messages.create(model=MODEL, max_tokens=1000, system=CONSIGNE,
-                               messages=[{"role": "user", "content": f"Titre : {titre}\n\n{texte[:8000]}"}])
-    return json.loads(re.search(r"\{.*\}", r.content[0].text, re.S).group(0))
+    corps = json.dumps({
+        "model": MODEL,
+        "messages": [
+            {"role": "system", "content": CONSIGNE},
+            {"role": "user", "content": f"Titre : {titre}\n\n{texte[:8000]}"},
+        ],
+        "temperature": 0.2,
+        "max_tokens": 1200,
+    }).encode()
+    entetes = {"Content-Type": "application/json", "Authorization": f"Bearer {CLE}",
+               "Accept": "application/vnd.github+json"}
+    for essai in range(3):
+        req = urllib.request.Request(URL_IA, corps, entetes)
+        try:
+            with urllib.request.urlopen(req, timeout=90) as r:
+                rep = json.load(r)
+            break
+        except urllib.error.HTTPError as err:
+            if err.code == 429 and essai < 2:   # limite atteinte : on attend et on réessaie
+                time.sleep(40)
+                continue
+            raise
+    time.sleep(5)   # espace les demandes pour rester dans la limite gratuite
+    contenu = rep["choices"][0]["message"]["content"]
+    return json.loads(re.search(r"\{.*\}", contenu, re.S).group(0))
 
 
 def main():
