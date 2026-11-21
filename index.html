@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ma veille</title>
+<style>
+:root{--bg:#eef1f4;--panel:#fff;--ink:#14202b;--mute:#5d6b78;--line:#d3dce3;--accent:#0f5c7a;--fait:#2f7d5b;--analyse:#b7791f;--opinion:#8a4f9e;color-scheme:light}
+@media (prefers-color-scheme:dark){:root{--bg:#0e1a24;--panel:#15252f;--ink:#e6edf2;--mute:#97a6b3;--line:#27394a;--accent:#6cc0dd;--fait:#5cc08f;--analyse:#e0b04f;--opinion:#c58bda;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:14px 16px 10px}
+.in{max-width:720px;margin:0 auto}
+h1{font:700 1.9rem/1.1 Charter,"Iowan Old Style",Georgia,serif;margin:0;letter-spacing:-.01em}
+#maj{color:var(--mute);font-size:.85rem;margin:2px 0 10px}
+input{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:8px;background:var(--panel);color:var(--ink);font:inherit}
+#chips{display:flex;gap:8px;overflow-x:auto;padding:10px 0 2px}
+#chips button{flex:none;border:1px solid var(--line);background:none;color:var(--ink);padding:6px 14px;border-radius:99px;font:inherit;font-size:.9rem;cursor:pointer}
+#chips button[aria-pressed=true]{background:var(--accent);border-color:var(--accent);color:var(--bg);font-weight:600}
+main{max-width:720px;margin:0 auto;padding:12px 16px 60px}
+article{background:var(--panel);border-left:5px solid var(--fait);padding:14px 16px;margin:14px 0;border-radius:0 8px 8px 0}
+article.analyse{border-color:var(--analyse)}article.opinion{border-color:var(--opinion)}
+.meta{font-size:.85rem;color:var(--mute)}.meta b{color:var(--accent)}
+h2{font:700 1.3rem/1.25 Charter,"Iowan Old Style",Georgia,serif;margin:4px 0 8px}
+ul{margin:0 0 10px;padding-left:20px}li{margin:3px 0}
+.kw{display:flex;flex-wrap:wrap;gap:6px;margin:8px 0}
+.kw span{font-size:.8rem;padding:2px 9px;border-radius:99px;background:var(--bg);color:var(--mute)}
+details{margin-top:6px}summary{cursor:pointer;color:var(--accent);font-weight:600;padding:4px 0}
+details p{margin:8px 0;max-width:68ch}
+.note{font-size:.82rem;color:var(--analyse)}
+a{color:var(--accent)}
+.empty{color:var(--mute);text-align:center;padding:40px 0}
+:focus-visible{outline:3px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<header><div class="in">
+<h1>Ma veille</h1><div id="maj">Chargement…</div>
+<input id="q" type="search" placeholder="Rechercher un mot, un sujet, un média" aria-label="Rechercher">
+<div id="chips"></div>
+</div></header>
+<main id="list"></main>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let all=[],dom="Tout";
+fetch("data/news.json?"+Date.now()).then(r=>r.json()).then(d=>{
+  all=d.articles;
+  $("#maj").textContent="Mis à jour le "+new Date(d.maj).toLocaleString("fr-FR",{dateStyle:"long",timeStyle:"short"});
+  const ds=["Tout",...new Set(all.map(a=>a.domaine))];
+  $("#chips").innerHTML=ds.map(x=>`<button aria-pressed="${x==dom}">${esc(x)}</button>`).join("");
+  $("#chips").onclick=e=>{if(e.target.tagName!="BUTTON")return;dom=e.target.textContent;
+    document.querySelectorAll("#chips button").forEach(b=>b.setAttribute("aria-pressed",b.textContent==dom));render()};
+  render();
+}).catch(()=>{$("#maj").textContent="";$("#list").innerHTML='<p class="empty">Aucune donnée pour l’instant. Lance le script une première fois pour remplir la page.</p>'});
+$("#q").oninput=()=>render();
+function render(){
+  const q=$("#q").value.toLowerCase();
+  const rows=all.filter(a=>(dom=="Tout"||a.domaine==dom)&&JSON.stringify(a).toLowerCase().includes(q));
+  $("#list").innerHTML=rows.length?rows.map(a=>`<article class="${esc(a.nature)}">
+    <div class="meta"><b>${esc(a.source)}</b> &nbsp; ${esc(a.domaine)} &nbsp; ${new Date(a.date).toLocaleDateString("fr-FR",{day:"numeric",month:"short"})} &nbsp; ${esc(a.nature)}</div>
+    <h2>${esc(a.titre)}</h2>
+    <ul>${(a.points_cles||[]).map(p=>`<li>${esc(p)}</li>`).join("")}</ul>
+    <div class="kw">${(a.mots_cles||[]).map(k=>`<span>${esc(k)}</span>`).join("")}</div>
+    <details><summary>Lire le récap complet</summary><p>${esc(a.recap)}</p>
+    ${a.partiel?'<p class="note">Résumé partiel : l’article complet n’était pas accessible (souvent réservé aux abonnés).</p>':""}
+    ${/^https?:/.test(a.lien)?`<p><a href="${esc(a.lien)}" target="_blank" rel="noopener">Lire l’article original</a></p>`:""}</details>
+  </article>`).join(""):'<p class="empty">Aucun article ne correspond.</p>';
+}
+</script>
+</body>
+</html>
