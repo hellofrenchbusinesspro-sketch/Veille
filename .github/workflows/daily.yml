@@ -5,7 +5,6 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
-  models: read
 jobs:
   veille:
     runs-on: ubuntu-latest
@@ -17,7 +16,9 @@ jobs:
       - run: pip install -r requirements.txt
       - run: python fetch_news.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
       - run: |
           git config user.name "veille-bot"
           git config user.email "veille-bot@users.noreply.github.com"
