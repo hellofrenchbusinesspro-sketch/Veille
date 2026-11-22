@@ -1,4 +1,671 @@
 {
- "maj": "2026-11-21T14:59",
- "articles": []
+ "maj": "2026-11-22T13:15",
+ "articles": [
+  {
+   "id": "f4adef47b70df250fa0f234e28bc56fe",
+   "titre": "Renault, BMW, Tesla, Volkswagen : pourquoi leurs moteurs électriques sont-ils si différents ?",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/actualites/voitures-electriques/352700-renault-bmw-tesla-volkswagen-pourquoi-leurs-moteurs-electriques-sont-ils-si-differents/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-22T13:15",
+   "recap": "Le texte explique que les constructeurs automobiles utilisent trois grandes familles de moteurs électriques : le moteur synchrone à rotor bobiné (exemple Renault 5 E‑Tech) qui évite les aimants permanents mais nécessite de l'électricité pour le rotor, le moteur synchrone à aimants permanents (exemple Volkswagen ID.3, Hyundai Ioniq 5, Mercedes EQS) qui offre un haut rendement et compacité mais repose sur des terres rares, et le moteur asynchrone à induction (exemple Tesla, Audi, BMW iX3) qui ne comporte ni aimants ni bobines alimentées, est robuste mais moins efficace. Chaque technologie implique des compromis en termes de rendement, coût, poids et usage de matériaux critiques. BMW combine les deux technologies (moteur synchrone à excitation électrique à l'arrière et asynchrone à l'avant) pour optimiser performance et réduire pertes, annonçant des baisses de 40 % des pertes, 10 % du poids et 20 % des coûts par rapport à la génération précédente. Le texte souligne les enjeux liés à l'approvisionnement en terres rares et aux pertes énergétiques, ainsi que les stratégies des constructeurs pour répondre à ces défis.",
+   "points_cles": [
+    "Renault utilise un moteur synchrone à rotor bobiné sans aimants permanents.",
+    "Volkswagen et d’autres optent pour des moteurs à aimants permanents, plus efficaces mais dépendants des terres rares.",
+    "Tesla et Audi emploient des moteurs asynchrones à induction, robustes mais moins rendus.",
+    "BMW combine moteurs synchrones à excitation électrique et asynchrones pour réduire pertes et coûts."
+   ],
+   "mots_cles": [
+    "moteur synchrone",
+    "aimants permanents",
+    "terres rares",
+    "rendement énergétique",
+    "induction",
+    "BMW iX3"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "44e8e6ff466d37e8347b886148d66683",
+   "titre": "Supertest Nissan Leaf 75 kWh : les consommations et autonomies mesurées de notre essai, avec de bonnes surprises !",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/essais-et-tests/supertests-electrique/331802-supertest-nissan-leaf-75-kwh-les-consommations-et-autonomies-mesurees-de-notre-essai-avec-de-bonnes-surprises/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-22T13:15",
+   "recap": "La Nissan Leaf 75 kWh, nouvelle génération basée sur la plateforme CMF‑B EV, a été testée en Supertest. Elle propose deux motorisations, dont la version testée de 160 kW (218 ch) et 355 Nm, avec une batterie Envision AESC de 75 kWh. L’autonomie WLTP annoncée est de 585 km (14,7 kWh/100 km), tandis que le test montre une consommation mixte de 15,5 kWh/100 km et une autonomie réelle d’environ 485 km, soit 17 % de moins que le WLTP. En conduite autoroutière pure, la consommation grimpe à 21,5 kWh/100 km, limitant l’autonomie à 350 km, et à 22,7 kWh/100 km à 130 km/h. En mode éco, la consommation chute à 10,9 kWh/100 km, proche de la Kia EV4. Les performances dynamiques sont moyennes : 0‑100 km/h en 7,5 s (sport) et freinage d’urgence de 65,3 m depuis 130 km/h.",
+   "points_cles": [
+    "Autonomie WLTP de 585 km, consommation réelle de 15,5 kWh/100 km.",
+    "Consommation autoroute élevée (21,5‑22,7 kWh/100 km) limitant l’autonomie à 350 km.",
+    "Mode éco permet de réduire la consommation à 10,9 kWh/100 km."
+   ],
+   "mots_cles": [
+    "Nissan Leaf",
+    "75 kWh",
+    "autonomie",
+    "consommation",
+    "mode éco",
+    "performances"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8e417f0ca593bcb0457c9f381c031ab4",
+   "titre": "C’est quoi Stryx AI, cette start-up française qui veut intercepter les drones ?",
+   "lien": "https://www.numerama.com/tech/2379779-cest-quoi-stryx-ai-cette-start-up-francaise-qui-veut-intercepter-les-drones.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-22T13:14",
+   "recap": "Stryx AI est une start‑up française fondée en 2025 à Brétigny‑sur‑Orge qui développe des drones intercepteurs capables de percuter en vol d’autres drones, notamment les FPV. Elle a levé 7,7 M€ le 19 novembre 2024, tour mené par son fondateur Armand Thiberge et des investisseurs français dont Impala et les cofondateurs de Delair. Le système comprend un radar léger (Stryx Watch), un logiciel de commandement (Stryx C2), le drone intercepteur guidé par IA (Stryx Impact) et une station de lancement (Stryx Launch), avec décision d’engagement gardée par un opérateur humain. L’entreprise se veut « ITAR‑free », visant la souveraineté technologique pour les clients européens. Les prototypes ont été testés dans le programme Épervier de l’Agence de l’innovation de défense et lors de l’exercice XLAD en septembre 2025, avec une première commande française non détaillée. La production en France doit démarrer début 2027, avec l’objectif de livrer les premiers systèmes la même année et d’atteindre 50 salariés d’ici fin 2027.",
+   "points_cles": [
+    "Levée de fonds de 7,7 M€ en novembre 2024.",
+    "Système composé de radar, logiciel, drone intercepteur et station de lancement.",
+    "Interception par impact, décision d’engagement humaine.",
+    "Prototype testé dans le programme Épervier et exercice XLAD.",
+    "Production prévue pour début 2027, cible 50 salariés."
+   ],
+   "mots_cles": [
+    "Stryx AI",
+    "drones intercepteurs",
+    "ITAR‑free",
+    "levée de fonds",
+    "prototype"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "84fce3087a07388a39dae5db54c21760",
+   "titre": "Génocide des Rohingyas: la décision historique de la CIJ peut-elle faire jurisprudence?",
+   "lien": "https://www.rfi.fr/fr/monde/20261122-g%C3%A9nocide-des-rohingyas-la-d%C3%A9cision-historique-de-la-cij-peut-elle-faire-jurisprudence",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-22T13:13",
+   "recap": "Le 19 novembre 2023, la Cour internationale de justice (CIJ) a jugé que la Birmanie a commis un génocide contre les Rohingyas du nord de l'État de Rakhine, en se basant sur des preuves d'au moins 10 000 morts et de violences massives. La décision, adoptée par neuf voix contre six, reconnaît également que la Birmanie a manqué à son obligation de prévenir le génocide selon la Convention de 1948. Le texte précise que l'intention génocidaire peut coexister avec d'autres objectifs, légitimes ou non, et que la Cour a conclu à une intention de détruire une partie substantielle du groupe. Environ 815 000 Rohingyas vivaient dans la région, dont 1,2 % ont été tués, les autres ayant fui au Bangladesh. La décision, première du genre contre un État, pourrait influencer le droit international et la responsabilité des États, bien que la CIJ ne dispose pas de moyens d'exécution. La Gambie a initié le procès en 2019, et les réactions incluent des appels à l'indemnisation et au retour sécurisé des réfugiés. Le jugement suscite des débats sur son impact juridique et sur la conformité future de la Birmanie aux injonctions.",
+   "points_cles": [
+    "La CIJ a reconnu un génocide commis par la Birmanie contre les Rohingyas.",
+    "Au moins 10 000 morts et des violences massives ont été établis comme preuves.",
+    "La Cour a souligné l'intention de détruire partiellement le groupe, même avec d'autres objectifs.",
+    "C’est la première fois qu’un État est déclaré responsable d’un génocide par la CIJ.",
+    "La décision est contraignante mais la CIJ ne peut pas forcer son exécution."
+   ],
+   "mots_cles": [
+    "CIJ",
+    "génocide",
+    "Rohingyas",
+    "Birmanie",
+    "intentionnalité",
+    "droit international"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "d092c6f25d1a29126218c60e19a03868",
+   "titre": "Au Liban du Sud, la guerre n'a jamais cessé à Tyr, une ville qui survit plus qu'elle ne vit",
+   "lien": "https://www.rfi.fr/fr/moyen-orient/20261122-au-liban-du-sud-la-guerre-n-a-jamais-cess%C3%A9-%C3%A0-tyr-une-ville-qui-survit-plus-qu-elle-ne-vit",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-22T13:13",
+   "recap": "Après le cessez‑le‑feu de juin 2026, la ville portuaire de Tyr, au sud du Liban, tente de retrouver une vie normale malgré la présence continue de drones israéliens et la menace de frappes. Le port commercial et la pêche sont fortement réduits, de nombreux bateaux restant immobilisés par crainte des navires de guerre israéliens. Le souk et les rues sont désertés, les ventes locales ayant chuté et aucun touriste n’est présent. Les autorités municipales, avec le soutien de l’État et de l’armée libanaise, ont réparé le pont de Qasmiyé, partiellement rétabli le réseau électrique et l’alimentation en eau, et relogé des familles déplacées, mais la reconstruction des 75 immeubles détruits et des 1 500 appartements endommagés n’a pas commencé. Environ 150 000 habitants seraient revenus, mais la proximité d’une position militaire israélienne à 15 km freine la reprise économique. Des familles occupent encore des écoles locales, refusant les aides de déplacement, ce qui complique la normalisation des services éducatifs.",
+   "points_cles": [
+    "Port et pêche paralysés par la menace israélienne.",
+    "Reconstruction des logements détruits n’a pas démarré.",
+    "Autorités locales ont réparé le pont et partiellement les services essentiels.",
+    "Désert touristique et chute des ventes dans le souk.",
+    "Présence de familles déplacées dans les écoles freine la reprise."
+   ],
+   "mots_cles": [
+    "Tyr",
+    "drones israéliens",
+    "reconstruction",
+    "port",
+    "déplacement",
+    "tourisme"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "84ec98aec7820dfdafa454d29346cd88",
+   "titre": "« Internet cessera de fonctionner sans explication » : attention, le service Quad9 coupe en France ce mardi, vérifiez si vous l’utilisez",
+   "lien": "https://www.numerama.com/tech/2379931-internet-cessera-de-fonctionner-sans-explication-attention-le-service-quad9-coupe-en-france-ce-mardi-verifiez-si-vous-lutilisez.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-22T13:13",
+   "recap": "Le 22 octobre 2026, la fondation suisse Quad9 a annoncé le retrait de ses résolveurs DNS pour la France à compter du mardi 24 novembre 2026, après qu’un tribunal français, à la demande de beIN Sports, lui a ordonné de bloquer 58 sites diffusant illégalement des matchs. Quad9 a préféré cesser son service plutôt que de bloquer ces sites, arguant qu’elle ne peut identifier les utilisateurs français et refuse de bloquer mondialement. Les internautes qui utilisent Quad9 comme DNS principal verront leur connexion Internet cesser de fonctionner dès mardi, tandis que ceux qui ne l’utilisent pas ne seront pas affectés. Le site on.quad9.net permet de vérifier rapidement si l’on passe par Quad9, mais il faut aussi contrôler les réglages DNS (adresses 9.9.9.9, 149.112.112.112, etc.) sur chaque appareil et navigateur. En cas d’utilisation, il faut désactiver ou supprimer le réglage DNS Quad9 et revenir au DNS automatique ou choisir un autre fournisseur comme Cloudflare. Le texte fournit des instructions détaillées pour vérifier et modifier les paramètres DNS sur différents systèmes et navigateurs.",
+   "points_cles": [
+    "Quad9 retire son service DNS en France à partir du 24 novembre 2026.",
+    "Le retrait suit une injonction judiciaire de bloquer 58 sites demandée par beIN Sports.",
+    "Les utilisateurs de Quad9 verront leur Internet cesser de fonctionner sans explication.",
+    "Un test simple via on.quad9.net et la vérification des adresses DNS permettent d’identifier les utilisateurs.",
+    "Il faut désactiver le DNS Quad9 et revenir au DNS automatique ou choisir un autre fournisseur."
+   ],
+   "mots_cles": [
+    "Quad9",
+    "DNS",
+    "France",
+    "blocage sites",
+    "beIN Sports",
+    "Internet"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "6dc558952d1383643e8afa2093379db5",
+   "titre": "Entre contraintes budgétaires et envie de \"faire durer\" les fêtes, pourquoi Noël déboule de plus en plus tôt",
+   "lien": "https://www.franceinfo.fr/decouverte/noel/entre-contraintes-budgetaires-et-envie-de-faire-durer-les-fetes-pourquoi-noel-deboule-de-plus-en-plus-tot_8288288.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-22T13:12",
+   "recap": "En France, la période commerciale de Noël commence de plus en plus tôt, sous l'effet de contraintes budgétaires et du désir de prolonger les fêtes. Selon l'anthropologue Dominique Desjeux, la hausse des dépenses contraintes et la baisse du pouvoir d'achat, constatées par l'Insee, incitent les ménages à anticiper leurs achats. Un baromètre de Noël réalisé par Cofidis et le CSA montre que 72 % des Français achètent leurs cadeaux avant décembre, dont 32 % dès octobre, en hausse de 5 points depuis 2020. Le Black Friday, importé des États‑Unis, se déclenche désormais avant le dernier vendredi de novembre, poussant les commerçants à préparer leurs stocks plus tôt, notamment à cause des incertitudes logistiques liées à la pandémie. Certaines municipalités, comme La Baule et Toulon, installent les décorations lumineuses dès septembre pour étaler les coûts et pallier le manque de personnel. Enfin, la sociologue Claire Roederer explique que Noël, perçu comme une routine rassurante, répond à une recherche de stabilité dans une époque anxiogène.",
+   "points_cles": [
+    "Les Français anticipent leurs achats de Noël pour lisser les dépenses face à la baisse du pouvoir d'achat.",
+    "72 % des sondés commencent leurs achats avant décembre, 32 % dès octobre.",
+    "Le Black Friday et les décorations municipales sont avancés pour répartir les coûts et gérer les contraintes logistiques.",
+    "Noël est perçu comme une routine rassurante qui répond à un besoin de stabilité."
+   ],
+   "mots_cles": [
+    "Noël",
+    "anticipation",
+    "pouvoir d'achat",
+    "Black Friday",
+    "déco lumineuse",
+    "stabilité"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "956d85e4badefda1c38b4d0d4128f453",
+   "titre": "COP31: faute de consensus, la présidence turque annonce le rejet de la proposition d'accord final",
+   "lien": "https://www.rfi.fr/fr/environnement/20261122-cop31-faute-de-consensus-la-pr%C3%A9sidence-turque-annonce-le-rejet-de-la-proposition-d-accord-final",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-22T13:12",
+   "recap": "La présidence turque de la COP31, co‑présidée avec l'Australie, a annoncé le rejet de la proposition de compromis présentée pour clôturer la conférence à Antalya, faute de consensus parmi les ~200 pays participants. Le président turc Murat Kurum a indiqué que le texte, qui ne mentionne pas les énergies fossiles, ne pouvait être adopté. L'Union européenne, représentée par le ministre irlandais du Climat Darragh O'Brien, s'est opposée fermement, dénonçant l'absence de référence aux combustibles fossiles, tout comme le Panama. La Chine a toutefois accepté la dernière version du texte. Le texte contenait un appel à l'électrification et à la capture du carbone, mais aucune sortie des énergies fossiles, ce qui a été jugé insuffisant par plusieurs délégations, dont la France et l'Allemagne. Cette impasse fait de la COP31 la plus longue de l'histoire et rappelle le précédent échec de la COP15 en 2009.",
+   "points_cles": [
+    "Le texte final de la COP31 ne mentionne pas les énergies fossiles, provoquant le rejet de l'UE et du Panama.",
+    "Murat Kurum a déclaré l'absence de consensus et le rejet du compromis.",
+    "La Chine a accepté la version finale, tandis que la France et l'Allemagne l'ont qualifiée d'inacceptable.",
+    "La COP31 devient la plus longue de l'histoire, soulignant les difficultés à obtenir un accord par consensus."
+   ],
+   "mots_cles": [
+    "COP31",
+    "consensus",
+    "énergies fossiles",
+    "Union européenne",
+    "Turquie",
+    "rejet"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "498a132a1644d68f75dad64f6e3fd1db",
+   "titre": "Désiré Doué souffre d'une rupture du ligament croisé antérieur du genou droit et devra être opéré \"d'ici la fin du mois\"",
+   "lien": "https://www.franceinfo.fr/sports/foot/psg/desire-doue-souffre-d-une-rupture-du-ligament-croise-anterieur-du-genou-droit-et-devra-etre-opere-d-ici-la-fin-du-mois_8294843.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-22T13:11",
+   "recap": "Le PSG a annoncé que l'attaquant Désiré Doué a subi une rupture du ligament croisé antérieur du genou droit lors du match de Ligue 1 contre Nice le 21 novembre. Il a été sorti sur civière à la 44e minute après une chute douloureuse. Le club a confirmé qu'une intervention chirurgicale est prévue d'ici la fin du mois, ce qui implique une absence de plusieurs mois. Cette blessure survient alors que d'autres attaquants du PSG, comme Khvicha Kvaratskhelia et Ousmane Dembélé, sont également blessés, mettant la défense de l'équipe en difficulté avant la rencontre contre Rome en Ligue des champions.",
+   "points_cles": [
+    "Rupture du ligament croisé antérieur du genou droit de Désiré Doué",
+    "Intervention chirurgicale prévue d'ici la fin du mois",
+    "Absence de plusieurs mois prévue",
+    "PSG déjà touché par d'autres blessures majeures"
+   ],
+   "mots_cles": [
+    "Désiré Doué",
+    "ligament croisé antérieur",
+    "PSG",
+    "Ligue 1",
+    "Ligue des champions"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "9ed0e4026e19151a0b5ccd681cd53676",
+   "titre": "Donald Trump reçoit les plus gros détenteurs de sa cryptomonnaie, qui l'a considérablement enrichi",
+   "lien": "https://www.franceinfo.fr/economie/bitcoin/donald-trump-recoit-les-plus-gros-detenteurs-de-sa-cryptomonnaie-qui-l-a-considerablement-enrichi_8294492.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-22T13:11",
+   "recap": "Le 22 novembre 2025, Donald Trump a organisé un gala au Trump Golf près de Washington pour recevoir les 185 plus gros détenteurs de sa cryptomonnaie, le Trump Coin, lancée en janvier 2025. Le président, qui avait qualifié les cryptomonnaies d’arnaque en 2021, est désormais un fervent défenseur du secteur et s’oppose à des régulations trop contraignantes. Selon les médias, le clan Trump aurait gagné environ 2 milliards de dollars grâce à des activités liées aux cryptomonnaies, notamment via une entreprise gérée par son fils Eric et un partenariat avec Steve Witkoff. Le Trump Coin aurait généré 630 millions de dollars de bénéfices pour Trump tout en faisant perdre près de 4 milliards de dollars à des investisseurs américains. En parallèle, le secteur a versé près de 200 millions de dollars aux campagnes politiques lors des élections de mi‑mandat. La soirée a été organisée discrètement pour éviter de mettre en lumière les liens entre le président et l’industrie lucrative des cryptomonnaies.",
+   "points_cles": [
+    "Gala du 22 novembre 2025 pour les détenteurs du Trump Coin",
+    "Trump passe de sceptique à défenseur des cryptomonnaies",
+    "Clan Trump aurait gagné 2 milliards via cryptomonnaies",
+    "Trump Coin a généré 630 millions de bénéfices pour Trump",
+    "Secteur a versé 200 millions aux campagnes politiques"
+   ],
+   "mots_cles": [
+    "Donald Trump",
+    "Trump Coin",
+    "cryptomonnaies",
+    "enrichissement",
+    "politique"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "7e6fc1b2f7f112f3463dcd6aae9b84f4",
+   "titre": "\"Je n'ai jamais reçu d'informations confidentielles\", affirme Marine Le Pen, au sujet du préfet Hugues Moutouh, soupçonné d'avoir renseigné le RN",
+   "lien": "https://www.franceinfo.fr/elections/presidentielle/direct-campagne-presidentielle-la-secretaire-generale-de-la-cfdt-marylise-leon-appelle-a-changer-la-date-pour-eviter-un-second-tour-le-2-mai_8294528.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-22T13:10",
+   "recap": "Marine Le Pen a déclaré, lors de l’émission « Franc‑Jeu » sur France 2, qu’elle n’avait jamais reçu ni demandé d’informations confidentielles concernant le préfet Hugues Moutouh, soupçonné d’avoir transmis des renseignements au Rassemblement national. Le préfet a annoncé sa mise en retrait et a dénoncé une « campagne de déstabilisation ». Le texte mentionne également des discussions sur la date de l’élection présidentielle, la CFDT et le Sénat demandant un décalage du second tour, ainsi que des déclarations de divers politiciens sur la primaire et la gauche. Aucun chiffre précis n’est fourni et les informations restent essentiellement des déclarations publiques.",
+   "points_cles": [
+    "Marine Le Pen nie toute relation avec le préfet Moutouh",
+    "Moutouh se retire et accuse une campagne de déstabilisation",
+    "La CFDT et le Sénat réclament un décalage du second tour",
+    "Des débats sur une primaire et la gauche se poursuivent"
+   ],
+   "mots_cles": [
+    "Marine Le Pen",
+    "Hugues Moutouh",
+    "préféré",
+    "déplacement du second tour",
+    "primaire"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "ba3420003ed152e39422791a67862ca4",
+   "titre": "Crise climatique : l'Union européenne \"s'oppose\" à l'adoption de la déclaration finale de la COP31, après près de deux jours de prolongations",
+   "lien": "https://www.franceinfo.fr/environnement/crise-climatique/cop-climat/direct-l-union-europeenne-s-oppose-a-l-adoption-de-la-declaration-finale-de-la-cop31-apres-pres-de-deux-jours-de-prolongations_8294819.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-22T13:10",
+   "recap": "La COP31 à Antalya, prolongée de près de 44 heures, n’a pas abouti à un accord final. Le projet de déclaration, révisé par les présidences turque et australienne, ne mentionne pas explicitement les énergies fossiles, ce qui a suscité l’opposition de l’Union européenne, représentée par le ministre irlandais Darragh O’Brien, ainsi que de la Suisse et des Îles Marshall. Le Ghana a changé de position pour soutenir l’adoption du texte, tandis que le Panama et d’autres pays restent contre. Le président turc Murat Kurum a qualifié l’échec d’une « occasion manquée ». La France et l’Allemagne ont dénoncé le texte comme insuffisant, tandis que l’Arabie Saoudite, le Pakistan et la Chine ont exprimé leur soutien ou leur inquiétude. L’avenir de la COP31 reste incertain, car l’absence d’accord sur le texte final pourrait compromettre la clôture du sommet.",
+   "points_cles": [
+    "COP31 prolongée de 44 h sans accord final",
+    "UE et autres pays opposés à l’absence de référence aux fossiles",
+    "Ghana a changé de position pour soutenir le texte",
+    "Président turc déplore l’échec",
+    "France et Allemagne critiquent le texte"
+   ],
+   "mots_cles": [
+    "COP31",
+    "Union européenne",
+    "énergies fossiles",
+    "prolongation",
+    "accord final"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "92b82f049185d124ce96fb1fc88a874c",
+   "titre": "L’horloge magique, l’énigme maths du « Monde » nᵒ 120",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/21/l-horloge-magique-l-enigme-maths-du-monde-n-120_6813959_1650684.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-22T13:09",
+   "recap": "L’horloge magique est un casse-tête proposé par Mickaël Delaunay, présenté dans le numéro 120 du magazine « Monde ». Le défi consiste à perdre collectivement la notion du temps tout en parvenant à ce que tous les participants se retrouvent à la même heure. Le texte ne fournit pas de détails supplémentaires sur les mécanismes du puzzle, les règles précises ou les participants impliqués. Aucun chiffre, acteur ou enjeu concret n’est mentionné. La suite attendue n’est pas décrite dans le texte fourni.",
+   "points_cles": [
+    "Défi de synchronisation temporelle",
+    "Proposé par Mickaël Delaunay",
+    "Présenté dans le numéro 120 du « Monde »"
+   ],
+   "mots_cles": [
+    "horloge magique",
+    "casse-tête",
+    "temps",
+    "synchronisation"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "bc0b4348febbbe5e8a03490199ef9fc1",
+   "titre": "Scandale de triche à l’IA en Corée du Sud : sous pression, le ministre de l’éducation démissionne",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/22/scandale-de-triche-a-l-ia-en-coree-du-sud-sous-pression-le-ministre-de-l-education-demissionne_6814190_3210.html",
+   "source": "Le Monde",
+   "domaine": "Tech",
+   "partiel": true,
+   "date": "2026-11-22T13:09",
+   "recap": "Un scandale de triche à l’IA a éclaté en Corée du Sud, impliquant un candidat à un concours des finances publiques. Les révélations ont conduit le gouvernement à lancer une vaste chasse aux fraudeurs quelques jours avant le Suneung, l’examen décisif pour les lycéens. Le ministre de l’éducation a démissionné sous pression.",
+   "points_cles": [
+    "Scandale de triche à l’IA",
+    "Révélations avant le Suneung",
+    "Chasse aux fraudeurs lancée",
+    "Démission du ministre de l’éducation"
+   ],
+   "mots_cles": [
+    "triche",
+    "IA",
+    "Suneung",
+    "finances publiques",
+    "ministre",
+    "corruption"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "09358d63ba5f6a9d2eb18ebe05e4118b",
+   "titre": "EN DIRECT, guerre en Ukraine : quatorze personnes portées disparues à la suite de l’attaque par un drone russe d’un immeuble d’habitation près de Kiev",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/22/en-direct-guerre-en-ukraine-quatorze-personnes-portees-disparues-a-la-suite-de-l-attaque-d-un-drone-russe-sur-un-immeuble-d-habitation-pres-de-kiev_6814183_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-22T13:08",
+   "recap": "Une attaque de drone russe a frappé un immeuble d’habitation de cinq étages dans le raïon de Vychhorod, près de Kiev, durant la nuit de samedi à dimanche. Le chef de l’administration militaire de l’oblast a confirmé les dégâts et un incendie qui s’est déclaré à l’issue de l’impact. Quatorze personnes ont été portées disparues suite à l’incident. Aucun autre détail sur les victimes ou l’ampleur des dommages n’a été fourni.",
+   "points_cles": [
+    "Attaque de drone russe dans le raïon de Vychhorod",
+    "Immeuble d’habitation de cinq étages endommagé",
+    "Incendie déclenché après l’impact",
+    "Quatorze personnes portées disparues"
+   ],
+   "mots_cles": [
+    "attaque de drone",
+    "Vychhorod",
+    "Kiev",
+    "incendie",
+    "disparus"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "fa3eccea3caefd2d09885d8de85726d4",
+   "titre": "Cisjordanie : enquête ouverte par les autorités israéliennes après des attaques de colons ; Gadi Eisenkot dénonce un « terrorisme juif »",
+   "lien": "https://www.lemonde.fr/guerre-au-proche-orient/article/2026/11/22/cisjordanie-enquete-ouverte-par-les-autorites-israeliennes-apres-des-attaques-de-colons-gadi-eisenkot-denonce-un-terrorisme-juif_6814204_6325529.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-22T13:08",
+   "recap": "Dans la nuit de samedi à dimanche, des véhicules et biens palestiniens ont été incendiés et vandalisés dans quatre villages de Cisjordanie, territoire palestinien occupé par Israël depuis 1967. Les autorités israéliennes ont ouvert une enquête après ces attaques de colons. Gadi Eisenkot a dénoncé un « terrorisme juif ».",
+   "points_cles": [
+    "Incendie et vandalisme dans quatre villages de Cisjordanie",
+    "Autorités israéliennes ouvrent enquête",
+    "Gadi Eisenkot dénonce \"terrorisme juif\"",
+    "Cisjordanie occupée par Israël depuis 1967"
+   ],
+   "mots_cles": [
+    "Cisjordanie",
+    "incendie",
+    "vandalisation",
+    "Gadi Eisenkot",
+    "autorités israéliennes"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "1ec305623c9a67de4ad9038d26eab89f",
+   "titre": "Les mystères de Mercure, l’étrange planète du Système solaire, que la mission BepiColombo devrait lever",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/21/les-mysteres-de-mercure-l-etrange-planete-du-systeme-solaire-que-la-mission-bepicolombo-devrait-lever_6814059_1650684.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-22T13:08",
+   "recap": "Les deux sondes de la mission BepiColombo, lancées par l'Europe et le Japon, ont mis fin à un trajet de huit ans pour atteindre l'orbite de Mercure. Elles sont désormais en orbite autour de la planète et devraient permettre aux scientifiques de résoudre les nombreuses énigmes qui entourent Mercure, une petite planète du Système solaire aux caractéristiques uniques.",
+   "points_cles": [
+    "BepiColombo : mission européano-japonaise",
+    "Deux sondes en orbite après huit ans de transit",
+    "Objectif : résoudre les énigmes de Mercure",
+    "Mercure : petite planète aux caractéristiques uniques"
+   ],
+   "mots_cles": [
+    "BepiColombo",
+    "Mercure",
+    "sondes",
+    "mission",
+    "énigmes"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8bb25fd7946b06f172611e78256ddcc9",
+   "titre": "Comme aux Etats-Unis, les victimes françaises d’accidents de la route sont de plus en plus courtisées par les avocats",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/22/comme-aux-etats-unis-les-victimes-francaises-d-accidents-de-la-route-sont-de-plus-en-plus-courtisees-par-les-avocats_6814181_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-22T13:07",
+   "recap": "En France, le coût de l’indemnisation des victimes d’accidents de la route a triplé au cours des vingt dernières années. Les victimes reçoivent des compensations plus importantes, mais les assureurs critiquent une tendance à la judiciarisation excessive, comparant la situation à celle des États-Unis.",
+   "points_cles": [
+    "Coût de l’indemnisation triplé en 20 ans",
+    "Victimes gagnent plus",
+    "Assureurs dénoncent judiciarisation excessive",
+    "Comparaison aux États-Unis"
+   ],
+   "mots_cles": [
+    "indemnisation",
+    "accidents de la route",
+    "coût",
+    "judiciarisation",
+    "assureurs",
+    "États-Unis"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "9358ead3e131830bb1b420f93128dd6c",
+   "titre": "Le Groupe Castel, empire discret de la bière et du vin, secoué par une guerre de pouvoir",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/22/le-groupe-castel-empire-discret-de-la-biere-et-du-vin-secoue-par-une-guerre-de-pouvoir_6814179_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-22T13:07",
+   "recap": "Le Groupe Castel, un géant français des boissons, célèbre son 100e anniversaire. Un conflit de gouvernance secoue l’entreprise, où l’on dispute l’héritage spirituel et financier de son fondateur, Pierre Castel.",
+   "points_cles": [
+    "Conflit de gouvernance au sein du Groupe Castel",
+    "Dispute sur l’héritage de Pierre Castel",
+    "Célébration du 100e anniversaire du groupe"
+   ],
+   "mots_cles": [
+    "Groupe Castel",
+    "Pierre Castel",
+    "gouvernance",
+    "héritage",
+    "anniversaire"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "17fefbe99315506be73b61e23d6d8c18",
+   "titre": "Arrestations de l’ICE dans un aéroport : le gouverneur de Washington dénonce une police de l’immigration « hors de contrôle »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/22/arrestations-de-l-ice-dans-un-aeroport-le-gouverneur-de-washington-denonce-une-police-de-l-immigration-hors-de-controle_6814205_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-22T13:07",
+   "recap": "Deux personnes ont été interpellées par des agents masqués à l’aéroport de Seattle‑Tacoma, ce qui a provoqué l’indignation et relancé le débat sur les méthodes de la police de l’immigration américaine. Le gouverneur de Washington a dénoncé la police de l’immigration comme « hors de contrôle ».",
+   "points_cles": [
+    "Interpellation de deux personnes à l’aéroport de Seattle‑Tacoma",
+    "Agents masqués impliqués",
+    "Indignation publique",
+    "Débat sur les méthodes de la police de l’immigration",
+    "Réaction du gouverneur de Washington"
+   ],
+   "mots_cles": [
+    "Seattle‑Tacoma",
+    "agents masqués",
+    "police de l’immigration",
+    "indignation",
+    "gouverneur de Washington"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "d14957685c3508727ac9fb1f15219c92",
+   "titre": "Présidentielle 2027 : Marine Le Pen refuse le risque des déplacements à l’étranger",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/22/presidentielle-2027-marine-le-pen-refuse-le-risque-des-deplacements-a-l-etranger_6814211_823448.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-22T13:06",
+   "recap": "Marine Le Pen, candidate du Rassemblement national pour la présidentielle de 2027, a décidé de ne pas effectuer de déplacements internationaux avant le scrutin des 18 avril et 2 mai, à l'exception de Bruxelles. Ses équipes estiment qu'elle n'a pas besoin de ces déplacements pour se forger une stature internationale, qu'elles considèrent déjà acquise.",
+   "points_cles": [
+    "Marine Le Pen ne fera pas de déplacements internationaux avant les élections de 2027.",
+    "Bruxelles reste la seule destination internationale prévue.",
+    "Les équipes de Le Pen estiment que sa stature internationale est déjà acquise.",
+    "Cette décision contraste avec la stratégie de 2022.",
+    "Le choix vise à concentrer l'effort sur le territoire français."
+   ],
+   "mots_cles": [
+    "Marine Le Pen",
+    "Rassemblement national",
+    "déplacements internationaux",
+    "Bruxelles",
+    "stratégie présidentielle"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "932cbba2d911831cf6dfc7ac125f146b",
+   "titre": "Le « racisme anti-Blancs », matrice à fantasmes utilisée par l’extrême droite",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/22/le-racisme-anti-blancs-matrice-a-fantasmes-utilisee-par-l-extreme-droite_6814187_3224.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-22T13:06",
+   "recap": "Le texte évoque une tentative de l’extrême droite française d’inverser les rapports de domination en popularisant le concept de « racisme anti-Blancs », qui a émergé chez les identitaires dans les années 1970.",
+   "points_cles": [
+    "L’extrême droite cherche à inverser les rapports de domination.",
+    "Le concept de racisme anti-Blancs vient des identitaires des années 1970.",
+    "Il est utilisé comme une matrice à fantasmes.",
+    "Il vise à populariser cette idée.",
+    "Il s’inscrit dans une stratégie de l’extrême droite.",
+    "Il s’appuie sur des récits de domination inversée."
+   ],
+   "mots_cles": [
+    "racisme anti-Blancs",
+    "extrême droite",
+    "identitaires",
+    "domination inversée",
+    "matrice à fantasmes"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "7f7860bea3f7391516f2576540d95c26",
+   "titre": "« Le paradoxe est saisissant : les Français réclament plus de services publics ? On leur propose moins d’Etat »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/22/le-paradoxe-est-saisissant-les-francais-reclament-plus-de-services-publics-on-leur-propose-moins-d-etat_6814195_3232.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-22T13:06",
+   "recap": "Julien Moulard, urbaniste et ancien dirigeant de L’Europe des projets architecturaux et urbains, a dissout son groupement en juillet. Dans une tribune au « Monde », il s’alarme d’une réforme de l’État qui, sous couvert d’efficacité, fragilise des services publics déjà exangues.",
+   "points_cles": [
+    "Moulard dissout son groupement en juillet",
+    "Il critique la réforme de l’État",
+    "La réforme est présentée comme efficace",
+    "Elle fragilise les services publics",
+    "Les services publics sont déjà exangues"
+   ],
+   "mots_cles": [
+    "Julien Moulard",
+    "réforme de l’État",
+    "services publics",
+    "efficacité",
+    "exangues"
+   ],
+   "nature": "analyse"
+  },
+  {
+   "id": "cefcbdc6ca7c9ddddaa9cafb1b925a41",
+   "titre": "La défiance contre les data centers devient mondiale, de l’Inde au Chili en passant par l’Irlande ou le Japon",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/22/data-centers-la-defiance-monte-partout-dans-le-monde-de-l-inde-au-chili-en-passant-par-l-irlande-ou-le-japon_6814186_3210.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-22T13:05",
+   "recap": "La défiance envers les data centers s’étend mondialement, de l’Inde au Chili, en passant par l’Irlande et le Japon. Ces installations provoquent des inquiétudes similaires partout : exploitation excessive des ressources naturelles, consommation d’énergie élevée et manque de transparence. Bien que ces préoccupations soient partagées, les intérêts économiques liés aux data centers limitent souvent la résistance locale.",
+   "points_cles": [
+    "La défiance est mondiale",
+    "Les data centers consomment beaucoup d’énergie",
+    "Ils exploitent intensivement les ressources naturelles",
+    "L’opacité est un problème majeur",
+    "Les intérêts économiques freinent la résistance"
+   ],
+   "mots_cles": [
+    "data centers",
+    "défiance mondiale",
+    "consommation d’énergie",
+    "exploitation des ressources",
+    "opacité"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8ff0f4f4304a0bd29b07a004cde1b91c",
+   "titre": "Fuites de Beauvau vers le RN : d’un email trouvé au domicile de Frédéric Chatillon aux suspicions visant le préfet Hugues Moutouh, itinéraire d’une enquête sensible",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/21/fuites-de-beauvau-vers-le-rn-d-un-email-trouve-au-domicile-d-un-ami-de-marine-le-pen-aux-suspicions-visant-le-prefet-moutouh-itineraire-d-une-enquete-sensible_6814067_3224.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-22T13:05",
+   "recap": "Les fuites d’informations confidentielles vers le Rassemblement National ont été mises en lumière après la découverte d’un courriel provenant d’une fonctionnaire du ministère de l’intérieur, trouvé au domicile à Rome de Frédéric Chatillon, proche de Marine Le Pen. Le préfet de la région Centre‑Val de Loire, Hugues Moutouh, est soupçonné d’être la source des fuites. Suite à ces soupçons, le préfet a demandé sa mise en retrait. L’enquête est considérée comme sensible et continue d’être menée par les autorités compétentes.",
+   "points_cles": [
+    "Courriel trouvé à Rome de Frédéric Chatillon",
+    "Préfet Hugues Moutouh soupçonné de fuite",
+    "Moutouh demande mise en retrait",
+    "Enquête en cours"
+   ],
+   "mots_cles": [
+    "fuite d’information",
+    "Rassemblement National",
+    "Frédéric Chatillon",
+    "Hugues Moutouh",
+    "courriel",
+    "enquête"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "85153ee0081d625071a819acdca09055",
+   "titre": "Présidentielle 2027 : découvrez ce que disent les sondages avec notre agrégateur",
+   "lien": "https://www.lemonde.fr/les-decodeurs/article/2026/11/22/presidentielle-2027-decouvrez-ce-que-disent-les-sondages-avec-notre-agregateur_6814213_4355770.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-22T13:05",
+   "recap": "Le texte présente un agrégateur de sondages pour la présidentielle 2027, permettant d’explorer les tendances issues des nombreuses enquêtes d’opinion menées pour le premier et le second tour de l’élection.",
+   "points_cles": [
+    "Agrégateur de sondages disponible",
+    "Analyse des tendances pour 2027",
+    "Enquêtes couvrant premier et second tour"
+   ],
+   "mots_cles": [
+    "présidentielle 2027",
+    "sondages",
+    "agrégateur",
+    "tendances",
+    "enquêtes"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "1d672f12c4099b478b26e9a608d7fd0a",
+   "titre": "COP31 : la présidence turque ​annonce le rejet de sa proposition de décision finale, qui ne mentionnait pas la sortie des énergies fossiles",
+   "lien": "https://www.lemonde.fr/climat/article/2026/11/22/climat-l-ue-et-ses-membres-s-opposent-a-l-adoption-de-la-decision-finale-proposee-a-la-cop31_6814199_1652613.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-22T13:04",
+   "recap": "La COP31, présidée par la Turquie, a vu l'annonce d'un rejet de la proposition de décision finale qui ne mentionnait pas la sortie des énergies fossiles. Le ministre du climat irlandais, Darragh O’Brien, a exprimé son refus de soutenir une décision qui omet les combustibles fossiles, considérés comme le principal moteur du changement climatique. L'Irlande, qui assure actuellement la présidence du Conseil de l’Union européenne, a ainsi souligné l'importance de traiter la question des énergies fossiles dans le cadre de la COP31.",
+   "points_cles": [
+    "La COP31 est présidée par la Turquie.",
+    "La proposition finale ne mentionne pas la sortie des énergies fossiles.",
+    "Le ministre irlandais Darragh O’Brien rejette cette proposition.",
+    "L'Irlande assure la présidence du Conseil de l’Union européenne.",
+    "Le rejet souligne l'importance des combustibles fossiles dans le changement climatique."
+   ],
+   "mots_cles": [
+    "COP31",
+    "Turquie",
+    "énergies fossiles",
+    "Irlande",
+    "présidence EU"
+   ],
+   "nature": "fait"
+  }
+ ]
 }
