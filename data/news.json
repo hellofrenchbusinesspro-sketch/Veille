@@ -1,6 +1,623 @@
 {
- "maj": "2026-11-22T13:15",
+ "maj": "2026-11-23T15:50",
  "articles": [
+  {
+   "id": "0a2f9ae42c5a3bab6ccb61b3f8543868",
+   "titre": "Vous pouvez tester la conduite autonome de Xpeng",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/actualites/equipements-et-services/353389-vous-pouvez-tester-la-conduite-autonome-de-xpeng/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-23T15:50",
+   "recap": "Xpeng prévoit de déployer son système de conduite semi‑autonome XNGP en Europe à partir de 2027 et lance une phase de tests ouverts au grand public. Au Mondial de l'Auto, la société a présenté XNGP ainsi que d’autres technologies comme un drone, un robot et des processeurs, se définissant comme une entreprise de \"Physical AI\" plutôt que constructeur automobile. Une campagne d’essais a d’abord été ouverte aux journalistes, puis étendue au public, mais les essais ne seront disponibles qu’à la concession parisienne située au 10 boulevard Gouvion‑Saint‑Cyr (17ᵉ). L’objectif est de démontrer la technologie et de recueillir les retours des utilisateurs. XNGP repose uniquement sur des caméras et devrait être suivi par des offres similaires chez d’autres constructeurs chinois ainsi que chez BMW et Mercedes. La date de lancement commercial en Europe est prévue pour 2027.",
+   "points_cles": [
+    "Xpeng lance des essais publics de son système semi‑autonome XNGP en 2027 en Europe.",
+    "Les essais sont limités à la concession parisienne du 10 boulevard Gouvion‑Saint‑Cyr.",
+    "XNGP utilise uniquement des caméras pour la conduite autonome.",
+    "Xpeng se présente comme une entreprise de \"Physical AI\" et non comme constructeur automobile.",
+    "Des systèmes similaires sont attendus chez d’autres constructeurs chinois, BMW et Mercedes."
+   ],
+   "mots_cles": [
+    "Xpeng",
+    "XNGP",
+    "conduite semi‑autonome",
+    "tests publics",
+    "Europe 2027"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "734668ad4448f435425947c4eb778801",
+   "titre": "Jusqu'à 5 000 € de remise : Leapmotor casse les prix de ses voitures électriques pendant le Black Friday",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/bons-plans/evenement-promotionnel/352940-jusqua-5-000-e-de-remise-leapmotor-casse-les-prix-de-ses-voitures-electriques-pendant-le-black-friday/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-23T15:50",
+   "recap": "Leapmotor, distribué par Stellantis, lance une promotion Black Friday jusqu'au 28 novembre avec jusqu'à 5 000 € de remise sur une sélection de modèles en stock, couvrant toute la gamme électrique, y compris les nouveautés de l'année. La citadine T03 est proposée à 17 210 € (ou 149 € par mois sans apport) avec 275 km d'autonomie WLTP. Le SUV urbain B03X débute à 23 900 € et offre deux batteries (292 ou 382 km d'autonomie). La compacte B05 est en promo à 25 900 €, offrant 401 km (ou 482 km) d'autonomie et une recharge DC 140/168 kW. Le SUV familial C10 coûte 39 530 € avec 510 km d'autonomie et recharge 180 kW. Le SUV compact B10, premier modèle chinois à obtenir l'éco‑score en France, bénéficie d'une remise et d'une prime CEE de 3 750 €, le faisant partir à 25 750 € pour 400 km d'autonomie (450 km avec batterie plus grande).",
+   "points_cles": [
+    "Leapmotor propose jusqu'à 5 000 € de remise jusqu'au 28 novembre.",
+    "Toutes les gammes électriques, y compris les nouveaux modèles, sont concernées.",
+    "La T03 est à 17 210 €, le B03X à 23 900 €, la B05 à 25 900 € en promo.",
+    "Le B10 bénéficie d'une remise + prime CEE, partant à 25 750 €.",
+    "Les autonomies varient de 275 km à 510 km selon les modèles."
+   ],
+   "mots_cles": [
+    "Leapmotor",
+    "Black Friday",
+    "remise",
+    "voitures électriques",
+    "autonomie",
+    "Stellantis"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "f71b47aae07181e7b52093f7da069d00",
+   "titre": "Black Friday Week : les meilleures offres du lundi 23 novembre (EN DIRECT)",
+   "lien": "https://www.numerama.com/tech/2382555-black-friday-week-nos-meilleures-trouvailles-du-lundi-23-novembre-mises-a-jour-en-direct.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-23T15:49",
+   "recap": "Le texte présente les meilleures offres du Black Friday Week du lundi 23 novembre, en détaillant les réductions et caractéristiques de plusieurs produits : un vélo électrique Lidl, un jeu vidéo Rayman, des sets LEGO, des wearables comme l’Oura Ring et la Google Pixel Watch, des lunettes Meta Ray‑Ban, un téléviseur Sony Bravia, des écouteurs Shokz, un abonnement Nvidia GeForce Now, et un jeu vidéo Control Resonant. Les prix originaux et les remises sont indiqués, ainsi que des informations techniques ou de contenu additionnel pour chaque article. Les offres varient de 20 % à 51 % de réduction, couvrant des catégories allant du sport à la technologie en passant par le jeu vidéo.",
+   "points_cles": [
+    "Vélo électrique Lidl à 899 € (‑25 %)",
+    "Rayman 30th Anniversary à 17,11 € (‑51 %)",
+    "LEGO Minas Tirith à 583,99 € (‑10 %)",
+    "Oura Ring 5 à 399 € (‑20 %)",
+    "Control Resonant à 59,99 € (‑40 %)"
+   ],
+   "mots_cles": [
+    "Black Friday",
+    "réduction",
+    "Lidl",
+    "LEGO",
+    "Oura Ring"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "29b6fd8d3ec572545f6eca701541ca80",
+   "titre": "La carte Avantage de la SNCF tombe en promo dès aujourd’hui pour le Black Friday",
+   "lien": "https://www.numerama.com/vroom/2382351-la-carte-avantage-de-la-sncf-tombe-en-promo-des-aujourdhui-pour-le-black-friday.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-23T15:49",
+   "recap": "Le Black Friday 2026 voit Trainline proposer la carte Avantage SNCF à 44 € (au lieu de 49 €) grâce à un code promo BLACKFRIDAY26, valable jusqu’au 25 novembre et limité à 6 000 codes. La carte, disponible en versions Jeune, Adulte et Senior, offre 30 % de réduction sur les TGV Inoui et Intercités, 25‑50 % sur les TER, des plafonds de prix en 2ᵈᵉ classe (49 €, 69 €, 89 € selon la durée) et 15 % de réduction sur le bar TGV et certains services. Elle est valable un an, échangeable et remboursable sans frais jusqu’à 7 jours avant le départ. Trainline délivre la carte sous forme PDF/QR et elle peut être utilisée sur toutes les plateformes SNCF, bien qu’elle ne se dématérialise pas automatiquement dans SNCF Connect. L’offre est présentée comme rentable dès le troisième trajet, mais les réductions réelles varient selon les lignes.",
+   "points_cles": [
+    "Trainline propose la carte Avantage à 44 € pour le Black Friday 2026.",
+    "La carte offre 30 % de réduction sur les TGV et 25‑50 % sur les TER.",
+    "Des plafonds de prix garantissent des billets sous 100 € sur les grandes lignes.",
+    "La carte est valable un an, échangeable et remboursable sans frais jusqu’à 7 jours avant le départ.",
+    "L’offre est limitée à 6 000 codes et s’arrête le 25 novembre 2026."
+   ],
+   "mots_cles": [
+    "Trainline",
+    "carte Avantage",
+    "Black Friday",
+    "réduction",
+    "plafonds de prix"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "c1006e8ff9719bc22d1cbd1bae36a798",
+   "titre": "Toyota imagine un mini-scooter électrique qui se plie et se recharge dans votre voiture",
+   "lien": "https://www.bevolt.com/fr-fr/deux-roues/actualites/scooters-electriques/353350-toyota-imagine-un-mini-scooter-electrique-qui-se-plie-et-se-recharge-dans-votre-voiture/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-23T15:49",
+   "recap": "Toyota a présenté le BKE Concept, un mini‑scooter électrique pliant conçu pour se glisser dans le coffre d’une Toyota GR86 et se recharger via les prises embarquées de la voiture. Le scooter se replie en environ trente secondes et peut être utilisé pour les courses, le camping ou les derniers kilomètres d’un trajet. Aucun détail technique (puissance, batterie, autonomie, poids, prix) n’a été communiqué et aucune date de commercialisation n’est annoncée. Le concept a été dévoilé lors de la relance de la marque Scion, présentée comme un laboratoire de mobilité expérimentale. Toyota a déjà exploré d’autres petites mobilités, comme un quadricycle électrique et un vélo cargo en France.",
+   "points_cles": [
+    "Mini‑scooter pliant rechargeable via la voiture",
+    "Pas de détails techniques publiés",
+    "Pas de calendrier de commercialisation",
+    "Concept présenté dans le cadre de la relance de Scion",
+    "Toyota a d’autres projets de petites mobilités"
+   ],
+   "mots_cles": [
+    "Toyota",
+    "BKE Concept",
+    "mini‑scooter",
+    "recharge",
+    "Scion"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "191068da243d95b2f2b79cee351aaeae",
+   "titre": "DIRECT - Navires coulés par l'Ukraine en Libye: «L'attaque ne restera pas sans réponse», avertit l'ambassadeur russe à Tripoli",
+   "lien": "https://www.rfi.fr/fr/europe/20261123-direct-l-ukraine-dit-avoir-attaqu%C3%A9-deux-bateaux-russes-pr%C3%A8s-des-c%C3%B4tes-de-la-libye",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-23T15:48",
+   "recap": "Le 22‑23 novembre, l’Ukraine a revendiqué deux attaques contre des navires russes près de la côte libyenne, dont le Merkury, symbole de la marine russe. L’ambassadeur russe à Tripoli, Haydar Aghanine, a déclaré que ces attaques ne resteraient pas sans réponse et a accusé Kiev de compter sur un appui occidental. En parallèle, la nuit du 22 au 23 novembre, des frappes russes à Kiev ont fait au moins 15 morts, dont 11 dans un immeuble. La Russie a intensifié ses attaques sur la capitale ukrainienne ces six derniers mois, tandis que l’UE propose d’interdire la compétition des athlètes russes et de bannir les symboles russes. La Finlande a convoqué l’ambassadeur russe après une violation présumée de son espace aérien, et l’Estonie a fermé ses frontières avec la Russie, accusée par Moscou d’autoriser l’Ukraine à attaquer depuis son espace aérien.",
+   "points_cles": [
+    "Ukraine revendique deux attaques contre navires russes en Libye",
+    "Ambassadeur russe à Tripoli avertit d’une réponse",
+    "Frappes russes à Kiev causent 15 morts",
+    "UE propose sanctions sportives contre la Russie",
+    "Finlande et Estonie réagissent à des violations d’espace aérien"
+   ],
+   "mots_cles": [
+    "Ukraine",
+    "Russie",
+    "Libye",
+    "Navires",
+    "Frappes",
+    "Sanctions"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "e05b1e41bfbf7292e9d232e7dac7b050",
+   "titre": "Irak: opération anticorruption à Jurf al-Sakhr, fief des Kataëb Hezbollah",
+   "lien": "https://www.rfi.fr/fr/moyen-orient/20261123-irak-op%C3%A9ration-anticorruption-%C3%A0-jurf-al-sakhr-fief-des-kata%C3%ABb-hezbollah",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-23T15:48",
+   "recap": "Le gouvernement irakien a annoncé le 23 novembre la saisie de 1,7 million de dollars dans le cadre d’une opération anti‑corruption déjà responsable de 780 millions de dollars. La campagne, qui a permis la saisie de deux milliards et demi de dollars, vise des personnalités de premier plan, notamment parlementaires, hauts fonctionnaires et hommes d’affaires. Elle se concentre sur Jurf el‑Sakhr, un territoire de 60 km au sud de Bagdad, bastion des Kataëb Hezbollah, milice iranienne qui refuse de soumettre ses armes au gouvernement. Le porte‑parole affirme que les fonds saisies seront placés sur un fonds pour l’avenir des générations et pour soutenir les recettes pétrolières et le Trésor public. Les forces de sécurité accusent les Kataëb Hezbollah d’un trafic de pétrole depuis plus de dix ans, accusation que la milice qualifie de mensonge.",
+   "points_cles": [
+    "Saisie de 1,7 M$ dans le cadre d’une campagne anti‑corruption",
+    "Opération concentrée sur Jurf el‑Sakhr, bastion des Kataëb Hezbollah",
+    "Objectif de couper les financements de la milice iranienne",
+    "Fonds destiné à soutenir les recettes pétrolières et le Trésor public",
+    "Accusations de trafic pétrolier depuis plus de dix ans"
+   ],
+   "mots_cles": [
+    "Irak",
+    "anti‑corruption",
+    "Kataëb Hezbollah",
+    "Jurf el‑Sakhr",
+    "saisie",
+    "financement"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "d239fba60aa65a59fdf6e1e34eeb6f37",
+   "titre": "À Espelette, les producteurs de piment veulent pouvoir irriguer leurs sols en cas de sécheresse",
+   "lien": "https://www.franceinfo.fr/economie/emploi/metiers/agriculture/a-espelette-les-producteurs-de-piment-veulent-pouvoir-irriguer-leurs-sols-en-cas-de-secheresse_8296193.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-23T15:47",
+   "recap": "À Espelette, producteurs de piment d'Espelette font face à une sécheresse forte qui menace la récolte. L'irrigation, normalement interdite par le cahier des charges de l'AOP, a été autorisée exceptionnellement pour limiter les pertes. Les agriculteurs, comme Ramuntxo Lecuona, constatent que l'irrigation a permis d'obtenir des fruits plus beaux et mieux développés. En plus de la sécheresse, un champignon a attaqué les plants, réduisant le rendement. Les producteurs demandent désormais un changement du cahier des charges afin de pouvoir irriguer leurs cultures en cas de manque d'eau.",
+   "points_cles": [
+    "Sécheresse forte menace la récolte de piment d'Espelette",
+    "Irrigation autorisée exceptionnellement pour limiter les pertes",
+    "Produit des fruits plus beaux grâce à l'irrigation",
+    "Champignon et canicules aggravent les pertes",
+    "Demande de modification du cahier des charges de l'AOP"
+   ],
+   "mots_cles": [
+    "piment d'Espelette",
+    "sécheresse",
+    "irrigation",
+    "AOP",
+    "récolte"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "b4359f70784a66e63189a0a07be7271a",
+   "titre": "L'ostréiculture sur l'archipel de Bréhat, une tradition au rythme des marées",
+   "lien": "https://www.franceinfo.fr/france/bretagne/cotes-d-armor/l-ostreiculture-sur-l-archipel-de-brehat-une-tradition-au-rythme-des-marees_8296205.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-23T15:47",
+   "recap": "L’ostréiculture de l’archipel de Bréhat, pratiquée depuis le XVIIᵉ siècle, suit le rythme des marées. Une famille d’ostréiculteurs, dont François Lemoigne et Alexandre Bechrir, travaille sur cinq hectares, récoltant les huîtres à marée basse, les lavant, les triant et les calibrant pour les ventes d’automne et d’hiver. La production est continue toute l’année, avec des ventes à Lannion et un marché local apprécié par les clients. L’histoire de l’archipel est marquée par une période de pêche à l’Islande (1870‑1920) qui a coûté 2 000 disparus, et par une pêche au homard en déclin. Le métier reste une passion, offrant un cadre paisible et un lien fort avec la nature.",
+   "points_cles": [
+    "Ostréiculture rythmée par les marées depuis le XVIIᵉ siècle",
+    "Récolte, lavage, tri et vente toute l’année",
+    "Période de pêche à l’Islande (1870‑1920) avec 2 000 disparus",
+    "Déclin de la pêche au homard",
+    "Clients satisfaits à Lannion"
+   ],
+   "mots_cles": [
+    "ostréiculture",
+    "marées",
+    "archipel de Bréhat",
+    "pêche à l’Islande",
+    "vente d’huîtres"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "6dd3ddc0c1cfc95c2f1366bbe9c60c6d",
+   "titre": "Origines, objectifs, calendrier… Cinq questions sur la \"règle d'or\" qu'Emmanuel Macron veut mettre en place",
+   "lien": "https://www.franceinfo.fr/economie/budget/origines-objectifs-calendrier-quatre-questions-sur-la-regle-d-or-qu-emmanuel-macron-veut-mettre-en-place_8296010.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-23T15:46",
+   "recap": "Le président Emmanuel Macron envisage d’inscrire une règle d’or budgétaire dans la constitution afin de contraindre les gouvernements à adopter des budgets équilibrés. Cette règle, déjà proposée en 2011 par le gouvernement de François Fillon, fixerait des plafonds de dépenses sur plusieurs années et obligerait les budgets annuels à rester en équilibre, sous peine de censure par le Conseil constitutionnel. Elle viserait à rassurer les marchés, réduire le coût de l’emprunt et contenir le déficit qui dépasse 5 % du PIB et la dette proche de 120 % du PIB. Le texte a déjà été voté par le Sénat et l’Assemblée, et doit être adopté par le Congrès avec une majorité des trois cinquièmes. Le président prévoit de convoquer le Congrès en janvier pour le vote, avec la logistique déjà en cours de préparation.",
+   "points_cles": [
+    "Macron veut une règle d’or budgétaire pour équilibrer les finances publiques.",
+    "La règle fixerait des plafonds de dépenses sur plusieurs années.",
+    "Le texte a déjà été voté par le Sénat et l’Assemblée.",
+    "Le vote final nécessite une majorité des trois cinquièmes au Congrès.",
+    "Le calendrier prévoit une convocation du Congrès en janvier 2024."
+   ],
+   "mots_cles": [
+    "règle d’or budgétaire",
+    "déficit",
+    "dette publique",
+    "Congrès",
+    "Macron"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "7e07b0131aeefea7340fd64bfdcf2c1e",
+   "titre": "Vous êtes maire et vous recevez de nombreuses sollicitations de candidats à la présidentielle pour obtenir votre parrainage ? Racontez-nous !",
+   "lien": "https://www.franceinfo.fr/elections/appel-a-temoignages-vous-etes-maire-et-vous-recevez-de-nombreuses-sollicitations-de-candidats-a-la-presidentielle-pour-obtenir-votre-parrainage-racontez-nous_8296022.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-23T15:46",
+   "recap": "À cinq mois de l’élection présidentielle, près de 40 candidats ont déclaré leur intention de se présenter. Pour valider leur participation, chacun doit recueillir 500 signatures d’élus (maires, députés, sénateurs, etc.). Au total, 42 000 élus peuvent offrir leur signature. Selon une étude de l’Association des maires de France, 48,3 % des maires déclarent refuser de parrainer un candidat, notamment les maires de petites communes qui craignent d’être perçus comme soutenant un parti. Le Conseil constitutionnel rend public la liste des parrainages depuis 2016, ce qui alimente la prudence des élus.",
+   "points_cles": [
+    "40 candidats en lice",
+    "500 signatures requises par candidat",
+    "42 000 élus disponibles",
+    "48,3 % des maires refusent de parrainer",
+    "Liste publique des parrainages depuis 2016"
+   ],
+   "mots_cles": [
+    "présidence",
+    "parrainage",
+    "élus",
+    "maires",
+    "signature"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "0214c179d7e2f74fff77e12ff8f8025c",
+   "titre": "Le député insoumis Éric Coquerel se dit \"fondamentalement opposé\" au projet d'instauration d'une \"règle d'or\" budgétaire",
+   "lien": "https://www.franceinfo.fr/economie/le-depute-insoumis-eric-coquerel-se-dit-fondamentalement-oppose-au-projet-d-instauration-d-une-regle-d-or-budgetaire_8296287.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-23T15:46",
+   "recap": "Le député insoumis Éric Coquerel, président de la commission des Finances de l’Assemblée nationale, a déclaré le 23 novembre 2023 qu’il était « fondamentalement opposé » au projet d’instauration d’une règle d’or budgétaire proposé par le président Emmanuel Macron. Selon Coquerel, cette règle, qui viserait à limiter le déficit et l’endettement de l’État, constituerait une constitutionnalisation d’une politique économique et imposerait une vision comptable du budget, ce qu’il juge contraire à la souveraineté du suffrage universel et des représentants du peuple. Il critique également le timing de la proposition, affirmant que le président a aggravé le déficit de façon abyssale et impose à ses successeurs de réparer rapidement ce qu’il a lui‑même provoqué.",
+   "points_cles": [
+    "Coquerel oppose la règle d’or budgétaire",
+    "Il la voit comme une constitutionnalisation de la politique économique",
+    "Il critique le timing et l’impact du déficit actuel",
+    "Il défend la souveraineté du suffrage universel"
+   ],
+   "mots_cles": [
+    "Éric Coquerel",
+    "règle d’or budgétaire",
+    "Emmanuel Macron",
+    "déficit",
+    "constitutionnalisation"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "119b44a02b79189f94b5fe8eb809e081",
+   "titre": "Mathématiques et IA : prenons le temps de comprendre",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/22/mathematiques-et-ia-prenons-le-temps-de-comprendre_6814234_1650684.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-23T15:45",
+   "recap": "Dans son article intitulé « Mathématiques et IA : prenons le temps de comprendre », le mathématicien et académicien Étienne Ghys observe que l’intelligence artificielle accélère le domaine des mathématiques. Il souligne toutefois que les mathématiques ne se limitent pas à des résultats numériques ou à des démonstrations formelles. Il met en avant l’importance de la compréhension et de la réflexion critique dans la discipline, même face aux avancées technologiques.",
+   "points_cles": [
+    "Étienne Ghys observe l’accélération de la mathématique par l’IA.",
+    "Il insiste sur la valeur de la compréhension, pas seulement des résultats.",
+    "Les mathématiques restent une discipline de réflexion critique.",
+    "L’IA ne remplace pas la pensée mathématique profonde."
+   ],
+   "mots_cles": [
+    "Étienne Ghys",
+    "intelligence artificielle",
+    "mathématiques",
+    "compréhension",
+    "accélération"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "ba076b0db230591a61efef9ca9708840",
+   "titre": "Le Digital Fairness Act, un projet de règlement européen qui affole l’industrie du jeu vidéo",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/23/le-digital-fairness-act-un-projet-de-reglement-europeen-qui-affole-l-industrie-du-jeu-video_6814350_4408996.html",
+   "source": "Le Monde",
+   "domaine": "Tech",
+   "partiel": true,
+   "date": "2026-11-23T15:45",
+   "recap": "La Commission européenne propose le Digital Fairness Act, un règlement visant à encadrer les pratiques jugées piégeuses dans l’industrie du jeu vidéo, notamment les monnaies virtuelles, les loot boxes et les mécanismes pay-to-win ou pay-to-progress.",
+   "points_cles": [
+    "Le règlement cible les monnaies virtuelles, loot boxes et pay-to-win.",
+    "Il vise à protéger les joueurs contre les pratiques abusives.",
+    "La Commission cherche à instaurer des normes de transparence.",
+    "Les entreprises de jeux vidéo devront se conformer aux nouvelles règles.",
+    "Le projet suscite des réactions mitigées dans l’industrie."
+   ],
+   "mots_cles": [
+    "Digital Fairness Act",
+    "loyauté numérique",
+    "loot boxes",
+    "pay-to-win",
+    "monnaies virtuelles"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "2b5032bf2a421333e8f72412f73e8068",
+   "titre": "Guerre en Ukraine : l'Union européenne présente un 22e paquet de sanctions contre la Russie",
+   "lien": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/direct-guerre-en-ukraine-volodymyr-zelensky-revendique-les-attaques-contre-deux-navires-russes-menees-au-large-de-la-libye_8295668.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-23T15:45",
+   "recap": "L'Union européenne a présenté un 22e paquet de sanctions contre la Russie le 23 novembre, visant notamment 60 banques du système Swift, la flotte fantôme russe et les athlètes russes. Ursula von der Leyen a affirmé que l’objectif est de maintenir la pression pour mettre fin à la guerre d’agression en Ukraine. Le président ukrainien Volodymyr Zelensky a appelé à des négociations rapides incluant l’Europe, les États‑Unis et la Russie, et a revendiqué l’attaque de deux navires russes près de Benghazi. En octobre, la Russie a lancé plus de 4 000 drones à réaction et 153 missiles balistiques sur l’Ukraine, selon le ministre ukrainien de la Défense. L’OTAN se réunit également pour discuter du conflit et de ses répercussions en Europe.",
+   "points_cles": [
+    "UE propose 22e paquet de sanctions ciblant banques, flotte fantôme et sportifs russes",
+    "Zelensky réclame négociations quadripartites rapides",
+    "Russie lance plus de 4 000 drones et 153 missiles balistiques en octobre",
+    "OTAN se réunit sur les répercussions du conflit"
+   ],
+   "mots_cles": [
+    "UE",
+    "sanctions",
+    "Ukraine",
+    "Russie",
+    "OTAN",
+    "Zelensky"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "5ace47ea7ce70c6c17b53f5485293721",
+   "titre": "Comment les laboratoires français organisent l’accès de leurs chercheurs à l’IA",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/23/comment-les-laboratoires-francais-organisent-l-acces-de-leurs-chercheurs-a-l-ia_6814358_1650684.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-23T15:44",
+   "recap": "Les chercheurs du CNRS ont obtenu une dérogation pour recourir aux services d’OpenAI et d’Anthropic. Parallèlement, une infrastructure mutualise les ressources de plus d’une vingtaine d’établissements universitaires pour l’accès à l’IA.",
+   "points_cles": [
+    "CNRS obtient dérogation OpenAI/Anthropic",
+    "Infrastructure mutualisée pour 20+ universités",
+    "Accès à l’IA facilité"
+   ],
+   "mots_cles": [
+    "CNRS",
+    "OpenAI",
+    "Anthropic",
+    "infrastructure mutualisée",
+    "universités"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "528dd22b3151cb8f7c6ef4814a3d9aa8",
+   "titre": "Jensen Huang réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné à la suite de soupçons d’espionnage chinois",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/23/jensen-huang-reintegre-comme-directeur-general-et-president-de-nvidia-par-le-conseil-d-administration-deux-semaines-apres-avoir-demissionne-suite-a-des-suspicions-d-espionnage-chinois_6814392_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-23T15:43",
+   "recap": "Jensen Huang a été réintégré à la tête de Nvidia par son conseil d’administration, deux semaines après avoir démissionné suite à des soupçons d’espionnage chinois. Le retour de Huang survient après des appels répétés du président américain Donald Trump, proche de l’entrepreneur, à sa réintégration. Le conseil d’administration a accepté la demande de Trump et a réaffecté Huang à son poste de dirigeant. Aucun détail supplémentaire sur les raisons de la démission ou les mesures prises par Nvidia n’est fourni dans le texte. Le contexte met en lumière l’influence de Trump sur les décisions de leadership au sein de la société. La situation reste limitée aux informations mentionnées, sans chiffres ni données précises.",
+   "points_cles": [
+    "Huang réintégré par le conseil d’administration",
+    "Départ de Huang lié à des soupçons d’espionnage chinois",
+    "Trump a appelé à son retour",
+    "Pas de chiffres ou détails supplémentaires"
+   ],
+   "mots_cles": [
+    "Jensen Huang",
+    "Nvidia",
+    "Donald Trump",
+    "espionnage chinois",
+    "réintégration"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "64f28c6b79e4c70c04dcaad9a482b40f",
+   "titre": "Espagne : l’indépendantiste catalan Carles Puigdemont définitivement blanchi par la justice",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/23/espagne-l-independantiste-catalan-carles-puigdemont-definitivement-blanchi-par-la-justice_6814403_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-23T15:43",
+   "recap": "Le Tribunal suprême espagnol a rendu une décision qui ouvre la voie au retour en Espagne du leader indépendantiste catalan Carles Puigdemont. Puigdemont avait déclaré qu’il ne rentrerait pas avant les élections législatives du 29 novembre. La décision de justice ne précise pas de date exacte mais indique qu’il pourra revenir en Espagne. Aucun autre détail sur les conditions ou les implications de cette décision n’est fourni dans le texte.",
+   "points_cles": [
+    "Décision du Tribunal suprême espagnol",
+    "Puigdemont autorisé à revenir",
+    "Il ne rentrera pas avant le 29 novembre",
+    "Pas de date précise donnée",
+    "Pas d’autres détails fournis"
+   ],
+   "mots_cles": [
+    "Tribunal suprême",
+    "Carles Puigdemont",
+    "indépendantisme catalan",
+    "retour en Espagne",
+    "élections législatives"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "c92eed340def253384653d260a192097",
+   "titre": "La Turquie affirme que le PKK a évacué 14 autres bases du nord de l’Irak, une nouvelle étape majeure vers la paix",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/23/la-turquie-affirme-que-le-pkk-a-evacue-14-autres-bases-du-nord-de-l-irak-une-nouvelle-etape-majeure-vers-la-paix_6814400_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-23T15:43",
+   "recap": "La Turquie déclare que le PKK a évacué 14 bases supplémentaires dans le nord de l’Irak, marquant une avancée significative vers la paix. Ce développement s’inscrit dans le cadre d’un processus de paix entamé en 2024 entre Ankara et le groupe armé, visant à mettre fin à une guérilla de plus de quarante ans qui a coûté environ 50 000 vies.",
+   "points_cles": [
+    "PKK évacue 14 bases au nord de l’Irak",
+    "Processus de paix lancé en 2024",
+    "Objectif : fin d’une guérilla de 40+ ans",
+    "Coût humain estimé à 50 000 morts"
+   ],
+   "mots_cles": [
+    "Turquie",
+    "PKK",
+    "nord de l’Irak",
+    "processus de paix",
+    "guérilla",
+    "50 000 morts"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "5f87d44c20538ac8f9ce1aea4068fe72",
+   "titre": "A Paris, les conflits autour de l’espace public pourraient faire le bonheur du secteur privé",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/23/a-paris-les-conflits-autour-de-l-espace-public-pourraient-faire-le-bonheur-du-secteur-prive_6814387_3232.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-23T15:42",
+   "recap": "Dans la capitale, la diminution de l'automobile a entraîné un important mouvement de mixité des usages sur la chaussée au cours de la dernière décennie. Cette évolution a créé des frictions et des conflits autour de l'espace public. La mairie ne dispose pas des moyens suffisants pour réguler seule ce nouvel afflux et les tensions qui en découlent.",
+   "points_cles": [
+    "Diminution de l'automobile à Paris",
+    "Mixité des usages sur la chaussée",
+    "Frictions et conflits publics",
+    "Mairie limitée dans la régulation"
+   ],
+   "mots_cles": [
+    "automobile",
+    "mixité des usages",
+    "espace public",
+    "frictions",
+    "régulation"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "9c936e4e6a2e30e16a8a8f41b097871a",
+   "titre": "Albin Michel : après le départ d’Amélie Nothomb, 165 salariés apportent leur soutien à la direction",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/23/albin-michel-apres-le-depart-d-amelie-nothomb-165-salaries-apportent-leur-soutien-a-la-direction_6814404_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-23T15:42",
+   "recap": "Albin Michel, maison d’édition, a récemment perdu son autrice vedette Amélie Nothomb, qui a quitté la maison après le licenciement de son attachée de presse, Florence Godfernaux, pour harcèlement. En réponse à ce départ, 165 salariés ont signé une lettre de soutien à la direction, affirmant leur fierté d’appartenir à une maison qui « protège ses collaborateurs ». Les signataires soulignent que la décision de la maison d’édition de mettre fin au contrat de Godfernaux est un acte de protection envers ses employés, même si cela implique de perdre une autrice de renom. La lettre de soutien met en avant la valeur de la sécurité et du respect au sein de l’entreprise, et exprime la confiance des salariés dans la direction. Elle ne détaille pas les raisons précises du licenciement, mais insiste sur la nécessité de défendre les collaborateurs contre le harcèlement. La situation illustre un conflit entre la protection des employés et la préservation de la réputation de la maison d’édition.",
+   "points_cles": [
+    "165 salariés soutiennent la direction",
+    "Amélie Nothomb quitte Albin Michel",
+    "Florence Godfernaux licenciée pour harcèlement",
+    "Maison d’édition protège ses collaborateurs"
+   ],
+   "mots_cles": [
+    "Albin Michel",
+    "Amélie Nothomb",
+    "harcèlement",
+    "soutien salariés"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "14bc7164194e5ffcf1bc8108cbcefd15",
+   "titre": "Grand Paris Express : Valérie Pécresse juge « très compromise » la mise en service de la ligne 18 avant la fin de l’année",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/23/grand-paris-express-valerie-pecresse-juge-tres-compromise-la-mise-en-service-de-la-ligne-18-avant-la-fin-de-l-annee_6814396_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-23T15:42",
+   "recap": "Le lancement du premier tronçon du Grand Paris Express a été reporté à plusieurs reprises. La présidente de la région Île-de-France, Valérie Pécresse, estime que la mise en service de la ligne 18 avant la fin de l’année est « très compromise ». Elle pointe du doigt Alstom et son logiciel d’automatisation comme cause du retard. De plus, les deux mois de marche à blanc, nécessaires avant le déploiement de la ligne 18, n’ont pas encore commencé.",
+   "points_cles": [
+    "Report répété du lancement du tronçon",
+    "Pécresse critique Alstom et son logiciel",
+    "Marche à blanc non commencée",
+    "Mise en service avant fin d’année compromise"
+   ],
+   "mots_cles": [
+    "Grand Paris Express",
+    "ligne 18",
+    "Alstom",
+    "marche à blanc",
+    "Valérie Pécresse"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "64fcf1c4f1b3920f8a81e58c29990461",
+   "titre": "Deux navires russes attaqués dans les eaux libyennes, une extension inédite de la guerre russo-ukrainienne",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/23/deux-navires-russes-attaques-dans-les-eaux-libyennes-une-extension-inedite-de-la-guerre-russo-ukrainienne_6814397_3212.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-23T15:41",
+   "recap": "Le 22 novembre 2023, deux navires russes ont été attaqués dans les eaux de Benghazi, en Libye, par sept drones navals revendiqués par le président ukrainien Volodymyr Zelensky. L’attaque a eu lieu dans le cadre de la guerre russo‑ukrainienne et vise à démontrer la capacité de l’Ukraine à cibler les intérêts russes hors de son territoire. Les navires transportaient de l’armement, ce qui souligne l’enjeu stratégique de l’opération. L’incident illustre une extension géographique de la confrontation, touchant un pays tiers, la Libye. Les conséquences attendues incluent une intensification des tensions internationales et une possible réaction de la Russie ou de la communauté internationale.",
+   "points_cles": [
+    "Deux navires russes attaqués à Benghazi",
+    "Sept drones navals utilisés",
+    "Objectif : démontrer la portée ukrainienne",
+    "Navires transportaient de l’armement",
+    "Incident montre l’extension de la guerre"
+   ],
+   "mots_cles": [
+    "Benghazi",
+    "drones navals",
+    "armement russe",
+    "guerre russo‑ukrainienne",
+    "Libye",
+    "Zelensky"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "c5848ba48c6bb7990c4258201d69775c",
+   "titre": "Présidentielle 2027 : les élus locaux au cœur de la campagne",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-les-elus-locaux-au-c-ur-de-la-campagne_6814386_823448.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-23T15:41",
+   "recap": "Les maires élus en mars 2027 sont au centre de la campagne présidentielle, utilisés comme vitrines par les partis ou comme candidats potentiels. Chaque parrainage compte pour la visibilité et l’influence politique.",
+   "points_cles": [
+    "Maires élus en mars 2027 ciblés par les partis",
+    "Utilisation comme vitrines ou candidats",
+    "Chaque parrainage compte"
+   ],
+   "mots_cles": [
+    "présidentielle 2027",
+    "maires",
+    "parrainage",
+    "vitrine",
+    "candidats"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "95c4dbd3a7649d4685781f3a4a2c73cf",
+   "titre": "Présidentielle 2027 : à Tarascon, le maire RN veut faire de la ville « une vitrine » pour Marine Le Pen",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/23/presidentielle-2027-a-tarascon-le-maire-rn-veut-faire-de-la-ville-une-vitrine-pour-marine-le-pen_6814388_823448.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-23T15:41",
+   "recap": "Alexandre Ducouret, élu maire de Tarascon (15 000 habitants) en mars, souhaite soutenir Marine Le Pen en 2027 en présentant la ville comme une vitrine de son parti. Il met en avant sa gestion municipale pour gagner en visibilité. Cependant, huit mois après son entrée en fonction, les résultats de cette stratégie restent inexistants.",
+   "points_cles": [
+    "Ducouret élu en mars à Tarascon",
+    "Il veut promouvoir Marine Le Pen en 2027",
+    "Il utilise la gestion municipale comme vitrine",
+    "Résultats manquants après huit mois"
+   ],
+   "mots_cles": [
+    "Tarascon",
+    "Alexandre Ducouret",
+    "Marine Le Pen",
+    "présidentielle 2027",
+    "vitrine"
+   ],
+   "nature": "fait"
+  },
   {
    "id": "f4adef47b70df250fa0f234e28bc56fe",
    "titre": "Renault, BMW, Tesla, Volkswagen : pourquoi leurs moteurs électriques sont-ils si différents ?",
