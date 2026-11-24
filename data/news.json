@@ -1,6 +1,621 @@
 {
- "maj": "2026-11-23T15:50",
+ "maj": "2026-11-24T15:41",
  "articles": [
+  {
+   "id": "42d1e7fa07a16085d55b05ba067f9211",
+   "titre": "Réseau de bornes de recharge : un nouveau record peu réjouissant",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/actualites/actualites-recharge/353590-reseau-de-bornes-de-recharge-un-nouveau-record-peu-rejouissant/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-24T15:41",
+   "recap": "Le baromètre d'Avere indique un ralentissement des nouvelles installations de bornes de recharge (PDC) : 1 189 en octobre, 18 490 depuis le début de l’année, et plus de 26 000 de janvier à octobre 2025, contre un objectif de 400 000 d’ici 2030. La France compte 203 993 points ouverts, mais la disponibilité est faible : 10 % des bornes sont indisponibles plus de 7 jours consécutifs, et seulement 60 % sont disponibles 99 % du temps (70 % l’an dernier). Les taux de disponibilité varient entre 84,5 % pour les DC <150 kW et 86,7 % pour les >150 kW. Le problème majeur est le vol de câbles, qui a touché plus de 850 sites depuis le début de l’année, entraînant des réparations coûteuses et des arrêts prolongés. Cette situation pourrait affecter les grands départs de vacances, notamment à Noël.",
+   "points_cles": [
+    "Ralentissement des installations",
+    "Disponibilité des bornes en baisse",
+    "Vol de câbles majeur",
+    "Impact sur la maintenance",
+    "Objectif 400 000 d’ici 2030 non atteint"
+   ],
+   "mots_cles": [
+    "bornes de recharge",
+    "disponibilité",
+    "vol de câbles",
+    "Avere",
+    "France"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "a8a5a69023a689a2af0499e91ed126ec",
+   "titre": "La fusée Ariane 6 livre enfin les 36 satellites d’Amazon : voici les plus belles images du décollage",
+   "lien": "https://www.numerama.com/sciences/2383831-la-fusee-ariane-6-livre-enfin-les-36-satellites-damazon-voici-les-plus-belles-images-du-decollage.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-24T15:40",
+   "recap": "Le 15 novembre 2026, la constellation Amazon Leo a perdu 40 satellites à cause d’un échec de la fusée Vulcan. Le 23 novembre, Amazon devait lancer 36 nouveaux satellites à bord d’Ariane 6, mais un problème technique au sol a retardé le compte à rebours. Le 24 novembre, Ariane 6 a décollé de Kourou à 8h14 (heure locale) après une alerte rouge quelques minutes avant le tir. La fusée a utilisé quatre propulseurs P160C, plus puissants que les P120C, apportant un gain de 10 % en orbite basse et une capacité de 22 t. Les 36 satellites ont été largués à 460 km d’altitude, 2 h 4 min après le décollage. Arianespace revendique 10 succès sur 10 vols, tandis que le vol inaugural de juillet 2024 avait une anomalie. Un représentant de l’ESA a évoqué la possibilité d’utiliser Ariane 6 pour des astronautes d’ici 2036. Amazon compte désormais 136 satellites en orbite grâce à Ariane 6, sur 24 lancements commandés depuis le contrat de 2022.",
+   "points_cles": [
+    "Amazon a perdu 40 satellites en novembre 2026",
+    "Ariane 6 a lancé 36 satellites le 24 novembre 2026",
+    "Les propulseurs P160C offrent un gain de 10 % en orbite basse",
+    "Arianespace a 10 succès sur 10 vols",
+    "ESA envisage l’usage d’Ariane 6 pour des astronautes d’ici 2036"
+   ],
+   "mots_cles": [
+    "Amazon Leo",
+    "Ariane 6",
+    "P160C",
+    "Vulcan",
+    "ESA"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8f55050a398f8e10a323f14f5920d84b",
+   "titre": "C’est officiel, l'Europe impose des quotas sur les importations de voitures hybrides : voici les volumes autorisés dès le 1er décembre",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/actualites/politique/353637-cest-officiel-leurope-impose-des-quotas-sur-les-importations-de-voitures-hybrides-voici-les-volumes-autorises-des-le-1er-decembre/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-24T15:40",
+   "recap": "La Commission européenne a instauré des quotas d’importation de voitures hybrides neuves, effectifs du 1er décembre 2026 au 18 juin 2027, couvrant 200 jours. Les quotas sont découpés en trois périodes avec des plafonds précis par pays, la Chine pouvant exporter 191 780 véhicules (≈350 000 par an) et le Japon 170 889, la Turquie 126 320, le Royaume‑Uni 105 402, etc. Les plafonds sont basés sur les volumes de 2025 majorés de 15 % ; seuls les pays représentant plus de 2 % des importations de 2025 obtiennent un quota individuel, les autres partagent une enveloppe commune. En 2023, l’UE importait 958 000 hybrides, montant à 1,42 million entre juillet 2025 et juin 2026, avec une hausse de 49 % ; les importations chinoises ont grimpé de 46 001 à 302 403 véhicules, et 486 582 en 2025‑2026. Les quotas s’appliquent aux PHEV, HEV et MHEV, mais pas aux EREV classés comme voitures électriques. Les quotas sont provisoires, avec une enquête ouverte le 30 octobre 2026 et un délai de neuf mois pour une décision finale, pouvant être prolongé de deux mois.",
+   "points_cles": [
+    "Quotas d’importation de hybrides imposés du 1 décembre 2026 au 18 juin 2027",
+    "La Chine est la cible principale avec 191 780 véhicules autorisés",
+    "Les quotas sont basés sur les volumes de 2025 majorés de 15 %",
+    "Les importations chinoises ont presque doublé entre 2023 et 2025",
+    "Les quotas couvrent PHEV, HEV, MHEV mais excluent les EREV classés électriques"
+   ],
+   "mots_cles": [
+    "quotas hybrides",
+    "Union européenne",
+    "Chine",
+    "importations",
+    "volumes 2025",
+    "durée 200 jours"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "0d8740a922564a8958f3c21852cd6fc1",
+   "titre": "Fausse rétractation de Ziad Takieddine: l'ex-président Nicolas Sarkozy et son épouse Carla Bruni renvoyés en procès",
+   "lien": "https://www.rfi.fr/fr/france/20261124-fausse-r%C3%A9tractation-de-ziad-takieddine-nicolas-sarkozy-et-carla-bruni-renvoy%C3%A9s-en-proc%C3%A8s",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-24T15:39",
+   "recap": "L'ex-président français Nicolas Sarkozy, son épouse Carla Bruni-Sarkozy et Michèle Marchand (dite « Mimi Marchand ») sont mis en examen dans l'affaire de la rétractation supposément monnayée de l'intermédiaire Ziad Takieddine, décédé en septembre 2025. Les trois sont renvoyés devant le tribunal correctionnel de Paris et jugés du 3 novembre au 2 décembre 2027. Ils sont accusés d'association de malfaiteurs pour escroquerie organisée, de recel de subornation de témoin (Sarkozy et Bruni) et de subornation, association de malfaiteurs et préparation de corruption de personnels judiciaires étrangers (Mimi Marchand). Cette procédure intervient après la décision de la cour d'appel du 23 novembre 2023 qui a condamné dix prévenus, dont Sarkozy, dans le dossier de financement libyen de la campagne présidentielle de 2007. Sarkozy a déjà été condamné en première instance en septembre 2025 à cinq ans de prison pour un pacte de corruption avec la Libye, et le parquet a demandé sept ans de prison.",
+   "points_cles": [
+    "Sarkozy, Bruni et Mimi Marchand mis en examen pour fraude et subornation",
+    "Affaire liée à la rétractation de Ziad Takieddine, décédé en 2025",
+    "Jugement prévu 2027 devant le tribunal correctionnel de Paris",
+    "Décision de la cour d'appel du 23 novembre 2023 confirme condamnation de Sarkozy",
+    "Sarkozy déjà condamné à cinq ans de prison pour financement libyen"
+   ],
+   "mots_cles": [
+    "Nicolas Sarkozy",
+    "Carla Bruni",
+    "Ziad Takieddine",
+    "Rétractation",
+    "Tribunal correctionnel",
+    "Financement libyen"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "ec5e0ff44ace2e882a4e623513353f32",
+   "titre": "GTA 6 : grâce à la radio de Vice City, Sylvie Vartan voit ses écoutes Spotify exploser de 2 500 %",
+   "lien": "https://www.numerama.com/pop-culture/2383783-gta-6-grace-a-la-radio-de-vice-city-sylvie-vartan-voit-ses-ecoutes-spotify-exploser-de-2-500.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-24T15:39",
+   "recap": "Depuis la sortie de GTA 6 le 19 novembre 2026, la bande‑son du jeu a fait exploser la popularité de la chanson française « Danse ta vie » de Sylvie Vartan, grâce à sa diffusion sur la radio Kaleidoscope de Vice City. Selon Spotify France, les écoutes de la piste ont bondi de plus de 2 500 % dans le monde depuis le 20 novembre, avec un pic particulièrement fort en France, devant les États‑Unis, l’Allemagne et le Canada. Sylvie Vartan a confirmé sa présence dans le jeu sur son site le 23 novembre, précisant que la chanson est jouée sur une station décrite comme « radio éclectique animée par Jeremy Irons ». La bande‑son de GTA 6 inclut également des artistes comme Justice, Étienne de Crécy et Daft Punk, soulignant l’éclectisme du catalogue musical du jeu.",
+   "points_cles": [
+    "GTA 6 sorti le 19 novembre 2026",
+    "« Danse ta vie » de Sylvie Vartan a vu ses écoutes Spotify grimper de 2 500 %",
+    "La chanson est diffusée sur la radio Kaleidoscope de Vice City",
+    "Sylvie Vartan a confirmé sa présence dans le jeu le 23 novembre",
+    "La bande‑son inclut des artistes internationaux comme Justice et Daft Punk"
+   ],
+   "mots_cles": [
+    "GTA 6",
+    "Sylvie Vartan",
+    "Spotify",
+    "Kaleidoscope",
+    "Danse ta vie"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "940e62a903c45f485161735443b42d27",
+   "titre": "Bientôt des BYD « made in France » ? Le géant chinois veut racheter l’usine des 4×4 Ineos",
+   "lien": "https://www.numerama.com/vroom/2383677-bientot-des-byd-made-in-france-le-geant-chinois-veut-racheter-lusine-des-4x4-ineos.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-24T15:39",
+   "recap": "BYD, constructeur chinois, a entamé des négociations exclusives avec Ineos Automotive pour racheter l’usine de Hambach en Moselle, où Ineos assemble les 4×4 Grenadier. La vente n’est pas encore signée et doit d’abord obtenir l’avis des instances représentatives du personnel. Ineos a simultanément présélectionné plusieurs sites aux États-Unis pour y produire ses 4×4 à partir de 2028, mais le Grenadier et le pick‑up Quartermaster resteront assemblés à Hambach à moyen terme. L’usine, qui pouvait produire 35 000 véhicules/an, ne produit aujourd’hui que moins de 10 000, alors que Smart l’avait utilisée pour 100 000 véhicules/an dans les années 2000. Si la transaction aboutit, BYD serait le premier constructeur chinois à racheter une usine automobile en Europe, ce qui lui permettrait d’être opérationnel plus rapidement et de répondre aux futures règles « Made in Europe » de l’UE. Aucun prix, date ou modèle n’a encore été annoncé.",
+   "points_cles": [
+    "BYD négocie l’achat de l’usine Hambach d’Ineos",
+    "La vente doit être approuvée par les représentants du personnel",
+    "Ineos prévoit de produire ses 4×4 aux États-Unis à partir de 2028",
+    "L’usine est sous‑utilisée (moins de 10 000 véhicules/an)",
+    "BYD serait le premier constructeur chinois à racheter une usine automobile en Europe"
+   ],
+   "mots_cles": [
+    "BYD",
+    "Ineos Automotive",
+    "Hambach",
+    "4×4 Grenadier",
+    "Made in Europe"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8c717d757edf99b68674fe54ef94b31c",
+   "titre": "Paraffine, cire végétale, parfum, colorant… Que contiennent vraiment les bougies parfumées ?",
+   "lien": "https://www.franceinfo.fr/economie/paraffine-cire-vegetale-parfum-colorant-que-contiennent-vraiment-les-bougies-parfumees_8297886.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-24T15:38",
+   "recap": "Le reportage explique que les bougies parfumées, très prisées en hiver, sont souvent fabriquées à partir de paraffine, un dérivé du pétrole, ou de cires végétales comme le soja, l’abeille ou la cire d’abeille. La composition précise n’est pas obligatoire, ce qui peut surprendre les consommateurs. La paraffine libère des microparticules toxiques lorsqu’elle brûle, tandis que les cires végétales, bien que plus chères, brûlent plus longtemps et sont perçues comme plus propres. Les bougies colorées ou contenant des produits artificiels augmentent la production de composés organiques volatils, pouvant nuire à la santé respiratoire. Pour limiter l’exposition, il est conseillé d’aérer la pièce et d’éteindre la flamme sans souffler, en étouffant la flamme avec un couvercle.",
+   "points_cles": [
+    "La paraffine est un dérivé du pétrole et libère des microparticules toxiques.",
+    "Les cires végétales (soja, abeille) brûlent plus longtemps et sont plus chères.",
+    "Les bougies colorées augmentent la production de composés organiques volatils.",
+    "Il n’existe aucune réglementation obligeant à mentionner la composition.",
+    "Aérer la pièce et étouffer la flamme réduit l’exposition aux polluants."
+   ],
+   "mots_cles": [
+    "paraffine",
+    "cire végétale",
+    "microparticules",
+    "composés organiques volatils",
+    "éclairage d’intérieur"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "c06ff3f222f85cfa53ae428421c8be39",
+   "titre": "DIRECT- «le TAS a rendu une décision juste» en déclarant le Sénégal vainqueur de la CAN 2025",
+   "lien": "https://www.rfi.fr/fr/afrique-foot/20261124-can-2025-suivez-en-direct-la-d%C3%A9cision-du-tas-sur-la-finale-entre-le-maroc-et-le-s%C3%A9n%C3%A9gal",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-24T15:38",
+   "recap": "Le Tribunal arbitral du sport (TAS) a rendu à l’unanimité une décision déclarant le Sénégal vainqueur de la CAN 2025 après un match interrompu mais repris, où un penalty raté et un but ont été validés. Le TAS a jugé que les articles 82 et 84 du règlement ne s’appliquaient pas, estimant que l’arbitre n’avait commis aucune erreur de droit. Alassane Ndour, ancien international sénégalais, a salué la décision comme juste et importante pour le football. Le site du TAS connaît des bugs, et la fédération sénégalaise a démenti toute communication avec les arbitres. La fédération marocaine a signalé un incident potentiel et se réserve le droit d’engager un recours. Les supporters sénégalais restent convaincus de leur victoire malgré les contestations.",
+   "points_cles": [
+    "TAS décide à l’unanimité que le Sénégal est vainqueur",
+    "Les articles 82 et 84 ne sont pas applicables",
+    "Alassane Ndour félicite le TAS",
+    "Fédération sénégalaise dément contact arbitre",
+    "Fédération marocaine signale incident potentiel"
+   ],
+   "mots_cles": [
+    "TAS",
+    "CAN 2025",
+    "Sénégal",
+    "Maroc",
+    "arbitre"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "0f89760369cbd7705cd8d4f7bdc27aae",
+   "titre": "La CAN 2025 attribuée définitivement au Sénégal par le Tribunal arbitral du sport",
+   "lien": "https://www.rfi.fr/fr/afrique-foot/20261124-la-can-2025-attribu%C3%A9e-d%C3%A9finitivement-au-s%C3%A9n%C3%A9gal-par-le-tribunal-arbitral-du-sport",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-24T15:38",
+   "recap": "Le Tribunal arbitral du sport (TAS) a rendu, le 24 novembre, un jugement définitif confirmant le résultat de la finale de la CAN 2025 : le Sénégal a gagné 1‑0 sur le Maroc. Le TAS a annulé la décision de la CAF qui avait déclaré forfait le Sénégal et a rétabli le résultat du match. L’arbitre avait repris le jeu après un arrêt, ce qui a été jugé conforme aux règles. Le Maroc a déposé une plainte concernant un incident impliquant un arbitre, mais le TAS a estimé qu’il n’y avait pas assez de preuves pour reporter la sentence. Cette décision met fin à une longue dispute entre les deux fédérations, qui a commencé en janvier après la finale et s’est poursuivie avec un appel de la CAF en mars.",
+   "points_cles": [
+    "TAS confirme le 1‑0 du Sénégal",
+    "Décision de la CAF annulée",
+    "Arbitre a repris le match sans erreur de droit",
+    "Maroc a déposé plainte mais sans suite"
+   ],
+   "mots_cles": [
+    "CAN 2025",
+    "Sénégal",
+    "Maroc",
+    "TAS",
+    "CAF"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "bae5ce296d96d3ed209b443da9e6015e",
+   "titre": "\"Ils ont une lassitude du lycée\" : un nombre inédit de proviseurs envisagent leur mutation, alerte le principal syndicat des chefs d'établissement",
+   "lien": "https://www.franceinfo.fr/societe/education/ils-ont-une-lassitude-du-lycee-un-nombre-inedit-proviseurs-demandent-leur-mutation-alerte-le-principal-syndicat-des-chefs-d-etablissement_8297274.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-24T15:37",
+   "recap": "Le ministère de l’Éducation nationale affirme qu’il n’y a pas de hausse significative des demandes de mutation des chefs d’établissement pour la rentrée prochaine, tandis que le syndicat SNPDEN‑Unsa signale une tendance inédite : un nombre croissant de proviseurs de lycée envisagent de changer de ville ou même de métier, exprimant une lassitude vis-à-vis du poste. Cette situation survient dans un contexte de tensions liées aux mouvements lycéens, où certains établissements sont jugés dangereux et peu attractifs. Les proviseurs, souvent logés dans l’établissement avec leur famille, craignent les complications liées aux mutations. Le syndicat appelle le gouvernement à réfléchir sur l’attractivité du métier, tandis que le ministère promet une attention particulière aux demandes de mutation, notamment celles hors procédure habituelle, avec des réponses attendues en avril, juin et juillet. La France compte environ 15 000 personnels de direction.",
+   "points_cles": [
+    "Tension liée aux mouvements lycéens",
+    "Tendance inédite de mutation parmi les proviseurs",
+    "Syndicat appelle à une réflexion sur l’attractivité du métier",
+    "Ministère promet une attention particulière aux demandes hors procédure",
+    "Réponses attendues en avril, juin et juillet"
+   ],
+   "mots_cles": [
+    "proviseurs",
+    "mutation",
+    "syndicat SNPDEN‑Unsa",
+    "mouvements lycéens",
+    "attractivité",
+    "ministère"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "246ebcf859b0b7080bab66b18d34fa43",
+   "titre": "\"C'est la petite coupure parfaite\" : victime de son succès, le billet de 5 euros se fait rare",
+   "lien": "https://www.franceinfo.fr/economie/c-est-la-petite-coupure-parfaite-victime-de-son-succes-le-billet-de-5-euros-se-fait-rare_8297841.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-24T15:37",
+   "recap": "Le billet de 5 euros devient rare dans les distributeurs car il est très utilisé par les Français pour les petits achats, ce qui empêche la Banque de France de le renouveler. Les commerçants gardent ces billets pour rendre la monnaie, mais les consommateurs les consomment rapidement, créant un manque de liquidité. Les billets usagés ne sont pas renvoyés à la Banque de France pour remplacement, contrairement aux autres coupures. Les commerçants se soutiennent mutuellement en prêtant des billets. En 2027, la Banque de France prévoit d’expérimenter des distributeurs de 5 euros en Nouvelle-Aquitaine pour remédier à cette rareté.",
+   "points_cles": [
+    "Le 5 euros est très utilisé pour les petits achats",
+    "Il est difficile à renouveler par la Banque de France",
+    "Les commerçants se soutiennent mutuellement",
+    "La Banque de France prévoit des distributeurs en 2027"
+   ],
+   "mots_cles": [
+    "5 euros",
+    "rare",
+    "commerçants",
+    "Banque de France",
+    "distributeurs"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8e64e487ecc674736c03c5be2e76c674",
+   "titre": "La baisse de l'encours du livret A en 2026 est \"un signal réel\" de la baisse du pouvoir d'achat des Français, explique un économiste",
+   "lien": "https://www.franceinfo.fr/economie/votre-argent/livret-a/la-baisse-de-l-encours-du-livret-a-en-2026-est-un-signal-reel-de-la-baisse-du-pouvoir-d-achat-des-francais-explique-un-economiste_8297811.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-24T15:37",
+   "recap": "En 2026, le livret A a connu sa pire année depuis 2008, avec un encours estimé à 440 milliards d’euros et une baisse de près de 10 milliards d’euros entre janvier et octobre, suite à des retraits supérieurs aux dépôts. L’économiste Philippe Crevel attribue cette tendance à la baisse du pouvoir d’achat des Français, notamment due à la hausse des prix de l’énergie, et souligne que les épargnants, surtout les plus modestes, ont dû puiser dans leur épargne pour couvrir leurs dépenses. Il note également que le taux d’intérêt de 1,7 % du livret A est peu attractif par rapport à d’autres produits comme l’assurance‑vie, qui bénéficie d’un meilleur rendement et d’une perception positive liée à la préparation de la retraite et à la succession. Le relèvement du plafond du livret A prévu pour février 2027 vise à mobiliser davantage d’épargne pour financer les investissements publics, mais Crevel estime qu’un taux revalorisé, potentiellement jusqu’à 2,6 %, serait nécessaire pour réussir cette opération.",
+   "points_cles": [
+    "Baisse de l’encours du livret A de 10 milliards d’euros en 2026",
+    "Pertes de pouvoir d’achat liées à la hausse des prix de l’énergie",
+    "Taux d’intérêt de 1,7 % peu attractif comparé à l’assurance‑vie",
+    "Relèvement du plafond du livret A prévu pour 2027",
+    "Besoin d’un taux revalorisé pour mobiliser l’épargne"
+   ],
+   "mots_cles": [
+    "livret A",
+    "pouvoir d’achat",
+    "taux d’intérêt",
+    "assurance‑vie",
+    "épargne"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "406b41cc8d92ee3accf637109532832d",
+   "titre": "Projet français, dépendance chinoise, exemple américain… Quatre questions sur les \"stocks stratégiques de terres rares et métaux\"",
+   "lien": "https://www.franceinfo.fr/economie/projet-francais-dependance-chinoise-exemple-americain-quatre-questions-sur-les-stocks-strategiques-de-terres-rares-et-metaux_8297829.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-24T15:36",
+   "recap": "Le président Emmanuel Macron souhaite créer en France une réserve stratégique de terres rares et de métaux prioritaires, à l’image des stocks pétroliers, afin de réduire la dépendance industrielle vis‑à‑vis de la Chine. Le projet, piloté par la Caisse des dépôts, doit être opérationnel d’ici 2027 et inclura un mécanisme d’achats mutualisés. Il concerne une vingtaine de matières critiques listées par l’UE, comme le samarium, le lithium, le cobalt ou le manganèse, qui sont essentiels à la transition écologique et aux industries aérospatiales, numériques et énergétiques. La Chine domine la production et la transformation de 60 % des terres rares et plus de 90 % de la production mondiale de plusieurs de ces métaux, ce qui crée une dépendance géopolitique majeure. Le modèle américain, initié par Donald Trump, sert d’inspiration : un stock de 12 milliards de dollars permettrait deux mois de production industrielle en cas de crise, grâce à un partenariat public‑privé et à un prix fixe garanti aux industriels.",
+   "points_cles": [
+    "Créer une réserve stratégique de terres rares et métaux critiques",
+    "Piloter le projet via la Caisse des dépôts avec achats mutualisés",
+    "Objectif opérationnel d’ici 2027",
+    "Dépendance chinoise dominante dans extraction et transformation",
+    "Modèle inspiré des États‑Unis avec stock de 12 milliards $"
+   ],
+   "mots_cles": [
+    "terres rares",
+    "métaux critiques",
+    "dépendance chinoise",
+    "réserve stratégique",
+    "Caisse des dépôts",
+    "modèle américain"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "2dcefc8b68b81efa63222378cce93a91",
+   "titre": "\"Les ménages ont été amenés à puiser dans leur épargne\" : on vous explique pourquoi le livret A est laissé pour compte",
+   "lien": "https://www.franceinfo.fr/economie/votre-argent/livret-a/les-menages-ont-ete-amenes-a-puiser-dans-leur-epargne-on-vous-explique-pourquoi-le-livret-a-est-laisse-pour-compte_8297343.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-24T15:36",
+   "recap": "Depuis janvier 2026, les Français ont retiré 9,54 milliards d’euros de plus qu’ils n’en ont déposé sur leur livret A, portant l’encours global à 440 milliards d’euros, une baisse jamais observée depuis 2008. La décollecte nette s’explique par une inflation élevée (3,4 %) et un pouvoir d’achat affaibli, poussant les ménages à puiser dans leurs livrets d’épargne de précaution. Le livret A, ainsi que le LDDS et le LEP, subissent des retraits nets, tandis que l’assurance‑vie attire de nouveaux dépôts (15,4 milliards d’euros en septembre). Le gouvernement prépare une hausse du taux du livret A (0,30–0,40 % supplémentaire) et un relèvement du plafond (jusqu’à 30 000 €) qui entreront en vigueur en février 2027, afin de redonner de l’attractivité à ce produit.",
+   "points_cles": [
+    "Décollecte nette de 9,54 milliards d’euros sur le livret A depuis janvier 2026",
+    "Inflation de 3,4 % supplantant le rendement du livret A (1,7 %)",
+    "Assurance‑vie devient le placement privilégié avec 15,4 milliards d’euros déposés en septembre",
+    "Mesures gouvernementales : hausse du taux et du plafond du livret A prévues pour février 2027"
+   ],
+   "mots_cles": [
+    "livret A",
+    "décollecte",
+    "inflation",
+    "assurance‑vie",
+    "taux",
+    "plafond"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "eed23efad6651ff8cf5b81fac6a5f822",
+   "titre": "Sur la piste de Robert Surcouf et de l’« Aurore », navire esclavagiste du XVIIIᵉ siècle, à bord duquel plus de 300 Africains ont été livrés à la mort",
+   "lien": "https://www.lemonde.fr/histoire/article/2026/11/23/sur-la-piste-de-robert-surcouf-et-de-l-aurore-navire-esclavagiste-du-xviii-siecle-a-bord-duquel-plus-de-300-africains-ont-ete-livres-a-la-mort_6814443_4655323.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-24T15:35",
+   "recap": "Le texte décrit une enquête journalistique sur le navire esclavagiste « Aurore », qui a coulé au large du Mozambique, faisant plus de 300 morts parmi les Africains transportés. Il mentionne que le journaliste, descendant d’un corsaire réputé, explore les archives pour retracer le parcours du navire et les circonstances de la mort des passagers. L’enquête souligne également la participation de Robert Surcouf à la traite d’êtres humains.",
+   "points_cles": [
+    "Navire esclavagiste « Aurore » coulé au large du Mozambique",
+    "Plus de 300 Africains morts à bord",
+    "Journaliste descendant d’un corsaire explore les archives",
+    "Enquête met en lumière la participation de Surcouf à la traite",
+    "Enquête intitulée « L’esclavage en héritage »"
+   ],
+   "mots_cles": [
+    "Aurore",
+    "Mozambique",
+    "Robert Surcouf",
+    "esclavage",
+    "traitement",
+    "mort"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "03f0e8e1a3000141e4fc288dfb3decef",
+   "titre": "La CEDH autorise le refoulement des migrants arrivés d’un pays « instrumentalisant » les flux migratoires",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/24/la-cedh-autorise-le-refoulement-des-migrants-arrives-d-un-pays-instrumentalisant-les-flux-migratoires_6814777_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-24T15:34",
+   "recap": "La Cour européenne des droits de l’homme (CEDH) a jugé que les États qui ont refoulé des migrants vers la Biélorussie, sans leur permettre de déposer une demande d’asile, ont violé leurs droits fondamentaux. Les migrants, accusés d’être issus d’un pays « instrumentalisant les flux migratoires », ont porté plainte contre les États responsables du refoulement. La décision souligne que le refoulement sans procédure d’asile constitue une atteinte aux droits fondamentaux protégés par la CEDH.",
+   "points_cles": [
+    "La CEDH a jugé le refoulement vers la Biélorussie illégal",
+    "Les migrants n’ont pas pu déposer une demande d’asile",
+    "Les États responsables ont violé les droits fondamentaux"
+   ],
+   "mots_cles": [
+    "CEDH",
+    "refoulement",
+    "Biélorussie",
+    "droit d’asile",
+    "crise migratoire"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "4d0a3fa4523d6a12d27ba7193c28f6bd",
+   "titre": "Bloquer les visas des athlètes russes, une décision moralement justifiable mais qui crée un dangereux précédent",
+   "lien": "https://www.lemonde.fr/sport/article/2026/11/24/bloquer-les-visas-des-athletes-russes-une-decision-moralement-justifiable-mais-qui-cree-un-dangereux-precedent_6814775_3242.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-24T15:34",
+   "recap": "Le texte évoque la décision de certains États de bloquer les visas des athlètes russes, malgré les ordonnances du Tribunal arbitral du sport qui demandent leur réintégration dans les compétitions internationales. Cette mesure est présentée comme moralement justifiable, mais elle est critiquée pour créer un précédent dangereux qui pourrait compromettre l'ordre sportif mondial. Le contexte implique un conflit entre les décisions judiciaires sportives et les politiques nationales. Les faits mentionnés sont la résistance de certains pays et le risque d'affaiblir la gouvernance sportive internationale. Les acteurs clés sont les États concernés, le Tribunal arbitral du sport et les athlètes russes. Les enjeux portent sur l'équité, la légitimité des décisions sportives et la stabilité du système mondial du sport. La suite attendue serait un débat continu sur la légitimité des restrictions de visas et leurs conséquences à long terme.",
+   "points_cles": [
+    "Blocage des visas russes malgré les ordonnances du TAS",
+    "Mesure jugée moralement justifiable mais dangereuse",
+    "Risque de saper l'ordre sportif mondial"
+   ],
+   "mots_cles": [
+    "visas",
+    "athlètes russes",
+    "Tribunal arbitral du sport",
+    "précedent",
+    "ordre sportif"
+   ],
+   "nature": "opinion"
+  },
+  {
+   "id": "226664bbd16284a6c23d940393c8b37e",
+   "titre": "Sanofi, groupe pharmaceutique français, va racheter l’américain Insmed pour 37,6 milliards d’euros",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/24/sanofi-groupe-pharmaceutique-francais-va-racheter-l-americain-insmed-pour-37-6-milliards-d-euros_6814719_3234.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-24T15:34",
+   "recap": "Sanofi, le groupe pharmaceutique français, prévoit d’acquérir l’entreprise américaine Insmed pour 37,6 milliards d’euros. Cette opération constitue l’une des plus importantes acquisitions de Sanofi. La transaction devrait être finalisée au premier semestre 2027. Elle est attendue pour renforcer le bénéfice net par action de Sanofi d’ici la fin de 2028.",
+   "points_cles": [
+    "Sanofi rachète Insmed pour 37,6 milliards d’euros",
+    "Acquisition parmi les plus importantes de Sanofi",
+    "Finalisation prévue au premier semestre 2027",
+    "Objectif : améliorer le bénéfice net par action d’ici fin 2028"
+   ],
+   "mots_cles": [
+    "Sanofi",
+    "Insmed",
+    "acquisition",
+    "37,6 milliards",
+    "bénéfice net",
+    "2027"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "b116a951bc3f6e5849b9b8fb8afc1818",
+   "titre": "Sanofi, en s’offrant l’américain Insmed, se lance dans la plus importante acquisition de son histoire depuis 2004",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/24/sanofi-pret-a-debourser-37-6-milliards-d-euros-pour-l-americain-insmed-un-specialiste-du-traitement-des-maladies-respiratoires_6814758_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-24T15:33",
+   "recap": "Sanofi a acquis la société américaine Insmed pour 37,6 milliards d’euros, marquant la plus importante acquisition de son histoire depuis 2004. Insmed est un spécialiste du traitement des maladies respiratoires. La société possède déjà un médicament générant plus d’un milliard de dollars de recettes annuelles et plusieurs produits en développement jugés prometteurs.",
+   "points_cles": [
+    "Sanofi achète Insmed pour 37,6 milliards d’euros",
+    "Insmed est spécialiste des maladies respiratoires",
+    "Un médicament d’Insmed génère plus d’un milliard de dollars de revenus annuels",
+    "Insmed a plusieurs produits prometteurs en développement"
+   ],
+   "mots_cles": [
+    "Sanofi",
+    "Insmed",
+    "acquisition",
+    "maladies respiratoires",
+    "revenus",
+    "développement"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "09d52293d1c738da0039521728c53cb0",
+   "titre": "Nvidia : Donald Trump aurait gagné jusqu’à 15 millions de dollars grâce à ses actions après le retour de Jensen Huang, selon le « Financial Times »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/24/nvidia-donald-trump-aurait-gagne-jusqu-a-15-millions-de-dollars-grace-a-ses-actions-apres-le-retour-de-jensen-huang-selon-le-financial-times_6814756_3210.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-24T15:33",
+   "recap": "Le Financial Times rapporte que Donald Trump aurait pu gagner jusqu’à 15 millions de dollars grâce à ses actions Nvidia, suite au retour de Jensen Huang. Selon les déclarations financières du président américain, il pourrait détenir jusqu’à 370 000 actions de la société au 30 septembre. Cette information soulève des questions sur les intérêts financiers de Trump dans le secteur technologique et sur les implications potentielles pour la politique et les marchés.",
+   "points_cles": [
+    "Trump possiblement détenteur de 370 000 actions Nvidia",
+    "Gain estimé de 15 millions de dollars",
+    "Impact de la présence de Jensen Huang sur les actions",
+    "Source : Financial Times",
+    "Déclarations financières du président"
+   ],
+   "mots_cles": [
+    "Nvidia",
+    "Donald Trump",
+    "Jensen Huang",
+    "Financial Times",
+    "actions",
+    "gain"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "bdec1a7b2c1ce3deaf508c3ec9025c2c",
+   "titre": "Budget 2027 : la fonction publique ciblée par la droite et le centre au Sénat",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/24/budget-2027-la-fonction-publique-ciblee-par-la-droite-et-le-centre-au-senat_6814804_823448.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-24T15:32",
+   "recap": "La majorité sénatoriale, fidèle à sa ligne de longue date, propose plusieurs mesures d’économies ciblant la fonction publique, notamment la réforme du supplément familial de traitement, un complément de rémunération versé aux agents ayant au moins un enfant.",
+   "points_cles": [
+    "Réforme du supplément familial de traitement",
+    "Ciblage des fonctionnaires pour des économies",
+    "Majorité sénatoriale en ligne de longue date"
+   ],
+   "mots_cles": [
+    "fonction publique",
+    "supplément familial",
+    "économies",
+    "majorité sénatoriale"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "319e5c01f436e894ee31dda313236f09",
+   "titre": "Assurance-vie : que penser des fonds euros nouvelle génération ?",
+   "lien": "https://www.lemonde.fr/argent/article/2026/11/24/assurance-vie-que-penser-des-fonds-euros-nouvelle-generation_6814767_1657007.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-24T15:32",
+   "recap": "Le texte évoque l’émergence de trois familles de produits d’assurance‑vie, appelées fonds euros nouvelle génération. Ces produits se distinguent par des fonctionnements spécifiques. Ils visent à offrir un rendement supérieur à celui des fonds euros classiques. Pour atteindre ce rendement, ils intègrent une sophistication accrue de leur moteur de performance. Le texte ne précise pas les caractéristiques techniques ni les acteurs impliqués. Il ne fournit pas de chiffres ou de données chiffrées. Il ne mentionne pas de dates précises ni de perspectives futures.",
+   "points_cles": [
+    "Trois nouvelles familles de fonds euros sont apparues.",
+    "Ils ciblent un rendement supérieur.",
+    "Ils utilisent un moteur de performance plus sophistiqué."
+   ],
+   "mots_cles": [
+    "fonds euros",
+    "nouvelle génération",
+    "rendement",
+    "performance"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "f759a76b4e0d352c4f241b0f1a27ac7f",
+   "titre": "CAN 2025 : le Tribunal arbitral du sport déclare le Sénégal champion d’Afrique de football, au détriment du Maroc",
+   "lien": "https://www.lemonde.fr/football/article/2026/11/24/can-2025-le-tribunal-arbitral-du-sport-declare-le-senegal-champion-d-afrique-des-nations-au-detriment-du-maroc_6814779_1616938.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-24T15:31",
+   "recap": "Le 18 janvier 2026, la finale de la CAN entre le Sénégal et le Maroc s’est terminée dans le chaos et la tension, ouvrant la voie à près d’un an de batailles juridiques. Le mardi suivant, le Tribunal arbitral du sport (TAS) a déclaré le Sénégal vainqueur, au détriment du Maroc.",
+   "points_cles": [
+    "Finale de la CAN 2026 entre Sénégal et Maroc terminée dans le chaos",
+    "Batailles juridiques d’une durée d’environ un an",
+    "TAS a déclaré le Sénégal champion d’Afrique"
+   ],
+   "mots_cles": [
+    "CAN 2026",
+    "Sénégal",
+    "Maroc",
+    "TAS",
+    "champion d’Afrique"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "dfc94522a98423d9a1c482b5b7c642e5",
+   "titre": "Eric Zemmour définitivement condamné pour avoir affirmé que le maréchal Pétain « avait sauvé les juifs français »",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/24/eric-zemmour-definitivement-condamne-pour-avoir-affirme-que-le-marechal-petain-avait-sauve-les-juifs-francais_6814807_3224.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-24T15:31",
+   "recap": "La Cour de cassation a condamné Eric Zemmour pour avoir affirmé que le maréchal Pétain avait sauvé les juifs français. Ses propos, tenus sur CNews en 2019, ont été jugés comme une minoration outrancière de la Shoah telle qu’elle a été mise en œuvre sur le territoire français. La décision marque une condamnation définitive de Zemmour pour ce discours.",
+   "points_cles": [
+    "Cour de cassation condamne Zemmour",
+    "Affirmation sur CNews en 2019",
+    "Minoration outrancière de la Shoah",
+    "Décision définitive"
+   ],
+   "mots_cles": [
+    "Eric Zemmour",
+    "Cour de cassation",
+    "Shoah",
+    "Pétain",
+    "CNews"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "7840c6e862c3517d22829d38f02af71b",
+   "titre": "Nicolas Sarkozy, Carla Bruni et Mimi Marchand renvoyés devant le tribunal dans l’affaire de la fausse rétractation de l’homme d’affaires Ziad Takieddine",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/24/nicolas-sarkozy-carla-bruni-et-mimi-marchand-renvoyes-devant-le-tribunal-dans-l-affaire-de-la-fausse-retractation-de-l-homme-d-affaires-ziad-takieddine_6814770_3224.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-24T15:30",
+   "recap": "L'ancien président Nicolas Sarkozy doit comparaître devant le tribunal à la fin de 2027 pour des accusations de participation à une association de malfaiteurs et de recel de subornation de témoin. Les juges l'accusent d'avoir contribué à la rétractation soudaine et médiatisée d'un de ses principaux accusateurs, Ziad Takieddine, dans l'enquête sur le financement libyen présumé de la campagne présidentielle de 2007. L'affaire implique également Carla Bruni et Mimi Marchand, qui ont été renvoyées devant le tribunal. Les faits se concentrent sur la manipulation de la procédure judiciaire et la tentative de dissuasion des témoins. La suite attendue est le procès de Sarkozy, qui pourrait avoir des répercussions importantes sur la politique française et la perception de la corruption.",
+   "points_cles": [
+    "Sarkozy accusé de recel et d'association de malfaiteurs",
+    "Rétractation de Ziad Takieddine médiatisée",
+    "Carla Bruni et Mimi Marchand impliquées",
+    "Procès prévu fin 2027"
+   ],
+   "mots_cles": [
+    "Nicolas Sarkozy",
+    "Ziad Takieddine",
+    "rétractation",
+    "corruption",
+    "procès"
+   ],
+   "nature": "fait"
+  },
   {
    "id": "0a2f9ae42c5a3bab6ccb61b3f8543868",
    "titre": "Vous pouvez tester la conduite autonome de Xpeng",
