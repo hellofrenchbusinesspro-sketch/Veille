@@ -1,6 +1,794 @@
 {
- "maj": "2026-11-25T15:28",
+ "maj": "2026-11-26T14:54",
  "articles": [
+  {
+   "id": "42e80c6cc40ff34dda20eaeb566e404c",
+   "titre": "Intermarché veut séduire les flottes d'entreprise avec cette nouvelle carte de recharge : voici les tarifs",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/actualites/actualites-recharge/353972-intermarche-veut-seduire-les-flottes-dentreprise-avec-cette-nouvelle-carte-de-recharge-voici-les-tarifs/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-26T14:54",
+   "recap": "Intermarché et Edenred Mobilité lancent la carte « Inter-énergies » destinée aux flottes professionnelles, permettant de payer carburant et recharge électrique. La carte offre un tarif fixe de 0,29 € HT/kWh pour la recharge AC et 0,49 € HT/kWh pour la recharge DC, soit 0,348 € et 0,588 € TTC après TVA. Elle est compatible avec plus de 195 000 points de charge, notamment via Powerdot, et permet de régler le carburant dans plus de 1 800 stations Intermarché et Netto. La solution inclut facturation centralisée, options télépéage et stationnement, ainsi qu’une application mobile. Les particuliers ne sont pas concernés, l’offre cible uniquement les entreprises disposant de véhicules thermiques, hybrides rechargeables ou électriques.",
+   "points_cles": [
+    "Lancement d’une carte « Inter-énergies » pour flottes professionnelles",
+    "Tarifs fixes : 0,29 € HT/kWh AC, 0,49 € HT/kWh DC",
+    "Compatibilité avec 195 000 points de charge et 1 800 stations carburant",
+    "Facturation centralisée et application mobile",
+    "Ciblage exclusif des entreprises, pas de particuliers"
+   ],
+   "mots_cles": [
+    "Intermarché",
+    "Edenred Mobilité",
+    "carte Inter-énergies",
+    "tarifs fixes",
+    "flottes professionnelles"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "c42d22a4075df8ed4bbe3d2c89054ce0",
+   "titre": "Effondrement de jetée, routes inondées : comment El Niño fait déborder la Californie sans tempête",
+   "lien": "https://www.numerama.com/sciences/2385439-effondrement-de-jetee-routes-inondees-comment-el-nino-fait-deborder-la-californie-sans-tempete.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-26T14:53",
+   "recap": "Le 24 novembre 2026, la Californie a connu des inondations majeures : une route à Mill Valley a été submergée, une jetée en bois à Pacifica a été emportée, et Santa Cruz a fermé ses plages, évacuant environ 200 maisons. Les records de marée ont été battus à San Diego (85 cm au-dessus de la moyenne) et à Los Angeles, avec des niveaux anormalement élevés prévus jusqu’au 27 novembre et du 22 au 26 décembre. L’augmentation du niveau de l’océan est attribuée à El Niño, qui, via des ondes de Kelvin et une vague de chaleur marine, élève l’eau de 15 à 30 cm. Selon le CPC, il y a environ 60 % de probabilité d’un épisode plus fort que tout depuis 1950, et les effets se répercutent déjà sur le climat mondial.",
+   "points_cles": [
+    "Inondations massives en Californie sans tempête majeure",
+    "Marées record grâce à El Niño et ondes de Kelvin",
+    "Probabilité de 60 % d’un épisode plus fort que 1950",
+    "Effets globaux déjà visibles",
+    "Prévisions de marées élevées jusqu’en décembre"
+   ],
+   "mots_cles": [
+    "El Niño",
+    "marées",
+    "inondations",
+    "California",
+    "ondes de Kelvin",
+    "prévisions"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "b824b3b1982bcc81ed3e77a0892b0227",
+   "titre": "Rappel Volkswagen électriques : quels modèles sont concernés en France ?",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/actualites/equipements-et-services/353405-rappel-volkswagen-electriques-quels-modeles-sont-concernes-en-france/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-26T14:53",
+   "recap": "Volkswagen a lancé un rappel en France affectant près de 1 900 véhicules électriques, incluant les modèles ID.3, ID.4, ID.7 et ID. Buzz (utilitaire Cargo). Les voitures concernées ont été fabriquées entre le 18 septembre 2023 et le 27 juin 2025, représentant environ 2,5 % des ventes de la gamme ID. Le problème provient d’un défaut de fabrication dans certaines cellules de batterie haute tension, identifié par des contrôles qualité internes. Ce défaut peut provoquer une surchauffe et, dans de rares cas, un incendie. En attendant les vérifications, Volkswagen demande aux propriétaires de limiter la recharge à 80 % via le mode Battery Care et de faire contrôler la batterie dans un atelier agréé. Si aucune anomalie n’est détectée, la limitation pourra être levée ; les mesures pour les batteries défectueuses restent à préciser.",
+   "points_cles": [
+    "Rappel de 1 900 ID.3, ID.4, ID.7, ID. Buzz en France",
+    "Défaut de fabrication dans cellules de batterie haute tension",
+    "Limitation de recharge à 80 % via Battery Care",
+    "Contrôle obligatoire dans atelier agréé",
+    "Mesures pour batteries défectueuses non précisées"
+   ],
+   "mots_cles": [
+    "Volkswagen",
+    "rappel",
+    "batterie haute tension",
+    "ID.3",
+    "ID.4"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "873dff8a1f79642ebdc4785bd5dfb8fb",
+   "titre": "Ils gagnaient jusqu'à 0,60 € par kWh d'électricité solaire injectée : le gouvernement veut sabrer des centaines de milliers de contrats trop généreux",
+   "lien": "https://www.bevolt.com/fr-fr/energie/actualites/solaire-et-renouvelables/353935-ils-gagnaient-jusqua-060-e-par-kwh-delectricite-solaire-injectee-le-gouvernement-veut-sabrer-des-centaines-de-milliers-de-contrats-trop-genereux/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-26T14:53",
+   "recap": "Le gouvernement français prévoit de mettre fin aux contrats d’achat d’électricité photovoltaïque « S06 » et « S10 » signés en 2006 et 2010, afin d’économiser 1,8 milliard d’euros. Ces contrats garantissaient un tarif fixe, parfois supérieur à 0,60 €/kWh, pour l’électricité injectée sur le réseau. Le dispositif, présenté le 25 novembre 2026 par les ministres Roland Lescure et Maud Bregeon, prévoit de résilier ces contrats d’ici 2031, en réduisant la durée restante à quelques mois ou quatre ans. Les petites installations résidentielles, qui représentent environ 12 % du parc photovoltaïque français, seraient affectées par un nouveau tarif plafonné entre 0,10 et 0,20 €/kWh, ce qui entraînerait une perte annuelle de 1 250 à 1 580 € pour une toiture de 3 kWc. Les grands projets de plus de 100 kWc devront vendre leur production sur le marché sans soutien public. Le texte est encore à adopter, l’Assemblée nationale ayant rejeté le budget en novembre et le Sénat examinant des amendements. Les organismes de soutien aux énergies renouvelables dénoncent une rupture de contrat et craignent pour les agriculteurs et ménages remboursant leurs prêts.",
+   "points_cles": [
+    "Le gouvernement veut réduire les coûts de 1,8 milliard d’euros en résiliant les contrats S06/S10",
+    "Les tarifs garantis pouvaient dépasser 0,60 €/kWh, bien au-dessus du prix de marché",
+    "Les petites installations seront soumises à un nouveau tarif de 0,10‑0,20 €/kWh",
+    "Le texte est encore en discussion au Sénat, avec possibilité de recours juridiques",
+    "Les agriculteurs et ménages craignent les conséquences financières"
+   ],
+   "mots_cles": [
+    "contrats photovoltaïques",
+    "tarifs garantis",
+    "résiliation",
+    "économie d’État",
+    "impact sur les particuliers"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "58a6ddcadf3c600ad191caced51d052a",
+   "titre": "« On a fait une erreur de facturation » : OpenAI corrige le tir, et vos quotas GPT-6.2 vont fondre jusqu’à 40 % plus vite",
+   "lien": "https://www.numerama.com/tech/2385489-on-a-fait-une-erreur-de-facturation-openai-corrige-le-tir-et-vos-quotas-gpt-6-2-vont-fondre-jusqua-40-plus-vite.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-26T14:52",
+   "recap": "Le 26 novembre 2026, Thibault Sottiaux, directeur de Codex et ChatGPT, a reconnu une erreur de facturation sur le lancement de GPT‑6.2 (modèles Astra et Sol) le 17 novembre. L’erreur a fait que les quotas des abonnés étaient décomptés avec une remise inappropriée, ce qui a entraîné une consommation plus faible que prévu. La correction a été appliquée : les quotas seront désormais consommés 40 % plus vite pour Astra et 25 % plus vite pour Sol, sans changement de prix. OpenAI ne facturera pas la différence sur l’usage passé et propose un « banked reset » (remise à zéro du quota) à tous les abonnés Go, Plus, Pro et Business. Cette annonce intervient après une décision du 24 novembre d’unifier les quotas de ChatGPT et Codex pour les abonnés Plus, Pro et Business, mesurés en tokens, excluant les conversations Instant. Les utilisateurs réagissent sur X, certains soulignant la perte de quota mais la compensation offerte.",
+   "points_cles": [
+    "Erreur de facturation sur GPT‑6.2 révélée le 26 novembre",
+    "Quotas désormais consommés 40 % (Astra) et 25 % (Sol) plus vite",
+    "OpenAI offre un reset de quota gratuit pour compenser l’usage excessif",
+    "Quotas de ChatGPT et Codex seront unifiés à partir de décembre",
+    "Aucun changement de prix annoncé"
+   ],
+   "mots_cles": [
+    "OpenAI",
+    "GPT‑6.2",
+    "quota",
+    "facturation",
+    "reset"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "6dff0aeb8f91e55c039304dd94394dd7",
+   "titre": "Acheter sa voiture sur Amazon, ça arrive en Europe",
+   "lien": "https://www.numerama.com/vroom/2385403-acheter-sa-voiture-sur-amazon-ca-arrive-en-europe.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-26T14:52",
+   "recap": "Amazon a lancé Amazon Autos aux États-Unis en décembre 2024, affichant les stocks de 35 marques en neuf et occasion dans plus de 150 villes. Le 25 novembre 2026, Amazon a annoncé que le service arriverait sur le site britannique début 2027, faisant de la France et du Royaume‑Uni les premiers pays européens à pouvoir chercher une voiture sur Amazon. Hyundai, premier partenaire américain, propose des modèles électriques, hybrides et essence, tandis que Vertu Motors ajoutera ses voitures d’occasion. Les utilisateurs pourront filtrer les modèles, estimer la reprise, comparer les financements et réserver, mais l’achat final se fait toujours chez le concessionnaire qui fixe les prix et assure le service après‑vente. Les actions d’Autotrader ont chuté de 3 % alors que Vertu a gagné 4,5 % après l’annonce du rachat de quatre concessions. Le marché britannique est déjà dominé par les marques chinoises, qui représentent 17,5 % des immatriculations neuves en 2026, et Vertu profite de cette tendance en vendant des BYD et Chery. Aucun lancement précis n’est prévu pour la France ou l’Allemagne, et Amazon n’a pas encore publié la liste complète des marques.",
+   "points_cles": [
+    "Amazon Autos lancée aux États‑Unis en 2024, étendue au Royaume‑Uni en 2027",
+    "Hyundai et Vertu Motors partenaires clés",
+    "Les ventes se concluent toujours chez le concessionnaire",
+    "Impact sur les actions d’Autotrader et Vertu",
+    "Marché britannique dominé par les marques chinoises"
+   ],
+   "mots_cles": [
+    "Amazon Autos",
+    "Hyundai",
+    "Vertu Motors",
+    "marché britannique",
+    "marques chinoises"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "c31fda91112876c22e196abdd9136c02",
+   "titre": "Le renvoi en procès de Gérard Depardieu pour une partie des viols dont il est accusé confirmé en appel",
+   "lien": "https://www.rfi.fr/fr/france/20261126-le-renvoi-en-proc%C3%A8s-de-g%C3%A9rard-depardieu-pour-une-partie-des-viols-dont-il-est-accus%C3%A9-confirm%C3%A9-en-appel",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-26T14:51",
+   "recap": "La cour d'appel de Paris a confirmé le renvoi en procès de Gérard Depardieu pour les faits du 7 août 2018, alors qu’un non‑lieu a été prononcé pour les faits du 13 août 2018, dans le cadre d’une plainte de la comédienne Charlotte Arnould. L’acteur, déjà condamné en mai 2025 pour agressions sexuelles sur deux femmes, conteste les accusations et envisage un pourvoi en cassation. La décision est considérée comme une première victoire d’étape par la défense, mais la partie restante du dossier reste à trancher. L’affaire fait partie de l’actualité du mouvement #MeToo et soulève des questions sur la preuve de la contrainte morale et de l’intention criminelle. La suite attendue est un éventuel recours en cassation et la poursuite du procès.",
+   "points_cles": [
+    "Renvoi confirmé pour le 7 août 2018",
+    "Non‑lieu pour le 13 août 2018",
+    "Défense envisage un pourvoi en cassation",
+    "Acteur déjà condamné pour agressions sexuelles",
+    "Affaire liée au mouvement #MeToo"
+   ],
+   "mots_cles": [
+    "Gérard Depardieu",
+    "Charlotte Arnould",
+    "cour d'appel",
+    "viol",
+    "#MeToo"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "0ce39ab6da90a95b818f402a68bf207d",
+   "titre": "Plus de 700 000 morts pour la Russie en Ukraine: «Les Russes ne sont pas du tout ignorants ni passifs»",
+   "lien": "https://www.rfi.fr/fr/europe/20261126-plus-de-700-000-morts-pour-la-russie-en-ukraine-les-russes-ne-sont-pas-du-tout-ignorants-ni-passifs",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-26T14:51",
+   "recap": "Le Kremlin refuse de publier le bilan des pertes russes en Ukraine, tandis que Meduza et Mediazona, deux médias interdits, estiment que plus de 700 000 soldats russes sont morts depuis février 2022, chiffre basé sur des données piratées de l’agence statistique russe. Selon Anna Colin Lebedev, spécialiste de la société russe, les Russes sont conscients de ces pertes : ils voient des tombes, des réseaux sociaux et des proches décédés, mais l’information est censurée dans les médias d’État et la discussion publique est pénalement sanctionnée. Dans les villages et petites villes, les familles parlent de leurs pertes en privé, mais évitent de le faire en public pour ne pas attirer les autorités. Les Russes ne sont donc pas ignorants ni passifs ; ils font des efforts pour masquer la guerre, mais restent conscients de son ampleur. Les protestations familiales, qui étaient plus visibles lors de la guerre de Tchétchénie, sont aujourd’hui plus difficiles à faire entendre en raison de la censure et du manque de soutien politique.\n\nEn résumé, le pays connaît les pertes massives mais l’information reste contrôlée, les discussions publiques sont limitées, et la population reste consciente mais silencieuse face à la guerre.\n\n",
+   "points_cles": [
+    "Plus de 700 000 soldats russes morts selon Meduza/Mediazona",
+    "Le Kremlin ne publie pas de bilan officiel",
+    "Les Russes sont conscients des pertes mais la discussion publique est censurée",
+    "Les familles parlent en privé mais évitent le public",
+    "Les protestations familiales sont limitées par la censure"
+   ],
+   "mots_cles": [
+    "Russie",
+    "Ukraine",
+    "pertes",
+    "censure",
+    "protestations"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "b6eb9faf32b942b493aeb8e0a048ab9c",
+   "titre": "Les dirigeants de l'UE réunis en sommet extraordinaire pour discuter du budget et de l'aide à l'Ukraine",
+   "lien": "https://www.rfi.fr/fr/europe/20261126-les-dirigeants-de-l-ue-r%C3%A9unis-en-sommet-extraordinaire-pour-discuter-du-budget-et-de-l-aide-%C3%A0-l-ukraine",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-26T14:51",
+   "recap": "Les dirigeants de l'Union européenne se réunissent à Bruxelles les 26 et 27 novembre pour négocier le budget pluriannuel 2028‑2034 et l’aide à l’Ukraine. Le budget actuel, fixé en 2020, doit être révisé après sept ans de négociations tendues. Les « sept raisonnables » (Scandinavie, Allemagne, Autriche, Pays-Bas) souhaitent réduire de 200 milliards d’euros les propositions initiales, tandis que les « amis de la cohésion » (Italie, Espagne, Pologne et 14 autres pays) réclament un budget de 2 000 milliards d’euros et le maintien des fonds de cohésion. La France, par la France, insiste sur la protection de la Politique Agricole Commune. La question des nouvelles ressources, notamment une taxe sur les services numériques, divise également les États. Concernant l’Ukraine, la Commission propose un prêt de 45 milliards d’euros, mais quatre pays (Hongrie, Slovaquie, République tchèque, Bulgarie) refusent de participer, suscitant la colère d’Allemagne. Les intérêts du prêt, estimés à 2‑2,5 milliards d’euros par an, restent un point de discorde. En parallèle, la succession de Christine Lagarde à la BCE est en cours, avec un accord supposé entre France et Allemagne pour désigner les candidats aux postes vacants, tandis que les Pays-Bas soutiennent la candidature de Klaas Knot.",
+   "points_cles": [
+    "Budget 2028‑2034 en négociation après 7 ans",
+    "« Sept raisonnables » vs « amis de la cohésion »",
+    "France protège la Politique Agricole Commune",
+    "Prêt de 45 milliards pour l’Ukraine contesté",
+    "Succession de Christine Lagarde à la BCE en cours"
+   ],
+   "mots_cles": [
+    "budget UE",
+    "cohésion",
+    "Ukraine",
+    "taxe numérique",
+    "succession BCE"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "6d994b4f74f0291386721bbdd3166bba",
+   "titre": "Black Friday : face à l'afflux de colis, les transporteurs renforcent leurs contrôles",
+   "lien": "https://www.franceinfo.fr/economie/black-friday-face-a-l-afflux-de-colis-les-transporteurs-renforcent-leurs-controles_8301522.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-26T14:50",
+   "recap": "À l'approche du Black Friday, Mondial Relay Cergy dans le Val‑d’Oise voit son volume de colis passer de 60 000 à 100 000 par jour, soit une hausse de 66 %. Pour gérer cette explosion, l’agence renforce les moyens de distribution et intensifie les contrôles : scanners, ouverture de colis, vérification des factures et des articles, puis mise à jour des systèmes informatiques. Les livreurs et les commerçants relais effectuent également des vérifications à chaque étape, comptent les colis et vérifient les adresses. Les petits colis sont transportés dans de grands sacs scellés, et les casiers de retrait ont vu leur nombre augmenter de 25 % en un an pour sécuriser davantage les livraisons.",
+   "points_cles": [
+    "Hausse de 66 % des colis à Mondial Relay Cergy",
+    "Renforcement des contrôles : scanners, ouverture et vérification des factures",
+    "Livraison sécurisée via sacs scellés et casiers de retrait",
+    "Augmentation de 25 % du nombre de casiers en un an"
+   ],
+   "mots_cles": [
+    "Black Friday",
+    "Mondial Relay",
+    "contrôles",
+    "sécurité",
+    "colis",
+    "casiers"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "52e8efa41d17f0497300f5aa353d505b",
+   "titre": "La compagnie aérienne FlyDubai va reprendre ses vols vers Israël le 3 décembre, après plus de deux mois d'interruption",
+   "lien": "https://www.franceinfo.fr/economie/aeronautique/la-compagnie-aerienne-flydubai-va-reprendre-ses-vols-vers-israel-le-3-decembre-apres-plus-de-deux-mois-d-interruption_8301531.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-26T14:50",
+   "recap": "FlyDubai a annoncé la reprise de ses vols directs vers Tel‑Aviv le 3 décembre 2026, après une suspension de plus de deux mois. La suspension a été causée par un incident survenu fin septembre, lorsqu’un avion de la compagnie, en route vers Israël, a été contraint d’atterrir en Arabie saoudite. Le copilote omanais aurait agressé le commandant de bord dans une tentative de provoquer un crash à l’aéroport Ben‑Gourion, ce qui a conduit à une intervention de passagers qui ont maîtrisé le copilote. L’incident a fait 174 personnes à bord, dont 166 Israéliens, et a suscité une réaction héroïque de la part des passagers. Après avoir obtenu les autorisations nécessaires, FlyDubai reprend les liaisons entre l’aéroport international de Dubaï et celui de Ben‑Gourion.",
+   "points_cles": [
+    "FlyDubai reprend vols vers Israël le 3 décembre 2026",
+    "Incident fin septembre : copilote agressif, tentative de crash",
+    "Intervention de passagers a maîtrisé le copilote",
+    "Vol suspendu après atterrissage d’urgence en Arabie saoudite",
+    "Autorisation obtenue par les autorités compétentes"
+   ],
+   "mots_cles": [
+    "FlyDubai",
+    "Tel‑Aviv",
+    "copilote",
+    "crash",
+    "autorisation"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "7009ca22a266cd7743c8d3bf2e26147d",
+   "titre": "Une convention citoyenne sur les finances publiques lancée vendredi pour \"réduire le déficit et préparer l'avenir\"",
+   "lien": "https://www.franceinfo.fr/economie/crise/crise-de-la-dette/une-convention-citoyenne-sur-les-finances-publiques-lancee-vendredi-pour-reduire-le-deficit-et-preparer-l-avenir_8301219.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-26T14:50",
+   "recap": "Une convention citoyenne sur les finances publiques a été lancée le 27 novembre par le Conseil économique, social et environnemental (Cese). Elle réunit 150 citoyens tirés au sort, reflétant la diversité de la population française, y compris des personnes en grande précarité. Les participants travailleront jusqu’en mars sur la question : « Quelles priorités définir, quels choix faire aujourd’hui pour retrouver la maîtrise de nos finances publiques, réduire le déficit et préparer l’avenir ? ». Le processus comprend trois étapes : acculturation en novembre‑décembre, délibération en janvier‑février et restitution en mars, en pleine campagne présidentielle. Un comité de gouvernance de 14 membres, incluant des représentants du Cese et des experts économiques, supervise la convention. L’objectif est d’informer, débattre et formuler des propositions pour rétablir durablement l’équilibre des finances publiques.",
+   "points_cles": [
+    "150 citoyens tirés au sort pour débattre des finances publiques",
+    "Convention lancée le 27 novembre par le Cese",
+    "Trois phases : acculturation, délibération, restitution",
+    "Comité de gouvernance de 14 membres, experts et représentants du Cese",
+    "Objectif : réduire le déficit et préparer l’avenir"
+   ],
+   "mots_cles": [
+    "convention citoyenne",
+    "finances publiques",
+    "déficit",
+    "Cese",
+    "participation citoyenne"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "75b36de2fe975f8476078795438f4a0e",
+   "titre": "\"J'ai vraiment honte\" : au premier jour de son procès, Emilie König, ex-propagandiste de l'Etat islamique, présente ses excuses \"à toute la nation française\"",
+   "lien": "https://www.franceinfo.fr/monde/terrorisme-djihadistes/j-ai-vraiment-honte-au-premier-jour-de-son-proces-emilie-konig-ex-propagandiste-de-l-etat-islamique-presente-ses-excuses-a-toute-la-nation-francaise_8301402.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-26T14:49",
+   "recap": "Emilie König, 41 ans de Bretagne, est jugée le 26 novembre 2023 à la cour d’assises spéciale de Paris pour association de malfaiteurs terroristes après avoir été une propagandiste active de l'État islamique (EI) en Syrie de 2013 à 2017. Elle s’excuse d’abord auprès de ses cinq enfants, dont trois ont grandi en Syrie et sont maintenant placés en famille d’accueil en Bretagne, puis auprès de sa mère qui a rompu les liens avec elle. König présente également ses excuses à la cour et à la nation française, exprimant sa honte et son désir de se libérer de l’influence jihadiste. Elle a passé dix ans en Syrie, a été détenue de 2017 à 2022 dans les camps d’Al‑Hol et d’Al‑Roj, puis rapatriée et incarcérée à Fresnes, Rennes et dans un quartier de prise en charge de la radicalisation. Elle encourt trente ans de réclusion et doit convaincre la cour qu’elle a rompu avec le jihadisme.",
+   "points_cles": [
+    "König jugée pour association de malfaiteurs terroristes",
+    "Ex‑propagandiste de l’EI en Syrie de 2013‑2017",
+    "Elle s’excuse auprès de ses enfants et de la nation française",
+    "Rapatriée en 2021, incarcérée à Fresnes puis Rennes",
+    "Encourte 30 ans de réclusion, doit prouver son désengagement"
+   ],
+   "mots_cles": [
+    "Emilie König",
+    "État islamique",
+    "cour d’assises spéciale",
+    "ex‑propagandiste",
+    "déportation"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "22fe81f08f61c135c563a3f4b07d9b74",
+   "titre": "Présidentielle 2027 : une discussion entre Sébastien Lecornu, David Lisnard et Gérard Larcher au congrès des maires de France",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-a-l-assemblee-les-republicains-proposent-de-durcir-la-reponse-penale-lors-de-leur-niche-parlementaire_8300802.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-26T14:49",
+   "recap": "Au congrès des maires de France, le Premier ministre Sébastien Lecornu, le président du Sénat Gérard Larcher et le président de l’Association des maires David Lisnard ont débattu de la règle d’or budgétaire, idée défendue par Emmanuel Macron. Lecornu a déclaré qu’aucune décision n’était prise et qu’il consultait plusieurs formations politiques, justifiant le délai par les taux d’intérêt, le choc énergétique et l’instabilité politique. Il précise que la règle ne pourrait fonctionner qu’à partir de 2029 ou 2030 et qu’il est favorable à son adoption. La discussion s’inscrit dans le contexte de la présidentielle 2027, où Lisnard est candidat de droite libérale. D’autres sujets ont été évoqués : la guerre en Ukraine, les propos de Teddy Riner, les allégations antisémites contre Jordan Bardella, la demande de RSF de suspendre CNews et les programmes de santé d’Edouard Philippe.",
+   "points_cles": [
+    "Lecornu affirme qu’aucune décision n’est prise sur la règle d’or budgétaire",
+    "La règle ne serait opérationnelle qu’à partir de 2029/2030",
+    "Lisnard, candidat à la présidentielle, participe au débat",
+    "Bardella nie les propos antisémites qui lui sont attribués",
+    "RSF demande la suspension de CNews pour manque de pluralisme"
+   ],
+   "mots_cles": [
+    "règle d’or budgétaire",
+    "Congrès des maires",
+    "Présidentielle 2027",
+    "Jordan Bardella",
+    "RSF"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "cd7eddbbe287093863a6eb8e6fcd137d",
+   "titre": "Mobilisation des étudiants : le cortège s'est élancé à Paris",
+   "lien": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/direct-mobilisation-de-la-jeunesse-les-organisations-veulent-maintenir-la-pression-malgre-le-recul-des-blocages-une-manifestation-prevue-dans-l-apres-midi_8300754.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-26T14:49",
+   "recap": "Le 26 novembre, environ 2 000 étudiants et personnels de l’enseignement supérieur ont défilé à Paris, organisés par le collectif Interfac, pour réclamer un plan d’envergure incluant des places supplémentaires et du personnel universitaire. Le mouvement, lancé en septembre, a connu un pic en octobre mais reste dispersé, avec 20 % à 25 % d’établissements perturbés. Le gouvernement a annoncé fin octobre des mesures, dont la réforme de Parcoursup et des ajustements d’emplois du temps, mais les revendications restent jugées insuffisantes par les syndicats. Le ministre Philippe Baptiste a maintenu la fermeté sur les examens, refusant d’annuler les partiels malgré les blocages. Parallèlement, des syndicats de police appellent à des rassemblements devant les commissariats, dénonçant la fatigue des forces de l’ordre. La crise sociale se poursuit avec des chiffres de blessés et d’exclusions scolaires, et la mobilisation nationale se prépare pour le 1 décembre.",
+   "points_cles": [
+    "Mobilisation d’environ 2 000 participants à Paris",
+    "Requête d’un plan d’envergure pour l’université",
+    "Réponse gouvernementale jugée insuffisante",
+    "Maintien des examens par le ministre",
+    "Syndicats de police appelés à se rassembler"
+   ],
+   "mots_cles": [
+    "Interfac",
+    "mobilisation",
+    "université",
+    "examens",
+    "police"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8fa08e406727d7ff3ac5e07707842b90",
+   "titre": "Danemark : une nouvelle fuite de données touche 11 000 personnes",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/26/danemark-une-nouvelle-fuite-de-donnees-touche-11-000-personnes_6815509_4408996.html",
+   "source": "Le Monde",
+   "domaine": "Tech",
+   "partiel": true,
+   "date": "2026-11-26T14:48",
+   "recap": "Une fuite de données a touché 11 000 personnes au Danemark. L’auteur de la fuite reste inconnu. L’incident survient dans un contexte de vigilance accrue en Europe, où les piratages informatiques sont en hausse.",
+   "points_cles": [
+    "11 000 personnes affectées",
+    "Auteur inconnu",
+    "Contexte de hausse des piratages en Europe"
+   ],
+   "mots_cles": [
+    "Danemark",
+    "fuite de données",
+    "piratage",
+    "Europe",
+    "sécurité informatique"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "02198215ab7c82c72894a1d517e08629",
+   "titre": "SpaceX reçoit l’autorisation de lancer jusqu’à un million de satellites pour ses centres de données spatiaux",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/26/spacex-recoit-l-autorisation-de-lancer-jusqu-a-un-million-de-satellites-pour-ses-centres-de-donnees-spatiaux_6815331_1650684.html",
+   "source": "Le Monde",
+   "domaine": "Tech",
+   "partiel": true,
+   "date": "2026-11-26T14:48",
+   "recap": "SpaceX a reçu l’autorisation de lancer jusqu’à un million de satellites pour ses centres de données spatiaux, renforçant la compétition dans le domaine des data centers spatiaux. Google poursuit ses propres recherches dans ce secteur, tandis que Blue Origin a également soumis une demande pour son projet de data center spatial.",
+   "points_cles": [
+    "SpaceX autorisée à lancer jusqu’à 1 million de satellites",
+    "Google mène des travaux sur les data centers spatiaux",
+    "Blue Origin a soumis une demande pour son projet"
+   ],
+   "mots_cles": [
+    "SpaceX",
+    "data centers spatiaux",
+    "Google",
+    "Blue Origin",
+    "autorisation",
+    "lancement"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "cf2903e983ad4d76a66615cef6002b89",
+   "titre": "« Le sauvetage de Nvidia est bien plus dangereux que celui des banques après la crise de 2008 »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/25/le-sauvetage-de-nvidia-est-bien-plus-dangereux-que-celui-des-banques-apres-la-crise-de-2008_6815165_3232.html",
+   "source": "Le Monde",
+   "domaine": "Tech",
+   "partiel": true,
+   "date": "2026-11-26T14:48",
+   "recap": "Donald Trump aurait aidé Jensen Huang de Nvidia pour éviter un krach, ce qui est vu comme un risque d’interventionnisme. L’historien Harold James, dans une tribune au Monde, compare cette action à des précédents, notamment la catastrophe de John Law au XVIIIᵉ siècle.",
+   "points_cles": [
+    "Trump aurait soutenu Nvidia pour éviter un krach",
+    "Harold James critique cette intervention",
+    "Il cite John Law comme exemple historique"
+   ],
+   "mots_cles": [
+    "Donald Trump",
+    "Jensen Huang",
+    "Nvidia",
+    "interventionnisme",
+    "John Law"
+   ],
+   "nature": "analyse"
+  },
+  {
+   "id": "ce0553042880cc78f0a033a1db59a984",
+   "titre": "« O.V.N.I., une histoire photographique »… à la frontière de l’inconnu",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/26/o-v-n-i-une-histoire-photographique-a-la-frontiere-de-l-inconnu_6815517_1650684.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-26T14:47",
+   "recap": "Le texte présente un ouvrage intitulé « O.V.N.I., une histoire photographique » qui explore l’évolution de la représentation visuelle des ovnis, depuis les premiers clichés de soucoupes volantes à la fin du XIXᵉ siècle jusqu’à la série « X‑Files ». L’historien de l’art Philippe Baudouin est l’auteur, et il interroge notre rapport à la preuve visuelle en s’appuyant sur des images d’ovnis, des anecdotes et des archives rares. L’ouvrage se concentre sur la manière dont les photographies et les représentations visuelles ont influencé la perception publique et la crédibilité des phénomènes ovnis. Il met en lumière l’importance des sources visuelles dans la construction de la légende des ovnis et la façon dont elles sont interprétées par le public et les chercheurs. Le texte ne fournit pas de détails supplémentaires sur la structure de l’ouvrage ou sur les conclusions de l’auteur, mais indique clairement son objectif d’analyser la preuve visuelle à travers l’histoire photographique des ovnis.",
+   "points_cles": [
+    "Philippe Baudouin interroge la preuve visuelle des ovnis",
+    "L’ouvrage couvre de la fin du XIXᵉ siècle à la série X‑Files",
+    "Il s’appuie sur images, anecdotes et archives rares"
+   ],
+   "mots_cles": [
+    "ovnis",
+    "preuve visuelle",
+    "photographie",
+    "X‑Files",
+    "archives rares"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "1806234dbff337d0294ff8d3be31cc6a",
+   "titre": "Après avoir mangé des huîtres en Floride, elle meurt douze heures après son admission à l’hôpital en France",
+   "lien": "https://www.lemonde.fr/realites-biomedicales/article/2026/11/26/apres-avoir-mange-des-huitres-en-floride-elle-meurt-douze-heures-apres-son-admission-a-l-hopital-en-france_6815495_6579630.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-26T14:47",
+   "recap": "Une bactérie, Vibrio vulnificus, se trouve dans les eaux côtières chaudes et saumâtres de Floride. Elle peut provoquer une infection nécrosante de la peau et des tissus mous. L’évolution de cette infection est fulgurante, pouvant atteindre un état critique en 24 heures. Des observations récentes ont permis de mieux comprendre les modes de contamination. Elles ont également mis en évidence les signes cliniques qui doivent alerter les professionnels de santé. Ces informations sont cruciales pour un diagnostic rapide et un traitement efficace.",
+   "points_cles": [
+    "Vibrio vulnificus présent dans les eaux de Floride",
+    "Infection nécrosante de la peau et tissus mous",
+    "Évolution fulgurante en 24h",
+    "Observations récentes clarifient contamination et signes cliniques"
+   ],
+   "mots_cles": [
+    "Vibrio vulnificus",
+    "infection nécrosante",
+    "tissus mous",
+    "Floride",
+    "signes cliniques",
+    "observations récentes"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "c8e37480742fa8acfcecc9a92e883edd",
+   "titre": "Se réveiller en pleine anesthésie et s’en souvenir : les séquelles d’un phénomène méconnu",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/26/se-reveiller-en-pleine-anesthesie-et-s-en-souvenir-les-sequelles-d-un-phenomene-meconnu_6815479_1650684.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-26T14:47",
+   "recap": "Le texte décrit un phénomène rare où des patients se réveillent en pleine opération chirurgicale et se souviennent des sensations et douleurs vécues. Cette expérience est étudiée par la recherche scientifique, qui s’intéresse aux états de conscience associés. Les patients rapportent des images et sensations persistantes rappelant les troubles de stress post‑traumatique. Le texte ne fournit pas de données chiffrées ni de noms d’acteurs spécifiques. Il souligne l’intérêt scientifique de comprendre ces séquelles.",
+   "points_cles": [
+    "Réveil en pleine anesthésie est rare",
+    "Les patients se souviennent des sensations",
+    "État de conscience étudié par la recherche",
+    "Rappels de troubles de stress post‑traumatique"
+   ],
+   "mots_cles": [
+    "réveil anesthésie",
+    "conscience",
+    "séquelles",
+    "stress post‑traumatique",
+    "recherche scientifique"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "95b69751ecb660e1e9d911e53b2df035",
+   "titre": "Taïwan surpris par la campagne phénoménale de Puma Shen, improbable candidat à la mairie de Taipei",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/26/taiwan-surpris-par-la-campagne-phenomenale-de-puma-shen-improbable-candidat-a-la-mairie-de-taipei_6815546_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-26T14:46",
+   "recap": "Puma Shen, député néophyte sans chance initiale, a mené une campagne phénoménale pour la mairie de Taipei, surprenant les électeurs et menaçant le maire sortant du Kouomintang. Son succès a revitalisé le Parti démocrate progressiste (DPP) et renforcé son influence au sein du gouvernement. La campagne a été marquée par une mobilisation inattendue et une perception de menace réelle pour l’opposition. Les élections locales auront lieu le 28 novembre.",
+   "points_cles": [
+    "Puma Shen, député néophyte, a mené une campagne phénoménale.",
+    "Il menace le maire sortant du Kouomintang.",
+    "Son succès revitalise le DPP.",
+    "Les élections locales sont prévues le 28 novembre."
+   ],
+   "mots_cles": [
+    "Puma Shen",
+    "Taipei",
+    "Kouomintang",
+    "DPP",
+    "campagne phénoménale"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "0e1cb46403a508ce3064ee7d03a6ca21",
+   "titre": "Génocide des Tutsi au Rwanda : en Belgique, faute de moyens, la justice laisse vieillir les dossiers et les suspects",
+   "lien": "https://www.lemonde.fr/afrique/article/2026/11/26/genocide-des-tutsi-au-rwanda-en-belgique-faute-de-moyens-la-justice-laisse-vieillir-les-dossiers-et-les-suspects_6815545_3212.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-26T14:46",
+   "recap": "En Belgique, la justice belge traite très lentement les dossiers liés au génocide rwandais, faute de moyens. Au Flandre, un ancien religieux rwandais de 78 ans est soupçonné d’avoir livré des pensionnaires d’un centre pour enfants handicapés aux génocidaires en 1994. Ce dossier fait partie des 37 affaires liées au génocide que la justice belge ne traite qu’au compte-gouttes.",
+   "points_cles": [
+    "Justice belge manque de moyens pour traiter les dossiers du génocide",
+    "Un ancien religieux rwandais de 78 ans est soupçonné d’avoir livré des enfants handicapés",
+    "37 affaires liées au génocide sont en cours de traitement"
+   ],
+   "mots_cles": [
+    "Belgique",
+    "génocide rwandais",
+    "justice",
+    "ancien religieux",
+    "pensionnaires"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "3849068e064768846ea5f57e2150030c",
+   "titre": "Dix ans après l’accord avec les FARC en Colombie : « Négocier la paix dans une démocratie est très difficile car elle devient alors un moyen de faire de la politique »",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/26/dix-ans-apres-l-accord-avec-les-farc-en-colombie-negocier-la-paix-dans-une-democratie-est-tres-difficile-car-elle-devient-alors-un-moyen-de-faire-de-la-politique_6815536_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-26T14:46",
+   "recap": "Sergio Jaramillo, ancien haut-commissaire pour la paix en Colombie, a dirigé les négociations avec les FARC entre 2012 et 2016. Dans un entretien au magazine « Monde », il évoque la difficulté de négocier la paix dans une démocratie, soulignant que cela devient un moyen de faire de la politique. Il rappelle que le désarmement de la guérilla a été négocié durant cette période. Le texte ne fournit pas de détails supplémentaires sur les faits, les chiffres ou les acteurs impliqués.",
+   "points_cles": [
+    "Jaramillo a mené les négociations 2012‑2016",
+    "La paix est difficile à négocier dans une démocratie",
+    "Le désarmement a été négocié"
+   ],
+   "mots_cles": [
+    "Sergio Jaramillo",
+    "FARC",
+    "paix",
+    "démocratie",
+    "désarmement"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8300d98528cc4ad51ecf6498514dd5cd",
+   "titre": "Un jouet sur trois qui est vendu en ligne est « dangereux », alertent Serge Papin et la DGCCRF avant les fêtes de fin d’année",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/26/un-jouet-sur-trois-qui-est-vendu-en-ligne-est-dangereux-alertent-serge-papin-et-la-dgccrf-avant-les-fetes-de-fin-d-annee_6815540_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-26T14:45",
+   "recap": "En 2025, des contrôles de la répression des fraudes ont révélé que 40 % des jouets vendus sur les plateformes de commerce en ligne sont jugés dangereux, tandis que 77 % sont non conformes aux législations en vigueur. Ces résultats ont conduit Serge Papin et la DGCCRF à alerter le public avant les fêtes de fin d’année.",
+   "points_cles": [
+    "40 % des jouets en ligne sont dangereux",
+    "77 % non conformes aux normes",
+    "Contrôles réalisés en 2025",
+    "Serge Papin et la DGCCRF alertent",
+    "Préoccupation avant les fêtes"
+   ],
+   "mots_cles": [
+    "jouets",
+    "danger",
+    "non conformité",
+    "DGCCRF",
+    "fraudes",
+    "2025"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "2f9d57320069b6ebde5b03b77bc7b1b1",
+   "titre": "Corse : le tourisme reste une locomotive de la croissance, malgré des résultats contrastés",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/26/corse-le-tourisme-reste-une-locomotive-de-la-croissance-malgre-des-resultats-contrastes_6815532_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-26T14:45",
+   "recap": "Le PIB de la Corse a croît de 2,4 % par an entre 2000 et 2023, soit deux fois plus vite que la France hexagonale, grâce notamment à 2 milliards d’investissements publics. Le tourisme, secteur stratégique, reste moteur de cette croissance, mais présente des fragilités.",
+   "points_cles": [
+    "Croissance du PIB à 2,4 %/an",
+    "Investissements publics de 2 milliards d’euros",
+    "Tourisme moteur de la croissance",
+    "Fragilités du secteur touristique"
+   ],
+   "mots_cles": [
+    "PIB",
+    "Croissance",
+    "Investissements publics",
+    "Tourisme",
+    "Fragilités"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "dca5928521592a345d05a404a50f60d7",
+   "titre": "Elon Musk promet d’offrir deux actions de SpaceX à « chaque enfant » aux Etats-Unis",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/26/elon-musk-promet-d-offrir-deux-actions-de-spacex-a-chaque-enfant-aux-etats-unis_6815531_3210.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-26T14:45",
+   "recap": "Elon Musk a annoncé qu’il offrirait deux actions de SpaceX à chaque enfant aux États-Unis. La première action, provenant de SpaceX, sera transférée le mois prochain. La seconde action, provenant de son patrimoine personnel, sera transférée en juin 2027. Aucun détail sur le mécanisme de distribution n’a été fourni.",
+   "points_cles": [
+    "Musk promet deux actions par enfant",
+    "Première action de SpaceX à venir le mois prochain",
+    "Deuxième action personnelle en juin 2027",
+    "Pas de détails sur le dispositif"
+   ],
+   "mots_cles": [
+    "Elon Musk",
+    "SpaceX",
+    "actions",
+    "enfants",
+    "États-Unis"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8a1430ce478e70d67ddb3fa6c8fab732",
+   "titre": "Après Jeanne d’Arc, le RN mise sur l’image fantasmée de la Renaissance",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/26/apres-jeanne-d-arc-le-rn-mise-sur-l-image-fantasmee-de-la-renaissance_6815533_3246.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-26T14:44",
+   "recap": "Le Rassemblement national (RN) a lancé, à l’approche de l’élection présidentielle, l’opération numérique « C’est beau, c’est français ». Cette campagne met en avant des monuments emblématiques de la Renaissance. Elle a suscité l’ire des propriétaires des lieux concernés ainsi que des historiens.",
+   "points_cles": [
+    "RN lance une opération numérique centrée sur la Renaissance",
+    "L’opération s’appelle « C’est beau, c’est français »",
+    "Les propriétaires de monuments s’irritent",
+    "Les historiens critiquent la démarche"
+   ],
+   "mots_cles": [
+    "Rassemblement national",
+    "opération numérique",
+    "Renaissance",
+    "monuments",
+    "propriétaires",
+    "historiens"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "7b18af38092451f225944091f33ce5b1",
+   "titre": "Pour sauvegarder le patrimoine, le RN mise sur le privé",
+   "lien": "https://www.lemonde.fr/culture/article/2026/11/26/pour-sauvegarder-le-patrimoine-le-rn-mise-sur-le-prive_6815530_3246.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-26T14:44",
+   "recap": "Le Rassemblement national (RN) a annoncé qu’il se concentrerait sur le secteur privé pour la sauvegarde du patrimoine, s’éloignant ainsi de sa promesse initiale de dégager un milliard d’euros dédié à la restauration du patrimoine.",
+   "points_cles": [
+    "RN mise sur le privé pour la sauvegarde du patrimoine.",
+    "RN avait promis de mobiliser 1 milliard d’euros.",
+    "Le RN ne respecte plus cette promesse.",
+    "Le focus est désormais sur le secteur privé.",
+    "La restauration du patrimoine est concernée.",
+    ""
+   ],
+   "mots_cles": [
+    "RN",
+    "patrimoine",
+    "1 milliard",
+    "privé",
+    "restauration"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "b3fd8f47959258dee5af7d7b5fbfa3c3",
+   "titre": "EN DIRECT, congrès des maires de France : David Lisnard vante « la nécessité de faire entendre la voix du terrain » avant un débat avec Sébastien Lecornu et Gérard Larcher",
+   "lien": "https://www.lemonde.fr/politique/live/2026/11/26/en-direct-congres-des-maires-de-france-david-lisnard-est-accuse-de-compromission-avec-l-extreme-droite-par-gerald-darmanin_6815062_823448.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-26T14:44",
+   "recap": "Le 108ᵉ congrès des maires de France s’est clôturé avec un échange entre le Premier ministre, le président réélu de l’AMF et le président du Sénat. David Lisnard, maire de la commune, a souligné la nécessité de faire entendre la voix du terrain avant le débat avec Sébastien Lecornu et Gérard Larcher.",
+   "points_cles": [
+    "Congrès des maires de France",
+    "Échange final entre PM, AMF et Sénat",
+    "David Lisnard met en avant la voix du terrain",
+    "Débat prévu avec Lecornu et Larcher"
+   ],
+   "mots_cles": [
+    "Congrès des maires",
+    "David Lisnard",
+    "Sébastien Lecornu",
+    "Gérard Larcher",
+    "Voix du terrain"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "1e92da41ee1bee70caac56c95f176b7d",
+   "titre": "Gérard Depardieu renvoyé en procès pour une partie des viols dont l’accuse Charlotte Arnould",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/26/gerard-depardieu-renvoye-en-proces-pour-une-partie-des-viols-dont-l-accuse-charlotte-arnould_6815543_3224.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-26T14:43",
+   "recap": "Gérard Depardieu a été renvoyé en procès pour une partie des viols dont l’accusatrice Charlotte Arnould l’oppose. La cour a accepté la demande de la défense, qui conteste les accusations. L’acteur pourra éventuellement faire appel en cassation.",
+   "points_cles": [
+    "Depardieu renvoyé en procès pour partie des viols",
+    "Accusatrice Charlotte Arnould",
+    "Défense a saisi la cour",
+    "Acteur conteste les accusations",
+    "Possibilité de pourvoi en cassation"
+   ],
+   "mots_cles": [
+    "Depardieu",
+    "Charlotte Arnould",
+    "procès",
+    "viol",
+    "cassation"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "b6ae933751b02a2da0ea20ba4165cf0d",
+   "titre": "Messages antisémites de Jordan Bardella : les 19 preuves que le président du RN est bien l’auteur des propos incriminés sur Messenger",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/26/messages-antisemites-de-jordan-bardella-les-19-preuves-que-le-president-du-rn-est-bien-l-auteur-des-propos-incrimines-sur-messenger_6815482_823448.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-26T14:42",
+   "recap": "Le Monde a obtenu les échanges privés de Jordan Bardella sur Facebook datant de 2013, révélés par Mediapart le 28 septembre. En comparant ces messages à ses déclarations publiques, le journal conclut que Bardella a effectivement tenu des propos antisémites. L'affaire repose sur 19 preuves documentées. Le texte ne précise pas les détails des propos ni les réactions officielles. La source principale est le journal Le Monde, avec la confirmation de Mediapart.",
+   "points_cles": [
+    "Jordan Bardella a envoyé des messages antisémites en 2013",
+    "Le Monde a obtenu ces échanges via Mediapart",
+    "19 preuves documentées soutiennent l'affirmation",
+    "Les propos contrastent avec ses déclarations publiques",
+    "L'affaire est confirmée par un média national"
+   ],
+   "mots_cles": [
+    "Jordan Bardella",
+    "antisémitisme",
+    "Le Monde",
+    "Mediapart",
+    "Facebook",
+    "preuves"
+   ],
+   "nature": "fait"
+  },
   {
    "id": "34e917c3958bc8f55eea96f6db422697",
    "titre": "Cette sportive électrique chinoise sera produite en Europe en 2027",
