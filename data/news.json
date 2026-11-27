@@ -1,6 +1,751 @@
 {
- "maj": "2026-11-26T14:54",
+ "maj": "2026-11-27T14:52",
  "articles": [
+  {
+   "id": "d7e242579a8fea2587b09f72d0a144be",
+   "titre": "La première voiture électrique de Volvo fête ses 50 ans ! On l'a imaginée en version moderne",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/actualites/voitures-electriques/354107-la-premiere-voiture-electrique-de-volvo-fete-ses-50-ans-on-la-imaginee-en-version-moderne/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-27T14:52",
+   "recap": "Volvo célèbre les 50 ans de son premier prototype électrique, l'Elbil, présenté en novembre 1976 à Göteborg. Ce véhicule offrait une autonomie d'environ 50 km grâce à douze batteries au plomb de 6 V et pouvait parcourir 50 km avant une recharge de dix heures. Deux versions existaient : une orange à quatre places et une jaune utilitaire à deux places, développée avec le soutien de l'État suédois pour les employés de Televerket. L'Elbil était équipé d'un moteur de 9,5 kW (13 ch) à l'essieu arrière, atteignait 70 km/h et pesait 1 200 kg, avec une carrosserie partiellement en fibre de verre et aluminium. Volvo compare aujourd'hui cet ancien prototype à son SUV électrique EX60 P12 AWD, qui propose jusqu'à 810 km d'autonomie WLTP et utilise la technologie cell‑to‑body. Aucun projet officiel de relance de l'Elbil n'est annoncé, mais l'idée d'une version moderne imaginée par IA suscite l'intérêt.",
+   "points_cles": [
+    "L'Elbil, premier prototype électrique de Volvo, a été présenté en 1976 à Göteborg.",
+    "Il offrait 50 km d'autonomie avec des batteries au plomb et une recharge de 10 heures.",
+    "Deux versions existaient : une voiture à quatre places et un utilitaire à deux places.",
+    "Le moteur de 9,5 kW délivrait 70 km/h et le poids était de 1 200 kg.",
+    "Volvo compare ce prototype à l'EX60 P12 AWD, qui propose jusqu'à 810 km d'autonomie."
+   ],
+   "mots_cles": [
+    "Volvo",
+    "Elbil",
+    "voiture électrique",
+    "autonomie",
+    "prototype 1976",
+    "EX60"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "215f13e5a222d82d72381d124a53482f",
+   "titre": "Recharge rapide : les banques continuent de financer les opérateurs, Allego décroche 720 millions d'euros",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/actualites/actualites-recharge/354008-recharge-rapide-les-banques-continuent-de-financer-les-operateurs-allego-decroche-720-millions-deuros/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-27T14:52",
+   "recap": "Allego, opérateur néerlandais de recharge rapide, a annoncé le 26 novembre un financement vert pouvant atteindre 720 M€, souscrit auprès d'une dizaine de banques et assureurs dont Crédit Agricole CIB, Société Générale, ING et KfW. Le financement se compose d'une ligne de refinancement de 370 M€, d'une ligne de crédit optionnelle jusqu'à 250 M€ et d'une ligne de garanties de 100 M€, ce qui signifie que les fonds immédiatement disponibles pour de nouveaux projets sont inférieurs au montant total. Cette opération s'inscrit dans la continuité des levées de fonds vertes réalisées par d'autres opérateurs de recharge rapide : Electra (433 M€ en juillet 2025), Fastned (jusqu'à 200 M€ en janvier) et Milence (120 M€ en mai). Allego, majoritairement détenu par le fonds Meridiam, possède plus de 32 000 points de recharge dans 13 pays, dont plus de 5 500 ultra‑rapides, et prévoit d'étendre son réseau sur autoroutes, commerces et villes, notamment en équipant une trentaine d'aires du réseau APRR en France dès 2027.",
+   "points_cles": [
+    "Allego obtient un financement vert de 720 M€ auprès d'une dizaine de banques.",
+    "Le financement comprend 370 M€ de refinancement, 250 M€ de crédit optionnel et 100 M€ de garanties.",
+    "Les fonds disponibles immédiatement sont bien inférieurs au montant total annoncé.",
+    "Allego possède plus de 32 000 points de recharge dans 13 pays et vise une expansion en France dès 2027."
+   ],
+   "mots_cles": [
+    "Allego",
+    "financement vert",
+    "recharge rapide",
+    "720 millions d'euros",
+    "expansion réseau"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "d5f992908f334af50c499ccd2021a112",
+   "titre": "Black Friday - Cette Fiat Topolino électrique pour le prix d'un forfait mobile : 19 € par mois !",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/bons-plans/evenement-promotionnel/354177-black-friday-cette-fiat-topolino-electrique-pour-le-prix-dun-forfait-mobile-19-e-par-mois/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-27T14:52",
+   "recap": "Dans le cadre du Black Friday, Fiat propose la Topolino électrique en location longue durée (LLD) à 19 € par mois sans apport, via l’offre \"Freeday\" valable jusqu’au 30 novembre. Il s’agit de la version ancienne Dolcevita, une mini‑voiture deux places limitée à 45 km/h avec une autonomie d’environ 75 km, équipée d’un toit ouvrant en toile mais sans portes. La location est de 36 mois pour 15 000 km et nécessite le code promotionnel FREEDAY26 lors de la commande en ligne. L’absence de portes constitue une contrainte majeure, limitant l’usage à des environnements abrités et rapprochant le véhicule d’un scooter. Cette offre très basse serait due à la mauvaise performance commerciale de cette variante sans portes, qui a été remplacée par une version avec portes. Elle est présentée comme une alternative économique à un scooter ou comme un petit plaisir pour les beaux jours.",
+   "points_cles": [
+    "Topolino électrique en LLD à 19 €/mois sans apport pendant le Black Friday.",
+    "Version Dolcevita sans portes, toit ouvrant en toile, 45 km/h, 75 km d’autonomie.",
+    "Location de 36 mois, 15 000 km, code FREEDAY26 requis.",
+    "Absence de portes = contrainte d’usage, besoin d’un stationnement abrité.",
+    "Prix très bas expliqué par les faibles ventes de cette variante."
+   ],
+   "mots_cles": [
+    "Fiat",
+    "Topolino",
+    "Black Friday",
+    "location longue durée",
+    "19 euros",
+    "sans portes"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "ff001cf474f6aed5c31844678dd9dd6f",
+   "titre": "Black Friday : on a trouvé les meilleurs jeux vidéo récents en promotion à acheter",
+   "lien": "https://www.numerama.com/pop-culture/2386235-black-friday-on-a-trouve-les-meilleurs-jeux-video-recents-en-promotion-a-acheter.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-27T14:51",
+   "recap": "Le Black Friday 2026 propose de nombreuses promotions sur des jeux vidéo récents et classiques. Un article liste dix titres avec leurs prix réduits, incluant GTA 6, Control Resonant, The Legend of Zelda : Ocarina of Time, Star Wars Galactic Racer, Marvel’s Wolverine, The Blood of Dawnwalker, EA SPORTS FC 27, Saros, Call of Duty : Modern Warfare 4 et Dragon Quest VII Reimagined. Les réductions varient de 33,58 € à 69,99 € selon le jeu et la plateforme, avec des codes promo mentionnés pour certains achats sur JoyBuy. Chaque jeu est brièvement décrit (univers, gameplay, contexte narratif). L’article vise à aider les joueurs à choisir les meilleures offres parmi les nombreuses promotions du Black Friday.",
+   "points_cles": [
+    "GTA 6 (PS5) à 69,90 € au lieu de 79,99 €.",
+    "Control Resonant à 35,99 € au lieu de 59,99 €.",
+    "Zelda : Ocarina of Time (Switch 2) à 49,99 € au lieu de 69,99 €.",
+    "Star Wars Galactic Racer à 33,58 € au lieu de 79,99 €.",
+    "EA SPORTS FC 27 à 40,39 € (PS5/Xbox) ou 32,83 € (Switch)."
+   ],
+   "mots_cles": [
+    "Black Friday 2026",
+    "promotions jeux vidéo",
+    "prix réduits",
+    "GTA 6",
+    "Zelda"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "5fe15928749bce481ea3ed574ce67aa7",
+   "titre": "Black Friday : déjà plus de 100 offres repérées chez Amazon, Fnac, Boulanger et Cdiscount et on continue d’en ajouter (EN DIRECT)",
+   "lien": "https://www.numerama.com/tech/2385563-black-friday-on-a-trie-les-100-meilleures-offres-de-levenement-et-on-continue-den-ajouter-en-direct.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-27T14:51",
+   "recap": "Le texte présente une sélection d'offres du Black Friday 2026, principalement sur des produits électroniques et quelques services. Il décrit des réductions importantes sur des articles comme un climatiseur split mobile (‑39 %), l'Apple Watch SE 3 (‑16 %), le MacBook Neo (‑12 %), la manette Sony DualSense (‑34 %) et le jeu God of War Ragnarök (‑50 %). D'autres promotions concernent une batterie externe, un jeu de société, un VTC électrique reconditionné, un forfait mobile 5G et un PC hybride Xbox. Les prix avant et après remise sont indiqués, ainsi que quelques caractéristiques techniques. Aucun acteur commercial autre que les marques et les sites de vente (Amazon, Joybuy, Lidl, etc.) n'est détaillé, et aucune donnée chiffrée sur le volume des ventes n'est fournie. L'enjeu est d'informer les consommateurs des meilleures offres du mois de Black Friday, avec un focus sur la diversité des produits et les économies possibles.",
+   "points_cles": [
+    "Le Black Friday 2026 propose plus de 100 offres chez les grands marchands.",
+    "Des réductions majeures sont appliquées sur des produits high-tech comme le climatiseur Trotec et l'Apple Watch SE 3.",
+    "Des promotions touchent aussi des services, comme le forfait 5G de RED by SFR à 12,99 € par mois.",
+    "Le texte détaille les spécifications et les prix avant/après remise pour chaque article.",
+    "L'objectif est de guider les consommateurs vers les meilleures offres du mois."
+   ],
+   "mots_cles": [
+    "Black Friday 2026",
+    "offres promotionnelles",
+    "réductions",
+    "produits électroniques",
+    "forfait 5G"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "bb0833cf6f4afba657030825b92b7a9d",
+   "titre": "Face aux barrières de l’UE, Geely va installer sa nouvelle plateforme électrique dans l’usine Ford de Valence",
+   "lien": "https://www.numerama.com/vroom/2386227-face-aux-barrieres-de-lue-geely-va-installer-sa-nouvelle-plateforme-electrique-dans-lusine-ford-de-valence.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-27T14:51",
+   "recap": "Geely a racheté 34 % d’une partie de l’usine Ford de Valence, créant une co‑entreprise où Ford détient 66 %. La joint‑venture doit lancer cinq modèles dès 2028, dont deux SUV électriques Geely, et installer une nouvelle plateforme électrifiée GEA destinée au marché européen. Cette stratégie vise à contourner les surtaxes de l’UE sur les véhicules électriques importés de Chine (18,8 % + 10 % de douane) et les limites d’importation d’hybrides (350 000 unités/an). Geely vend déjà trois modèles en Europe (Starray, E2, E5) basés sur GEA, qui sera aussi utilisée par Ford pour un futur crossover. La production à Valence commencera au premier semestre 2027, avec les premières voitures sorties en 2028, dans le cadre d’un plan de 16 modèles européens d’ici 2028.",
+   "points_cles": [
+    "Geely détient 34 % de l’usine Ford de Valence, Ford 66 %.",
+    "Installation d’une plateforme électrifiée GEA pour le marché européen.",
+    "La co‑entreprise vise à éviter les surtaxes UE de 18,8 % sur les VE chinois.",
+    "Premières productions prévues en 2028, cinq modèles dont deux SUV électriques.",
+    "Ford utilisera également la plateforme GEA pour un futur crossover."
+   ],
+   "mots_cles": [
+    "Geely",
+    "Ford",
+    "Valence",
+    "plateforme électrifiée",
+    "surtaxe UE",
+    "SUV électrique"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8361ce6e98ecc1f9b7db5ebfd7ecd638",
+   "titre": "La Corée du Nord suspend temporairement son aide militaire à la Russie",
+   "lien": "https://www.rfi.fr/fr/asie-pacifique/20261127-la-cor%C3%A9e-du-nord-suspend-temporairement-son-aide-militaire-%C3%A0-la-russie",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-27T14:50",
+   "recap": "Depuis 2024, la Corée du Nord a déployé près de 15 000 soldats aux côtés des forces russes en Ukraine, témoignant d’une alliance militaire avec Moscou. Un accord de coopération en matière de renseignement a récemment renforcé ces liens. Cependant, la Corée du Sud a commencé à se rapprocher de la Russie, notamment lors d’une rencontre entre leurs chefs d’État au sommet APEC en Chine en novembre, motivée par des intérêts économiques et le souhait de renouer avec le Nord via Moscou. Cette nouvelle diplomatie sud‑russe inquiète Pyongyang, qui redoute une situation tripartite délicate. En réponse, le régime nord‑coréen a décidé de suspendre temporairement son aide militaire à la Russie afin de contraindre Moscou à choisir entre le Nord et le Sud. La suspension vise à maintenir l’influence de la Corée du Nord dans la région et à éviter un isolement face à la coopération sud‑russe.",
+   "points_cles": [
+    "Envoi de ~15 000 soldats nord‑coréens en Ukraine depuis 2024.",
+    "Signature d’un accord de renseignement entre Russie et Corée du Nord.",
+    "Proche rapprochement entre Corée du Sud et Russie lors du sommet APEC en novembre.",
+    "Pyongyang suspend temporairement son aide militaire à Moscou.",
+    "Objectif de forcer la Russie à choisir entre le Nord et le Sud."
+   ],
+   "mots_cles": [
+    "Corée du Nord",
+    "Russie",
+    "Corée du Sud",
+    "aide militaire",
+    "APEC",
+    "renseignement"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "5621ffef485340d2a0e49cf0af987191",
+   "titre": "France: le Black Friday, une bonne affaire aussi pour les commerçants peu scrupuleux",
+   "lien": "https://www.rfi.fr/fr/%C3%A9conomie/20261127-france-le-black-friday-une-bonne-affaire-aussi-pour-les-commer%C3%A7ants-peu-scrupuleux",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-27T14:50",
+   "recap": "Le Black Friday, importé des États‑Unis, s’est installé en France dès le début des années 2010 et s’étend aujourd’hui sur une Black Week voire un Black Month, précédant le Cyber Monday et les achats de fin d’année. La DGCCRF a constaté qu’en 2024, un tiers des commerces contrôlés présentaient des anomalies, notamment des hausses de prix suivies de fausses promotions, des mentions trompeuses (« prix conseillé », « stock limité », etc.) et des sites marchands frauduleux. L’association Que Choisir a relevé des exemples concrets (vidéoprojecteur, friteuse Ninja) où le prix était artificiellement augmenté avant d’être présenté comme une remise. Depuis le 28 mai 2022, le Code de la consommation oblige les commerçants à afficher le prix le plus bas pratiqué les trente jours précédents, afin de limiter ces pratiques. La DGCCRF recommande de vérifier le SIRET, l’adresse du vendeur et de rechercher d’éventuelles alertes d’arnaque, tandis que l’AMF publie une liste noire des sites non autorisés. En cas d’arnaque, le consommateur doit d’abord contacter le service client, mais les recours restent limités pour les fausses promotions.",
+   "points_cles": [
+    "Un tiers des commerces contrôlés en 2024 présentent des anomalies liées au Black Friday.",
+    "Les pratiques frauduleuses incluent hausse de prix avant remise et mentions trompeuses.",
+    "Depuis mai 2022, le prix le plus bas des 30 jours précédents doit être affiché.",
+    "La DGCCRF conseille de vérifier SIRET, adresse et de rechercher des alertes d’arnaque.",
+    "Les recours sont limités pour les fausses promotions, mais le service client doit être contacté."
+   ],
+   "mots_cles": [
+    "Black Friday",
+    "DGCCRF",
+    "fausses promotions",
+    "SIRET",
+    "Que Choisir",
+    "consommateur"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "acf07101465d6d1b934eb0e8f7bae3b3",
+   "titre": "\"Il y a vraiment une grande différence\" : enfin du gazole sous les 2 euros dans les stations-services",
+   "lien": "https://www.franceinfo.fr/economie/transports/prix-des-carburants/il-y-a-vraiment-une-grande-difference-enfin-du-gazole-sous-les-2-euros-dans-les-stations-services_8303175.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-27T14:49",
+   "recap": "Le 27 novembre, le prix du gazole est descendu sous les 2 euros le litre dans plusieurs stations, comme Leclerc (1,94 €), Total (1,89 €) et Super U (1,98 €). Cette baisse intervient environ un mois après le déstockage des réserves stratégiques de gazole. Les consommateurs, comme Coralie Vuzé et Anne Colombier, constatent des économies de l'ordre de 20 à 30 € sur leurs pleins. Le recul du cours du baril et la mise à prix d'ami des stocks stratégiques expliquent cette évolution. Un expert, Thierry Bros, indique que le diesel pourrait remonter légèrement, mais restera inférieur de 20 centimes à ce qu'il aurait dû être. Le dispositif de déblocage des stocks, lancé début novembre, est prévu jusqu'au 31 janvier 2027.",
+   "points_cles": [
+    "Le gazole passe sous les 2 € le litre dans plusieurs enseignes.",
+    "Les consommateurs réalisent des économies de 20‑30 € sur leurs pleins.",
+    "La baisse est liée au déstockage des réserves stratégiques et au cours du pétrole.",
+    "Un expert prévoit une possible remontée légère du prix du diesel.",
+    "Le dispositif de déblocage des stocks se termine le 31 janvier 2027."
+   ],
+   "mots_cles": [
+    "gazole",
+    "prix",
+    "stocks stratégiques",
+    "déstockage",
+    "économies",
+    "début novembre"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "ff0f010550c089f987fdc81875638595",
+   "titre": "Les distributeurs indépendants de SFR assignent l'opérateur en justice dans le cadre de son rachat",
+   "lien": "https://www.franceinfo.fr/economie/telecom/rachat-de-sfr/les-distributeurs-independants-de-sfr-assignent-l-operateur-en-justice-dans-le-cadre-de-son-rachat_8303124.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-27T14:49",
+   "recap": "Le réseau des distributeurs indépendants de SFR a porté plainte contre l'opérateur devant le tribunal des activités économiques de Paris, estimant que la vente de SFR menace leurs activités. L'audience est prévue le 10 décembre. Les distributeurs demandent le rééquilibrage de leurs contrats et la réparation des dommages liés à la dégradation de leurs ventes, aggravée par l'annonce de la cession de SFR à un consortium composé de Bouygues Telecom, Free-Iliad et Orange. Altice France, maison mère de SFR, a signé en juin un protocole d'accord pour céder SFR pour 20,35 milliards d’euros à ce consortium. L'Adies représente 55 chefs d’entreprise, 84 sociétés, près de 250 points de vente SFR et environ 1 500 salariés, soit près de la moitié de la présence physique de SFR en France. SFR a confirmé l'assignation mais a refusé de commenter les griefs, les contestant fermement.",
+   "points_cles": [
+    "Les distributeurs indépendants de SFR assignent l'opérateur en justice.",
+    "Ils réclament le rééquilibrage des contrats et la réparation des pertes.",
+    "La vente de SFR à Bouygues, Free-Iliad et Orange est prévue pour 20,35 Mds €.",
+    "L'Adies représente 55 chefs d’entreprise et près de 250 points de vente SFR.",
+    "L'audience est fixée au 10 décembre au tribunal de Paris."
+   ],
+   "mots_cles": [
+    "SFR",
+    "distributeurs indépendants",
+    "vente",
+    "tribunal",
+    "rééquilibrage",
+    "consortium"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "a68c2bd013b416fa0090dd2965a0dfe0",
+   "titre": "Face aux restrictions de visas, les touristes russes prêts à délaisser l'Europe?",
+   "lien": "https://www.rfi.fr/fr/europe/20261127-face-aux-restrictions-de-visas-les-touristes-russes-pr%C3%AAts-%C3%A0-d%C3%A9laisser-l-europe",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-27T14:49",
+   "recap": "Face à des restrictions de visas et à la suspension des liaisons aériennes directes, les touristes russes trouvent les voyages en Europe de plus en plus compliqués. La Commission européenne recommande d’interdire l’accès aux anciens militaires russes et de renforcer l’examen des demandes de visas Schengen. La procédure de visa, déjà plus longue et valable pour une seule entrée, s’est durcie l’an dernier, mais les nouvelles recommandations accentuent les difficultés. Des Russes comme Ilona envisagent de se tourner vers des destinations sans visa comme le Vietnam, tandis que d’autres, comme Lena, regrettent la perte de leurs destinations européennes habituelles. Les agences de visas, comme Visantium, constatent une hausse des refus et une augmentation des demandes d’assistance. Cette situation pourrait réduire le nombre de touristes russes en Europe et pousser davantage de voyageurs à chercher des alternatives hors du Vieux Continent.",
+   "points_cles": [
+    "La Commission européenne veut interdire l’accès aux anciens militaires russes et durcir les visas Schengen.",
+    "La procédure de visa Schengen pour les Russes est déjà plus longue, à entrée unique et plus stricte.",
+    "Des touristes russes envisagent de se tourner vers des pays sans visa, comme le Vietnam.",
+    "Les agences de visas signalent une hausse des refus et des demandes d’assistance.",
+    "Ces mesures pourraient réduire le flux de touristes russes vers l’Europe."
+   ],
+   "mots_cles": [
+    "visas Schengen",
+    "restrictions de visas",
+    "touristes russes",
+    "Commission européenne",
+    "alternatives hors Europe"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "213cfe271602176e983286e8f99efa26",
+   "titre": "Présidentielle 2027 : Marine Le Pen renouvelle sa confiance à Jordan Bardella et veut obliger les journalistes à respecter le secret de l'instruction",
+   "lien": "https://www.franceinfo.fr/elections/direct-presidentielle-2027-marine-le-pen-va-presenter-son-programme-pour-les-outre-mer-en-pleine-tourmente-sur-les-ecrits-antisemites-attribues-a-jordan-bardella_8302521.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-27T14:48",
+   "recap": "Le 27 novembre, Marine Le Pen a réaffirmé sa confiance en Jordan Bardella malgré des accusations d'écrits antisémites de jeunesse, et a menacé les médias de sanctions s'ils violaient le secret de l'instruction. Bruno Retailleau, candidat LR, a minimisé le ralliement de huit députés à David Lisnard, le qualifiant d'anecdotique et affirmant rester concentré sur son projet. Le RN a présenté son programme pour les outre‑mer, avec Bardella contestant les révélations de Le Monde et Mediapart, se déclarant victime d'une persécution. Eric Zemmour a annoncé que 2027 serait sa « dernière campagne », évoquant une possible candidature de sa compagne en 2032. Jean‑Luc Mélenchon a critiqué la politique économique allemande, appelant à une remise à plat des relations franco‑allemandes. D’autres candidats comme Teddy Riner et Robert Ménard ont fait des déclarations diverses sur la sécurité et l'éducation, tandis que Retailleau a proposé de supprimer Parcoursup au profit d’un système basé sur le mérite.",
+   "points_cles": [
+    "Marine Le Pen confirme sa confiance en Jordan Bardella et menace les médias.",
+    "Bruno Retailleau minimise le ralliement de députés à David Lisnard.",
+    "Jordan Bardella conteste les accusations d'antisémitisme et se dit persécuté.",
+    "Eric Zemmour annonce que 2027 sera sa dernière campagne présidentielle.",
+    "Jean‑Luc Mélenchon critique la direction de l'économie allemande."
+   ],
+   "mots_cles": [
+    "Marine Le Pen",
+    "Jordan Bardella",
+    "Bruno Retailleau",
+    "ralliements",
+    "secret de l'instruction",
+    "programme outre-mer"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "4efe31f6db55e233c74b8daaa7a1903d",
+   "titre": "Déraillement d'un TER en Seine-Maritime : un homme de 22 ans mis en examen pour vol et blessures involontaires",
+   "lien": "https://www.franceinfo.fr/faits-divers/accident/info-radio-france-deraillement-d-un-ter-en-seine-maritime-un-homme-de-22-ans-mis-en-examen-pour-vol-et-blessures-involontaires_8303052.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-27T14:48",
+   "recap": "Le 11 septembre, un TER transportant 186 passagers a déraillé à Cléon (Seine‑Maritime), blessant 44 personnes et mobilisant une centaine de pompiers ainsi qu’un hélicoptère. Deux mois plus tard, le 27 novembre, un homme de 22 ans a été mis en examen pour tentative de vol et blessures involontaires, soupçonné d’avoir déplacé seul un morceau de rail qui a causé le déraillement avant de le relâcher en panique. Il a été placé sous contrôle judiciaire strict en raison d’une déficience mentale prononcée, l’expert psychiatre ayant constaté une altération du discernement. Les trois autres personnes interpellées – le père et le frère jumeau du mis en cause – ont été libérées. Les faits ont été révélés par ICI Normandie à partir d’une source proche de l’enquête.",
+   "points_cles": [
+    "Déraillement du TER à Cléon le 11 septembre, 44 blessés.",
+    "Un homme de 22 ans mis en examen pour tentative de vol et blessures involontaires.",
+    "Il aurait déplacé un rail, puis l’a laissé en travers de la voie en panique.",
+    "Il est placé sous contrôle judiciaire strict pour déficience mentale.",
+    "Les trois autres suspects ont été libérés."
+   ],
+   "mots_cles": [
+    "TER",
+    "Cléon",
+    "déraillement",
+    "vol de rail",
+    "blessures involontaires",
+    "déficience mentale"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "82e397f492bd305176818ebae9fcae34",
+   "titre": "\"Ciao les panneaux\" : la mairie de Paris annonce le retrait de 1 800 panneaux directionnels",
+   "lien": "https://www.franceinfo.fr/economie/transports/ciao-les-panneaux-la-mairie-de-paris-annonce-le-retrait-de-1-800-panneaux-directionnels_8303262.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-27T14:48",
+   "recap": "La mairie de Paris a annoncé le retrait progressif d'environ 1 800 panneaux directionnels destinés aux automobilistes. Cette décision s'inscrit dans une démarche de libération de l'espace public et de désencombrement des trottoirs. Le projet concerne près de deux mille panneaux, dont le nombre exact est indiqué comme « près de 2 000 ». L'objectif affiché est d'améliorer la fluidité piétonne et de rendre les voies publiques plus agréables. Aucun détail n'est donné sur le calendrier précis du retrait ni sur les modalités de remplacement éventuel. Cette annonce a été relayée par Franceinfo, qui en a publié le titre sous la forme « Ciao les panneaux ».",
+   "points_cles": [
+    "Retrait de ~1 800 panneaux directionnels à Paris.",
+    "But : libérer l'espace public et désencombrer les trottoirs.",
+    "Annonce faite par la mairie, relayée par Franceinfo."
+   ],
+   "mots_cles": [
+    "Paris",
+    "panneaux directionnels",
+    "espace public",
+    "trottoirs",
+    "mairie"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "5969a7736e32cd8561b13471b0feec9c",
+   "titre": "« On est vraiment sur de l’achat compulsif » : Whatnot, la plateforme de téléachat 2.0 au rythme effréné",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/27/on-est-vraiment-sur-de-l-achat-compulsif-whatnot-la-plateforme-de-teleachat-2-0-au-rythme-effrene_6815812_4408996.html",
+   "source": "Le Monde",
+   "domaine": "Tech",
+   "partiel": true,
+   "date": "2026-11-27T14:47",
+   "recap": "Whatnot est une plateforme de téléachat 2.0 qui propose des ventes en direct d'objets variés, des cartes à collectionner aux vêtements en passant par des robots aspirateurs. Elle fonctionne comme une application de « live shopping » où les articles sont mis aux enchères. La plateforme connaît une forte activité pendant le Black Friday. Les organisations de protection des consommateurs ont exprimé leurs inquiétudes, estimant que ces pratiques encouragent l'achat compulsif. Aucun chiffre précis n'est fourni sur le volume des ventes ou le nombre d'utilisateurs. Le texte ne précise pas les réponses éventuelles de la plateforme ou les mesures envisagées.",
+   "points_cles": [
+    "Whatnot propose des ventes en direct d'objets divers via une application de live shopping.",
+    "La plateforme connaît une forte activité pendant le Black Friday.",
+    "Les associations de consommateurs s'inquiètent d'un risque d'achat compulsif."
+   ],
+   "mots_cles": [
+    "Whatnot",
+    "live shopping",
+    "Black Friday",
+    "achat compulsif",
+    "consommateurs"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "3cf988ae10664be5d80e9c6d099fa057",
+   "titre": "Agriculture, guerre en Ukraine, présidentielle en France... On vous explique pourquoi les négociations sur le budget de l'Union européenne sont dans l'impasse",
+   "lien": "https://www.franceinfo.fr/monde/europe/union-europeenne/agriculture-guerre-en-ukraine-presidentielle-en-france-on-vous-explique-pourquoi-les-negociations-sur-le-budget-de-l-union-europeenne-sont-dans-l-impasse_8302635.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-27T14:47",
+   "recap": "Lors d'un sommet européen du 26 novembre, les chefs d'État de l'UE n'ont pas trouvé d'accord sur le budget 2028-2034, prévu à 2 000 milliards d'euros puis revu à la baisse de plus de 200 milliards. Antonio Costa a appelé à un compromis d'ici fin d'année, sous la pression des échéances électorales, notamment la présidentielle française et les élections en Pologne. Deux camps se sont opposés : la France, la Pologne, l'Italie et l'Espagne demandent un budget ambitieux et la préservation de la PAC (66,25 milliards d'euros), tandis que l'Allemagne, la Suède et les Pays‑Bas‑Pays‑Bas prônent des coupes et priorisent défense et immigration. Le chancelier allemand Friedrich Merz a exigé la participation de tous les États à l'aide à l'Ukraine, critiquant la réticence de la Hongrie, de la République tchèque et de la Slovaquie. Emmanuel Macron a menacé de bloquer le budget si la PAC n'est pas garantie, tandis que le RN veut réduire la contribution française. Le prochain sommet est prévu le 17 décembre, mais les négociations restent bloquées.",
+   "points_cles": [
+    "Le sommet du 26 novembre n'a pas abouti à un accord budgétaire UE 2028‑2034.",
+    "Deux camps opposés : pays favorables à un budget ambitieux vs pays prônant des coupes.",
+    "La PAC de 66,25 mrd d’euros est un point de friction majeur pour la France.",
+    "L'aide à l'Ukraine et les échéances électorales (France, Pologne) compliquent les négociations.",
+    "Un nouveau sommet est prévu le 17 décembre, mais les discussions restent en impasse."
+   ],
+   "mots_cles": [
+    "budget UE",
+    "PAC",
+    "élections européennes",
+    "aide à l'Ukraine",
+    "coupes budgétaires"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "af8bad210508e1bbf33b6546d5e29d4c",
+   "titre": "Royaume-Uni : le ministère du travail déclare un « cyberincident » et met plusieurs de ses services hors ligne",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/27/royaume-uni-le-ministere-du-travail-declare-un-cyberincident-et-met-plusieurs-de-ses-services-hors-ligne_6815850_4408996.html",
+   "source": "Le Monde",
+   "domaine": "Tech",
+   "partiel": true,
+   "date": "2026-11-27T14:46",
+   "recap": "Le ministère du Travail du Royaume-Uni a signalé un cyberincident affectant plusieurs de ses services en ligne. L'administration utilise des systèmes informatiques très anciens, ce qui complique la situation. Elle a mis hors ligne les services touchés pour les sécuriser et travaille à les rétablir rapidement. Les versements d'allocations et de retraites restent assurés et ne sont pas impactés. Une enquête est en cours pour comprendre l'origine et l'ampleur de l'incident. Les autorités visent à restaurer les services en ligne dès que possible.",
+   "points_cles": [
+    "Cyberincident déclaré par le ministère du Travail du Royaume-Uni.",
+    "Services en ligne mis hors ligne à cause de systèmes informatiques très anciens.",
+    "Versements d'allocations et de retraites non affectés.",
+    "Enquête en cours pour rétablir les services rapidement."
+   ],
+   "mots_cles": [
+    "Royaume-Uni",
+    "cyberincident",
+    "ministère du Travail",
+    "services en ligne",
+    "allocations",
+    "retraites"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "ed212e4ba39588e29c3cf35486dc44de",
+   "titre": "Jeu vidéo : en crise, le secteur interpelle les candidats à l’élection présidentielle",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/27/jeu-video-en-crise-le-secteur-interpelle-les-candidats-a-l-election-presidentielle_6815838_823448.html",
+   "source": "Le Monde",
+   "domaine": "Tech",
+   "partiel": true,
+   "date": "2026-11-27T14:46",
+   "recap": "Le secteur du jeu vidéo traverse une crise depuis plusieurs années. Les professionnels du domaine demandent un soutien politique. Ils réclament notamment le renforcement du crédit d’impôt dédié aux jeux vidéo. Cette demande s’inscrit dans le contexte de l’élection présidentielle. Les acteurs concernés sont les entreprises et les salariés du secteur du jeu vidéo. L’enjeu est d’obtenir des mesures fiscales pour relancer l’activité. La suite attendue est que les candidats intègrent ces revendications dans leurs programmes.",
+   "points_cles": [
+    "Le secteur du jeu vidéo est en crise depuis plusieurs années.",
+    "Les professionnels demandent un renforcement du crédit d’impôt jeu vidéo.",
+    "Ils souhaitent un soutien politique en vue de l’élection présidentielle."
+   ],
+   "mots_cles": [
+    "jeu vidéo",
+    "crise",
+    "crédit d’impôt",
+    "politique",
+    "élection présidentielle"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "942dac558c2812942aa2f33a5b6fbc58",
+   "titre": "Après le naufrage d’un pétrolier-chimiquier au large d’Ibiza, course contre la montre en Espagne pour éviter une marée noire",
+   "lien": "https://www.lemonde.fr/planete/article/2026/11/27/apres-le-naufrage-d-un-petrolier-chimiquier-au-large-d-ibiza-course-contre-la-montre-en-espagne-pour-eviter-une-maree-noire_6815870_3244.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-27T14:45",
+   "recap": "Le pétrolier-chimiquier Med Emre, battant pavillon maltais, transportait 7 000 tonnes de gazole lorsqu’il s’est retourné près des Baléares, au large d’Ibiza, dans la nuit de mercredi à jeudi. L’accident a entraîné la mort d’un marin et plusieurs blessés parmi l’équipage. Une inspection de la coque et de la partie immergée du navire a été prévue pour vendredi afin d’évaluer les risques de pollution. Les autorités espagnoles ont lancé une course contre la montre pour éviter une éventuelle marée noire. Le contexte est celui d’un naufrage en zone maritime sensible, avec des enjeux environnementaux majeurs. La suite attendue concerne les résultats de l’inspection et les mesures de prévention ou de nettoyage qui seront prises.",
+   "points_cles": [
+    "Le Med Emre, pavillon maltais, transportait 7 000 tonnes de gazole.",
+    "Le navire s’est retourné près des Baléares, au large d’Ibiza.",
+    "Un marin est mort et plusieurs membres d’équipage sont blessés.",
+    "Une inspection de la coque était prévue vendredi pour prévenir une marée noire.",
+    "Les autorités espagnoles agissent rapidement pour éviter une pollution majeure."
+   ],
+   "mots_cles": [
+    "Med Emre",
+    "gazole",
+    "naufrage",
+    "Baléares",
+    "marée noire",
+    "inspection"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "7921853802133774125c0e0be9c224c1",
+   "titre": "En images : introduire de l’ADN ou de l’ARN dans les cellules est plus compliqué qu’on ne l’imagine",
+   "lien": "https://www.lemonde.fr/sciences/video/2026/11/27/en-images-introduire-de-l-adn-ou-de-l-arn-dans-les-cellules-est-plus-complique-qu-on-ne-l-imagine_6815848_1650684.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-27T14:45",
+   "recap": "Un reportage vidéo du CNRS montre que l’introduction d’ADN ou d’ARN dans les cellules est très difficile. Moins de 1 % du matériel génétique délivré dans le cadre d’un vaccin ou d’une thérapie génique est réellement exploité par la cellule cible. Cette faible efficacité est due à de multiples obstacles cellulaires qui bloquent l’accès ou la libération du matériel génétique. Des chercheurs travaillent à identifier ces barrières afin de concevoir des vecteurs ou des méthodes d’administration plus performants. L’objectif est d’augmenter la proportion de matériel génétique fonctionnel pour améliorer l’efficacité des vaccins et des thérapies géniques. Le reportage illustre les défis techniques et biologiques rencontrés dans ce domaine.",
+   "points_cles": [
+    "Moins de 1 % du matériel génétique délivré est utilisé par la cellule.",
+    "Les obstacles cellulaires limitent l’efficacité des vaccins et thérapies géniques.",
+    "Des recherches visent à contourner ces barrières pour améliorer l’introduction d’ADN/ARN."
+   ],
+   "mots_cles": [
+    "ADN",
+    "ARN",
+    "thérapie génique",
+    "vaccin",
+    "efficacité",
+    "CNRS"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "2bd82ca24fc001b7367f1d209da5d6ba",
+   "titre": "Améliorer la FIV : « Cherchons à prévenir les déséquilibres fonctionnels des premiers moments de l’œuf »",
+   "lien": "https://www.lemonde.fr/sciences/article/2026/11/27/ameliorer-la-fiv-cherchons-a-prevenir-les-desequilibres-fonctionnels-des-premiers-moments-de-l-uf_6815840_1650684.html",
+   "source": "Le Monde",
+   "domaine": "Sciences",
+   "partiel": true,
+   "date": "2026-11-27T14:45",
+   "recap": "Dans une tribune publiée au quotidien Le Monde, le biologiste de la reproduction Jacques Testart et la juriste spécialisée en droit du vivant Marie‑Angèle Hermitte soulignent que le taux de naissance par cycle de fécondation in vitro (FIV) demeure faible. Elles appellent les acteurs du secteur de santé à identifier les déséquilibres fonctionnels qui surviennent aux premiers instants de l’œuf. Elles proposent de développer et de généraliser des milieux de fécondation mieux adaptés à ces premiers moments. L’objectif est d’améliorer la viabilité embryonnaire et, par conséquent, d’augmenter le nombre de naissances réussies après FIV. Aucun chiffre précis n’est fourni sur le taux actuel ni sur les gains attendus. La tribune vise à sensibiliser à l’importance d’une optimisation précoce du micro‑environnement embryonnaire.",
+   "points_cles": [
+    "Le taux de naissance par cycle de FIV reste faible.",
+    "Testart et Hermitte demandent de détecter les déséquilibres fonctionnels précoces de l’œuf.",
+    "Elles préconisent de généraliser des milieux de fécondation mieux adaptés.",
+    "L’enjeu est d’augmenter les naissances réussies après FIV."
+   ],
+   "mots_cles": [
+    "FIV",
+    "taux de naissance",
+    "milieux de fécondation",
+    "déséquilibres fonctionnels",
+    "biologiste",
+    "juriste"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "9a46e4c3d09a611a7fa90a62467f60dd",
+   "titre": "Au procès d’un gérant de brasserie et de l’entreprise Otis après l’accident mortel d’un jeune apprenti, la banalité de l’absence de prévention",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/27/on-a-l-impression-d-une-improvisation-totale-au-proces-d-un-gerant-de-brasserie-et-d-otis-apres-un-accident-mortel-la-banalite-de-l-absence-de-prevention_6815872_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-27T14:44",
+   "recap": "Sept ans après le décès de Ludovic Marais, apprenti barman à Tours, le gérant du restaurant a été poursuivi pour homicide involontaire. Le procès a révélé un dysfonctionnement de longue date d’un monte-charge mal entretenu par l’entreprise Otis. Il a également mis en évidence l’absence totale de prévention des risques par l’employeur. Les faits soulignent un manque de maintenance et de sécurité dans l’établissement, conduisant à la mort de l’apprenti. La suite attendue est la décision judiciaire et les éventuelles sanctions pour le gérant et l’entreprise Otis.",
+   "points_cles": [
+    "Décès d’un apprenti barman",
+    "Procès pour homicide involontaire",
+    "Dysfonctionnement d’un monte-charge Otis",
+    "Absence de prévention des risques",
+    "Enquête sur la maintenance"
+   ],
+   "mots_cles": [
+    "Ludovic Marais",
+    "Otis",
+    "Homicide involontaire",
+    "Monte-charge",
+    "Prévention des risques"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "96ba3731949da846fa05b2e0f3b92244",
+   "titre": "Radio France demande des sanctions alourdies pour les auteurs de violences contre des journalistes",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/27/radio-france-demande-des-sanctions-alourdies-pour-les-auteurs-de-violences-contre-des-journalistes_6815853_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-27T14:44",
+   "recap": "Le groupe public Radio France, dirigé par sa PDG Sibyle Veil, demande que le code pénal considère l'agression d'un journaliste comme une circonstance aggravante, afin d'alourdir les sanctions contre les auteurs de violences. Cette proposition vise à protéger les journalistes et à dissuader les actes de violence à leur encontre. France Télévisions et BFM-TV ont exprimé leur soutien à cette initiative dans une interview au journal Le Monde. L'enjeu est de renforcer la protection juridique des journalistes et de sanctionner plus sévèrement les agressions. La demande s'inscrit dans un contexte de préoccupations croissantes concernant la sécurité des médias. La suite attendue serait un débat législatif et éventuellement une modification du code pénal.",
+   "points_cles": [
+    "Radio France veut que l'agression d'un journaliste soit une circonstance aggravante.",
+    "Sibyle Veil, PDG de Radio France, porte la demande.",
+    "France Télévisions et BFM-TV soutiennent la proposition.",
+    "L'objectif est d'alourdir les sanctions contre les auteurs de violences."
+   ],
+   "mots_cles": [
+    "Radio France",
+    "violences",
+    "journalistes",
+    "circonstance aggravante",
+    "code pénal",
+    "soutien"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "4e42fb75a685face1b320c5cf25b3318",
+   "titre": "EN DIRECT, guerre en Ukraine : les attaques russes ont tué au moins cinq personnes et blessé quatorze autres  en vingt-quatre heures",
+   "lien": "https://www.lemonde.fr/international/live/2026/11/27/en-direct-guerre-en-ukraine-les-attaques-russes-ont-tue-au-moins-cinq-personnes-et-blesse-quatorze-autres-en-vingt-quatre-heures_6814183_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-27T14:44",
+   "recap": "Dans la nuit de jeudi à vendredi, la Russie a mené des frappes aériennes sur l'Ukraine, ciblant des infrastructures civiles et énergétiques. Ces attaques ont touché neuf oblasts ukrainiens. Selon le Premier ministre ukrainien Serhi Koretsky, au moins cinq personnes ont été tuées et quatorze blessées dans les vingt‑quatre heures qui ont suivi. Les frappes ont visé des installations essentielles, perturbant potentiellement l'approvisionnement en énergie. Le bilan humain et matériel souligne la gravité de l'escalade du conflit. Aucun détail supplémentaire n'est fourni quant aux réponses militaires ou aux mesures d'aide humanitaire attendues.",
+   "points_cles": [
+    "La Russie a frappé des infrastructures civiles et énergétiques dans neuf oblasts ukrainiens.",
+    "Au moins cinq morts et quatorze blessés ont été signalés en 24 heures.",
+    "Le Premier ministre ukrainien Serhi Koretsky a communiqué ces informations."
+   ],
+   "mots_cles": [
+    "Russie",
+    "Ukraine",
+    "infrastructures civiles",
+    "infrastructures énergétiques",
+    "civils tués",
+    "blessés"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "77bad2e71616fa2b0530bd50d7307835",
+   "titre": "José Beaurain, député RN de l’Aisne, visé par une enquête pour « détournement de fonds publics » et contesté localement",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/27/le-depute-rn-de-l-aisne-jose-beaurain-vise-par-une-enquete-pour-detournement-de-fonds-publics-et-conteste-localement_6815868_823448.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-27T14:43",
+   "recap": "José Beaurain, député du Rassemblement national (RN) de l’Aisne, fait l’objet d’une enquête préliminaire pour détournement de fonds publics après des révélations du « Canard enchaîné ». Malgré des alertes internes, il a été réinvesti par le RN. Une mobilisation a été organisée à Chauny samedi pour contester cette décision.",
+   "points_cles": [
+    "Enquête préliminaire pour détournement de fonds publics",
+    "Réinvestissement du député malgré alertes internes",
+    "Mobilisation locale à Chauny"
+   ],
+   "mots_cles": [
+    "José Beaurain",
+    "Rassemblement national",
+    "enquête préliminaire",
+    "Canard enchaîné",
+    "Chauny"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "5ab482a50d3cd1e92084fed9e4a047bf",
+   "titre": "Devant la commission d’enquête sur le 17 octobre, le préfet de police décrit « une situation quasi insurrectionnelle » dans les rues de Paris",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/27/devant-la-commission-d-enquete-sur-le-17-octobre-le-prefet-de-police-decrit-une-situation-quasi-insurrectionnelle-a-paris_6815865_823448.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-27T14:43",
+   "recap": "Le préfet de police, Patrice Faure, a déclaré lors d’une audition le 24 novembre que la situation dans les rues de Paris après le 17 octobre était quasi insurrectionnelle, malgré l’absence d’erreurs d’anticipation de ses services. Il a souligné que la réalité avait dépassé l’entendement. La commission d’enquête sur le 17 octobre a été mentionnée comme contexte. Aucun chiffre ni détail supplémentaire n’est fourni dans le texte.",
+   "points_cles": [
+    "Préfet de police Patrice Faure",
+    "Situation quasi insurrectionnelle après le 17 octobre",
+    "Pas d’erreurs d’anticipation",
+    "Réalité dépassant l’entendement",
+    "Audition le 24 novembre"
+   ],
+   "mots_cles": [
+    "Patrice Faure",
+    "commission d’enquête",
+    "17 octobre",
+    "Paris",
+    "insurrection",
+    "préfet de police"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "37bde47138e5da6f286baffdd92dc076",
+   "titre": "Les syndicats réformistes sortent renforcés des élections professionnelles à la SNCF",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/27/les-syndicats-reformistes-sortent-renforces-des-elections-professionnelles-a-la-sncf_6815874_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-27T14:43",
+   "recap": "Les syndicats réformistes ont renforcé leur présence lors des élections professionnelles à la SNCF. La CGT et le SUD conservent chacun plus de 50 % de la représentativité syndicale, ce qui leur donne le pouvoir d’accepter ou de bloquer un accord collectif. La CFDT, quant à elle, a gagné la troisième place, augmentant ainsi son poids dans les négociations avec la direction.",
+   "points_cles": [
+    "CGT et SUD >50 % de représentativité",
+    "CFDT passe en troisième place",
+    "Syndicats réformistes renforcés",
+    "Pouvoir de blocage d’accord collectif"
+   ],
+   "mots_cles": [
+    "SNCF",
+    "CGT",
+    "SUD",
+    "CFDT",
+    "représentativité",
+    "négociations"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8a8aad51c2a8a5a82de43962a27e765a",
+   "titre": "Présidentielle 2027 : Marine Le Pen veut contraindre les journalistes à respecter le secret de l’instruction",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/27/presidentielle-2027-marine-le-pen-veut-contraindre-les-journalistes-a-respecter-le-secret-de-l-instruction_6815863_823448.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-27T14:42",
+   "recap": "Marine Le Pen a déclaré, lors d’un point presse, que les médias ne pourront plus en toute impunité effectuer des recels de violation du secret de l’enquête et de l’instruction. Elle a évoqué la nécessité de contraindre les journalistes à respecter le secret de l’instruction dans le cadre de la présidentielle 2027.",
+   "points_cles": [
+    "Marine Le Pen souhaite limiter les recels médiatiques",
+    "Elle cible le secret de l’enquête et de l’instruction",
+    "La déclaration intervient dans le contexte de la présidentielle 2027"
+   ],
+   "mots_cles": [
+    "Marine Le Pen",
+    "secret de l’instruction",
+    "recels",
+    "présidentielle 2027"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "595cf0bdc7788a4448c79ef04f0756d1",
+   "titre": "Elections législatives en Espagne : les graphiques pour comprendre le dynamisme économique du pays et ses limites",
+   "lien": "https://www.lemonde.fr/international/visuel/2026/11/27/elections-legislatives-en-espagne-les-graphiques-pour-comprendre-le-dynamisme-economique-du-pays-et-ses-limites_6815875_3210.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-27T14:42",
+   "recap": "Le texte indique que le modèle économique espagnol est soutenu par l’immigration, le tourisme et les fonds européens, ce qui permet à la croissance du pays de dépasser celle de ses voisins. Cependant, malgré ces performances positives, le taux de chômage demeure élevé.",
+   "points_cles": [
+    "Croissance supérieure à la moyenne régionale",
+    "Soutien par immigration, tourisme et fonds européens",
+    "Chômage toujours élevé",
+    "Pression sur le modèle économique"
+   ],
+   "mots_cles": [
+    "Espagne",
+    "croissance",
+    "immigration",
+    "tourisme",
+    "fonds européens",
+    "chômage"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "e950bfdd7cb0ca9cc03cb66f4678ecad",
+   "titre": "Ecrits antisémites de Jordan Bardella : Marine Le Pen renouvelle sa confiance au président du RN",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/27/ecrits-antisemites-de-jordan-bardella-marine-le-pen-renouvelle-sa-confiance-au-president-du-rassemblement-national_6815858_823448.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-27T14:42",
+   "recap": "Le président du RN, Jordan Bardella, a réaffirmé sa défense face aux nouvelles révélations concernant des écrits antisémites, en contestant « formellement » les informations publiées par Le Monde et Mediapart. Il refuse de fournir des éléments supplémentaires pour étayer sa position.",
+   "points_cles": [
+    "Bardella conteste les révélations",
+    "Réfutation formelle par Le Monde et Mediapart",
+    "Absence d'éléments fournis"
+   ],
+   "mots_cles": [
+    "Jordan Bardella",
+    "RN",
+    "antisémitisme",
+    "Le Monde",
+    "Mediapart"
+   ],
+   "nature": "fait"
+  },
   {
    "id": "42e80c6cc40ff34dda20eaeb566e404c",
    "titre": "Intermarché veut séduire les flottes d'entreprise avec cette nouvelle carte de recharge : voici les tarifs",
