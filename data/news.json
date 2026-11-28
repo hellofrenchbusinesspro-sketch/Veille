@@ -1,6 +1,616 @@
 {
- "maj": "2026-11-27T14:52",
+ "maj": "2026-11-28T14:02",
  "articles": [
+  {
+   "id": "bd5a1c34096096bb7747b8416ee0321e",
+   "titre": "Recharge des camions électriques : Daimler veut transformer les dépôts privés en bornes partagées",
+   "lien": "https://www.bevolt.com/fr-fr/entreprises/actualites/camions-electriques/353618-recharge-des-camions-electriques-daimler-veut-transformer-les-depots-prives-en-bornes-partagees/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-28T14:02",
+   "recap": "Daimler Truck a étendu son réseau TruckCharge, désormais actif dans 21 pays européens, pour permettre aux transporteurs disposant de bornes privées de les partager avec d’autres flottes via un portail semi‑public. Le système, lancé en 2025, permet aux propriétaires de définir créneaux, bénéficiaires et tarifs, et intègre également les bornes de concessionnaires et de sites Daimler, comme l’usine Mercedes‑Benz de Wörth. Depuis août 2026, le réseau accepte également la recharge publique grâce à Milence, offrant aux clients environ 300 points de recharge rapide sans frais d’itinérance. Daimler ambitionne d’atteindre plus de 3 000 points de recharge en Europe d’ici 2030, complétant ainsi le réseau public encore fragmenté.",
+   "points_cles": [
+    "Extension du réseau TruckCharge à 21 pays",
+    "Modèle semi‑public de partage de bornes",
+    "Intégration de Milence pour la recharge publique",
+    "Objectif de 3 000 points d’ici 2030"
+   ],
+   "mots_cles": [
+    "Daimler Truck",
+    "TruckCharge",
+    "bornes semi‑publiques",
+    "Milence",
+    "recharge publique",
+    "Europe"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "b4de460c0fa154d4bd9ad3853cfa8f9a",
+   "titre": "Hyundai abandonne son projet de coupé sportif électrique",
+   "lien": "https://www.bevolt.com/fr-fr/automobile/actualites/voitures-electriques/353682-hyundai-abandonne-son-projet-de-coupe-sportif-electrique/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": false,
+   "date": "2026-11-28T14:02",
+   "recap": "Hyundai a annoncé que le projet de coupé sportif électrique N Vision 74, présenté en 2022 comme concept hydrogène, ne sera pas produit. Le concept, conçu par Giorgetto Giugiaro, visait à créer un modèle électrique à hautes performances pour la marque N, mais le groupe a décidé de le laisser rester un concept. La décision est motivée par un réorientement vers la marque premium Genesis, qui prendra le relais pour un coupé à haute performance, mais cette fois avec un moteur V8 essence plutôt qu’électrique. Le projet N Vision 74 ne sera donc pas commercialisé, mais l’idée d’un coupé performant reste présente au sein du groupe.",
+   "points_cles": [
+    "Hyundai abandonne la production du N Vision 74",
+    "Le concept restera un concept-car",
+    "Le groupe transfère le projet à Genesis",
+    "Genesis utilisera un V8 essence",
+    "Hyundai ne poursuit pas l’électrique"
+   ],
+   "mots_cles": [
+    "Hyundai",
+    "N Vision 74",
+    "Genesis",
+    "coupé sportif",
+    "électrique",
+    "V8 essence"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "96c8e26cc9a7d841298833e77ab38964",
+   "titre": "Témoignage – Citroën ë-C4 X : même le fils anti-VE de Philippe aime la conduire",
+   "lien": "https://www.bevolt.com/fr-fr/communaute/temoignages/temoignages-automobiles/354064-temoignage-citroen-e-c4-x-meme-le-fils-anti-ve-de-philippe-aime-la-conduire/",
+   "source": "Automobile Propre",
+   "domaine": "Automobile",
+   "partiel": true,
+   "date": "2026-11-28T14:02",
+   "recap": "Philippe a commencé son expérience d’électromobilité en louant une Dacia Spring pendant quelques jours, ce qui l’a convaincu de passer à une voiture électrique. Il a ensuite acquis une Citroën ë-C4 X, qu’il partage avec tous les conducteurs de son foyer. Même le fils de Philippe, qui était initialement anti-VE, apprécie désormais la conduite de la ë-C4 X.",
+   "points_cles": [
+    "Philippe a testé une Dacia Spring avant d’acheter une ë-C4 X",
+    "La ë-C4 X est partagée par toute la famille",
+    "Le fils anti-VE aime maintenant la conduire"
+   ],
+   "mots_cles": [
+    "Citroën ë-C4 X",
+    "Dacia Spring",
+    "électromobilité",
+    "famille"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "eab98c38f10971c0e2293d96fd63fcab",
+   "titre": "GTA VI utilise son retour haptique dans tout le jeu, et la manette DualSense tombe à 48,99 € pour le Black Friday",
+   "lien": "https://www.numerama.com/tech/2386881-gta-vi-utilise-son-retour-haptique-dans-tout-le-jeu-et-la-manette-dualsense-tombe-a-4899-e-pour-le-black-friday.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-28T14:01",
+   "recap": "GTA VI est sorti le 19 novembre 2026 sur PS5 et Xbox Series. Rockstar a intégré le retour haptique de la DualSense dans l’ensemble du jeu, avec un réglage d’intensité dans les options d’accessibilité. Joybuy, boutique en ligne européenne, propose la DualSense officielle à 48,99 € (au lieu de 74,99 €) avec le code promo BFKOL10, soit une baisse d’environ 35 %. La DualSense offre retour haptique, gâchettes adaptatives, micro, haut-parleur, détecteur de mouvement et port USB‑C. Elle fonctionne sur PS5, PC, Mac et smartphone via Bluetooth, mais les fonctionnalités haptique et adaptatives ne marchent que dans certains jeux. Le Black Friday 2026 s’étend du 27 au 30 novembre, avec des offres débutant en début novembre et se prolongeant jusqu’au Cyber Monday. Le prix réduit de la manette est présenté comme une bonne affaire, surtout avec le lancement de GTA VI et les fêtes de fin d’année.",
+   "points_cles": [
+    "GTA VI intègre le retour haptique DualSense dans tout le jeu.",
+    "DualSense vendue à 48,99 € via Joybuy, code BFKOL10.",
+    "Le Black Friday 2026 couvre du 27 au 30 novembre.",
+    "DualSense offre retour haptique, gâchettes adaptatives, micro, haut-parleur.",
+    "Le prix réduit est une opportunité pour les joueurs PS5.",
+    ""
+   ],
+   "mots_cles": [
+    "GTA VI",
+    "DualSense",
+    "Black Friday",
+    "retour haptique",
+    "prix réduit"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "528881f4d60be2cce425c7f5223e72f1",
+   "titre": "On a (enfin) fini GTA 6 et, oui, il est extraordinaire",
+   "lien": "https://www.numerama.com/pop-culture/2386719-on-a-enfin-fini-gta-6-et-oui-il-est-extraordinaire.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-28T14:01",
+   "recap": "Le texte présente GTA 6 comme un jeu qui se distingue par son rythme lent, ses longues cut‑scenes et son dialogue abondant, rappelant GTA 4 et Red Dead Redemption 2. Le jeu met en avant un couple, Lucia et Jason, dont la relation est au cœur de l’intrigue, offrant une narration plus humaine et réaliste que les précédents titres. Le monde ouvert est décrit comme gigantesque, vivant et rempli d’activités secondaires variées, allant du braquage aux courses de rue, avec un nombre d’environ 100 missions principales. Les points forts soulignés sont la taille du monde, la charismatique du couple et la technologie avancée, tandis que les points faibles incluent un démarrage lent, la barrière linguistique et quelques problèmes d’IA. Le texte conclut que GTA 6 promet une expérience immersive et émotionnelle, mais qu’il faut compter environ soixante heures pour avancer dans l’histoire principale.",
+   "points_cles": [
+    "GTA 6 se distingue par un rythme lent et des dialogues abondants.",
+    "Le couple Lucia et Jason est le centre narratif, offrant une approche réaliste.",
+    "Le monde ouvert est gigantesque, rempli d’activités secondaires variées.",
+    "Le jeu présente 100 missions principales, mais le démarrage est lent.",
+    "Des problèmes d’IA et de maniabilité sont signalés.",
+    ""
+   ],
+   "mots_cles": [
+    "GTA 6",
+    "Lucia",
+    "Jason",
+    "monde ouvert",
+    "récit",
+    "technologie"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "192161114953b4d890520aa16cbeeaa8",
+   "titre": "Après la hausse de Samsung, le Galaxy S26 Ultra tombe à un prix inespéré pour le Black Friday",
+   "lien": "https://www.numerama.com/tech/2387125-apres-la-hausse-de-samsung-le-galaxy-s26-ultra-tombe-a-un-prix-inespere-pour-le-black-friday.html",
+   "source": "Numerama",
+   "domaine": "Tech",
+   "partiel": false,
+   "date": "2026-11-28T14:01",
+   "recap": "Le Galaxy S26 Ultra, lancé à 1 469 € en mars, a vu son prix relevé de 100 € le 1 octobre, puis redescendu à 899 € pour le Black Friday après une remise de 200 €. L’appareil se distingue par son écran de 6,9 pouces avec Privacy Display, un capteur principal de 200 MP, deux téléobjectifs (3× et 5×) et un S Pen intégré. Il est équipé du Snapdragon 8 Elite Gen 5, d’une batterie de 5 000 mAh, d’une charge filaire de 60 W et d’une charge sans fil de 25 W, sans chargeur fourni. Le prix de 789 € (après remise) le place en dessous du Galaxy S26 classique, offrant un rapport qualité/prix attractif, avec sept ans de mises à jour logicielles garanties. Les acheteurs potentiels doivent acheter avant le 20 décembre chez un revendeur français et soumettre leur dossier avant le 3 janvier.",
+   "points_cles": [
+    "Prix du Galaxy S26 Ultra passe de 1 469 € à 899 € puis à 789 € après remise",
+    "Écran de 6,9 pouces avec Privacy Display et capteur principal de 200 MP",
+    "Snapdragon 8 Elite Gen 5, batterie 5 000 mAh, charge 60 W",
+    "Garantie de sept ans de mises à jour logicielles",
+    "Offre valable uniquement chez revendeurs français avant le 20 décembre"
+   ],
+   "mots_cles": [
+    "Galaxy S26 Ultra",
+    "Privacy Display",
+    "Snapdragon 8 Elite Gen 5",
+    "Black Friday",
+    "Remise 200 €"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "20164fa751506b3878d48b8bcb916dff",
+   "titre": "Élections locales à Taïwan: le Kuomintang conserve la mairie de Taipei",
+   "lien": "https://www.rfi.fr/fr/asie-pacifique/20261128-%C3%A9lections-locales-%C3%A0-ta%C3%AFwan-le-kuomintang-conserve-la-mairie-de-taipei",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-28T14:00",
+   "recap": "Les élections locales de Taïwan, qui ont vu près de 11 000 sièges en jeu, ont confirmé la victoire du Kuomintang (KMT) à Taipei, le parti conservateur favorisant des liens plus étroits avec la Chine. Le maire sortant, Chiang Wan‑an, 47 ans, a battu le candidat du Parti démocrate progressiste (PDP), Puma Shen, 44 ans, critique virulent de la Chine. Shen a reconnu sa défaite en public, tandis que Chiang, considéré comme un futur candidat à la présidence, consolide son influence. Le PDP, dirigé par le président Lai Ching‑te, espérait gagner cinq sièges supplémentaires mais n’a pas réussi à renverser le KMT. Les autorités taïwanaises ont averti d’interférences potentielles de la Chine, évoquant une « guerre cognitive » et une « répression transnationale ». Bien que les résultats locaux ne soient pas un indicateur fiable des élections présidentielles de 2028, ils pourraient influencer la sélection des candidats des partis.",
+   "points_cles": [
+    "KMT conserve la mairie de Taipei",
+    "Puma Shen reconnait sa défaite",
+    "Interférences chinoises signalées",
+    "Résultats locaux influencent la sélection présidentielle"
+   ],
+   "mots_cles": [
+    "Taïwan",
+    "Kuomintang",
+    "Puma Shen",
+    "Interférences chinoises",
+    "Élections locales"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "e41fcae10956fb52da1eb1348bf775e0",
+   "titre": "Projet pétrolier aux Malouines: le tribunal du droit de la mer rejette la demande de l'Argentine",
+   "lien": "https://www.rfi.fr/fr/am%C3%A9riques/20261128-projet-p%C3%A9trolier-aux-malouines-le-tribunal-du-droit-de-la-mer-rejette-la-demande-de-l-argentine",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-28T14:00",
+   "recap": "Le Tribunal international du droit de la mer (TIDM) a rejeté la demande de l’Argentine de bloquer d’urgence le projet pétrolier Sea Lion au large des îles Malouines, archipel administré par le Royaume‑Uni et revendiqué par l’Argentine. Le TIDM a voté 18 contre 3, estimant que la demande touchait à la souveraineté des îles, hors compétence du tribunal arbitral prévu. L’Argentine avait demandé que l’on interdise tout forage ou installation jusqu’à l’arbitrage. Le président argentin Javier Milei a déclaré que l’Argentine poursuivrait ses démarches juridiques, affirmant que la décision n’est pas définitive. Le projet Sea Lion est mené par la société britannique Rockhopper et la société israélienne Navitas. Les Malouines sont au cœur d’un différend de souveraineté depuis 1833, rappelé par l’ONU, et ont été le théâtre d’une guerre en 1982.",
+   "points_cles": [
+    "TIDM rejette la demande d’urgence de l’Argentine",
+    "Vote 18 contre 3, juge que la question de souveraineté dépasse la compétence"
+   ],
+   "mots_cles": [
+    "Malouines",
+    "TIDM",
+    "Sea Lion",
+    "souveraineté",
+    "arbitrage"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "4b8abcae1d2a9981031ad62072dd5518",
+   "titre": "DIRECT - France: journée de mobilisation pour un acte VII rallié par la lutte contre les violences faites aux femmes",
+   "lien": "https://www.rfi.fr/fr/france/20261128-direct-france-journ%C3%A9e-de-mobilisation-pour-un-acte-vii-ralli%C3%A9-par-la-lutte-contre-les-violences-faites-aux-femmes",
+   "source": "RFI",
+   "domaine": "International",
+   "partiel": false,
+   "date": "2026-11-28T14:00",
+   "recap": "Le 25 novembre, la France a organisé une journée de mobilisation nationale contre les violences faites aux femmes, avec des manifestations prévues dans plus d’une trentaine de villes, dont Paris, Lille, Lyon et Marseille. À Paris, deux cortèges distincts étaient attendus à partir de 14h00, avec une prévision d’environ 40 000 participants, soit une augmentation par rapport à la journée précédente. Le premier cortège, initié par le collectif féministe #NousToutes, visait à dénoncer les violences de genre, sociales et d’État, tandis que le second, organisé par le collectif Grève féministe regroupant associations et syndicats, appelait à l’élimination des violences faites aux femmes. Ces manifestations se déroulent dans le contexte d’une mobilisation sociale soutenue en vue de la campagne présidentielle de 2027.",
+   "points_cles": [
+    "Mobilisation nationale contre les violences faites aux femmes",
+    "Plus de 30 villes, dont Paris, Lille, Lyon, Marseille",
+    "40 000 manifestants attendus à Paris",
+    "Deux cortèges distincts : #NousToutes et Grève féministe",
+    "Contexte de campagne présidentielle 2027"
+   ],
+   "mots_cles": [
+    "violences faites aux femmes",
+    "mobilisation nationale",
+    "#NousToutes",
+    "Grève féministe",
+    "élection présidentielle 2027"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "890cf0ff3d594c642d1d484cb361ec56",
+   "titre": "Croissance en berne, consommation stable… Où va l’économie française ?",
+   "lien": "https://www.franceinfo.fr/replay-radio/les-debats-de-l-eco/croissance-en-berne-consommation-stable-ou-va-l-economie-francaise_8281877.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-28T13:59",
+   "recap": "L'agence de notation S&P Global a maintenu la note A+ de la France mais a abaissé la perspective de stable à négative, menaçant une dégradation future en raison de la difficulté du pays à réduire son déficit. L'Insee a publié des indicateurs montrant une consommation stable malgré une inflation en baisse, tandis que les chiffres de croissance suggèrent que la France est proche de la récession sans y être officiellement entrée. Les économistes Emmanuel Cugny et Benjamin Recouvreur discutent de ces données avec Anne‑Sophie Alsif, cheffe économiste de BDO France, et Patrice Geoffron, professeur à Paris‑Dauphine, pour analyser les perspectives économiques françaises.",
+   "points_cles": [
+    "S&P maintient note A+ mais perspective négative",
+    "Consommation stable, inflation en baisse",
+    "Croissance tend à la récession",
+    "Déficit public reste un enjeu majeur",
+    "Dégradation de note possible"
+   ],
+   "mots_cles": [
+    "S&P Global",
+    "Insee",
+    "croissance",
+    "déficit public",
+    "récession"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "f59eafff057b01176b50ffb57e330e92",
+   "titre": "Le numéro 2 de la Banque centrale européenne écarte un scénario à la grecque pour la dette française",
+   "lien": "https://www.franceinfo.fr/economie/crise/le-numero-2-de-la-banque-centrale-europeenne-ecarte-un-scenario-a-la-grecque-pour-la-dette-francaise_8304585.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-28T13:59",
+   "recap": "Le vice-président de la BCE, Boris Vujcic, a déclaré que la France ne risque pas un scénario grec en matière de dette, soulignant que sa dette est plus faible et son économie plus diversifiée que celle de la Grèce en 2010. Il a toutefois insisté sur la nécessité de mesures budgétaires pour réduire le déficit et la dette. L'agence de notation S&P Global a maintenu la note A+ de la France mais a abaissé sa perspective de stable à négative, menaçant une éventuelle dégradation future en raison des difficultés à réduire le déficit. Les commentaires de divers acteurs, dont Éric Coquerel et Roland Lescure, soulignent l'importance de la politique économique et de l'objectif de déficit public à 5 % en 2027. Une convention citoyenne sur les finances publiques a été lancée pour réduire le déficit et préparer l'avenir.",
+   "points_cles": [
+    "BCE Vujcic écarte scénario grec",
+    "S&P baisse perspective de la France",
+    "Mesures budgétaires nécessaires",
+    "Déficit public cible 5 % en 2027",
+    "Convention citoyenne lancée"
+   ],
+   "mots_cles": [
+    "BCE",
+    "S&P",
+    "dette française",
+    "déficit",
+    "convention citoyenne"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "11f71d8c2e5cd3146dd43a0bae950109",
+   "titre": "\"Ça fait pschitt !\" : pourquoi les accusations d'antisémitisme visant Jordan Bardella n'entament pas (encore) la popularité du RN",
+   "lien": "https://www.franceinfo.fr/politique/jordan-bardella/propos-antisemites-attribues-a-jordan-bardella/ca-fait-pschitt-pourquoi-les-accusations-d-antisemitisme-visant-jordan-bardella-n-entament-pas-encore-la-popularite-du-rn_8303220.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-28T13:58",
+   "recap": "Les révélations de Mediapart et du Monde sur des écrits antisémites attribués à Jordan Bardella n’ont pas diminué le soutien de l’électorat du Rassemblement national (RN). Plusieurs enquêtes d’opinion d’octobre montrent que la majorité des sympathisants considèrent Bardella comme un leader fiable et refusent qu’il démissionne. Le parti et ses membres, notamment Marine Le Pen, se défendent en qualifiant les médias de « officine d’extrême gauche » et en affirmant que les accusations sont un acharnement médiatique. La crédibilité de Mediapart varie selon le positionnement politique : les personnes à gauche y font davantage confiance, tandis que les militants de droite et d’extrême droite privilégient la version de Bardella. Malgré ces accusations, le socle électoral du RN reste robuste, avec une faible volatilité et une forte fidélité aux dirigeants, même face à des allégations d’antisémitisme ou de racisme.",
+   "points_cles": [
+    "Les enquêtes montrent que Bardella conserve le soutien des sympathisants",
+    "Le RN se défend en accusant les médias de parti pris",
+    "La crédibilité de Mediapart varie selon l’orientation politique",
+    "Le socle électoral du RN est très stable malgré les scandales"
+   ],
+   "mots_cles": [
+    "Jordan Bardella",
+    "Mediapart",
+    "RN",
+    "antisémitisme",
+    "crédibilité des médias",
+    "fidelité électorale"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "89c126fa6cf6f9d076a6cb2427aaf718",
+   "titre": "\"Un mois de novembre plutôt remarquable\" : le froid arrive en avance sur l'Hexagone",
+   "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/un-mois-de-novembre-plutot-remarquable-le-froid-arrive-en-avance-sur-l-hexagone_8304639.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-28T13:58",
+   "recap": "Le 28 novembre 2023, un froid exceptionnel a touché 28 départements français, principalement en Normandie et Grand Est, avec des températures allant jusqu’à -9,1 °C à Charleville-Mézières. Les habitants ont dû se protéger avec plusieurs couches de vêtements, et le froid a été ressenti de la tête aux pieds. Le phénomène est attribué à un anticyclone scandinave qui a apporté un air froid et sec, provoquant des gelées. Les prévisions indiquent qu’un flux d’ouest devrait bientôt chasser ce froid et faire légèrement remonter les températures, surtout en Ouest et Sud. Ce froid de novembre est considéré comme un « petit coup de froid classique » mais remarquable pour la saison.",
+   "points_cles": [
+    "28 départements en vigilance grand froid",
+    "Températures jusqu’à -9,1 °C",
+    "Anticyclone scandinave responsable",
+    "Flux d’ouest prévu pour réchauffer",
+    "Froid considéré comme classique mais notable"
+   ],
+   "mots_cles": [
+    "froid de novembre",
+    "anticyclone scandinave",
+    "vigilance grand froid",
+    "températures négatives",
+    "flux d’ouest"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "7a7eb59c8d2d7a29d09b939f0f620b73",
+   "titre": "\"Cette situation est vraiment compliquée\" : il reçoit des dizaines de PV par erreur",
+   "lien": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/cette-situation-est-vraiment-compliquee-il-recoit-des-dizaines-de-pv-par-erreur_8304690.html#xtor=RSS-3-%5Beconomie%5D",
+   "source": "franceinfo",
+   "domaine": "Économie",
+   "partiel": false,
+   "date": "2026-11-28T13:58",
+   "recap": "Grégory Meunier, gérant d’une casse moto à Angoulême, reçoit plus de 80 contraventions pour une moto qu’il ne possède plus, dont la plaque d’immatriculation a été usurpée. Il a acheté la moto accidentée pour en récupérer les pièces, mais la plaque a été utilisée à Paris, 500 km de chez lui, pour des infractions de stationnement. Depuis deux ans, il conteste les amendes, dont certaines sont annulées mais d’autres non, entraînant des majorations qui l’atteignent à plusieurs dizaines de milliers d’euros. Il a même détruit la moto en mars dernier, mais les PV continuent d’être envoyés. La mairie de Paris a déclaré qu’elle avait bloqué la plaque, mais la situation persiste. L’usurpation de plaque est un délit passible de sept ans de prison et de 30 000 € d’amende. Meunier espère que l’usurpateur sera arrêté et que les amendes seront annulées, sinon il craint des saisies et la mise en péril de son entreprise.",
+   "points_cles": [
+    "Plaque d’immatriculation usurpée",
+    "Plus de 80 PV reçus à Paris",
+    "Amendes majorées atteignant des dizaines de milliers d’euros",
+    "Mairie de Paris a bloqué la plaque",
+    "Meunier craint saisies et mise en péril de l’entreprise"
+   ],
+   "mots_cles": [
+    "usurpation de plaque",
+    "contraventions",
+    "mécanicien",
+    "Paris",
+    "Angoulême"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "e6ecb5bec766eaced3146b81c58aedac",
+   "titre": "« “GTA VI” joue un rôle de déclencheur » : pourquoi la PlayStation 5 est en rupture de stock",
+   "lien": "https://www.lemonde.fr/pixels/article/2026/11/28/gta-vi-joue-un-role-de-declencheur-pourquoi-la-playstation-5-est-en-rupture-de-stock_6816081_4408996.html",
+   "source": "Le Monde",
+   "domaine": "Tech",
+   "partiel": true,
+   "date": "2026-11-28T13:57",
+   "recap": "Le titre « GTA VI » a contribué à la pénurie de consoles PlayStation 5, exacerbée par la hausse des prix des composants informatiques. Cette situation rend les consoles les plus récentes quasiment introuvables en magasin à l’approche des fêtes de fin d’année.",
+   "points_cles": [
+    "GTA VI stimule la demande de PS5",
+    "Hausse des prix des composants informatiques",
+    "Pénurie de consoles à l’approche des fêtes"
+   ],
+   "mots_cles": [
+    "GTA VI",
+    "PlayStation 5",
+    "pénurie",
+    "composants informatiques",
+    "fêtes de fin d’année"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "d4595e6f8cb14037c6728a3ce26a503c",
+   "titre": "Présidentielle 2027 : Raphaël Glucksmann \"soutiendra\" François Hollande s'il se \"présente en recours\", assure le porte-parole des députés socialistes",
+   "lien": "https://www.franceinfo.fr/elections/direct-election-presidentielle-raphael-glucksmann-soutiendra-francois-hollande-s-il-se-presente-en-recours_8304636.html#xtor=RSS-3-[lestitres]",
+   "source": "franceinfo",
+   "domaine": "Actualité",
+   "partiel": false,
+   "date": "2026-11-28T13:57",
+   "recap": "Le porte-parole des députés socialistes, Romain Eskenazi, a annoncé que Raphaël Glucksmann soutiendrait François Hollande s’il se présente en recours à la présidentielle 2027, selon les sondages. Les deux hommes se présenteront ensemble pour porter le programme de la gauche démocratique et républicaine, l’un derrière l’autre selon leur position dans les sondages. En cas de décrochage de Glucksmann, il soutiendrait Hollande s’il atteint 15 % contre 8 % de Glucksmann. Une décision finale serait prise en janvier ou février 2027. Hollande a également déclaré qu’il prendrait une décision en fonction de la situation. Le texte mentionne d’autres personnalités politiques et événements liés à la présidentielle, mais ne fournit pas d’informations supplémentaires sur les intentions de Hollande.",
+   "points_cles": [
+    "Glucksmann soutiendra Hollande si sondages favorables",
+    "Les deux hommes se présenteront ensemble pour la gauche démocratique",
+    "Décision finale prévue janvier/février 2027",
+    "Hollande prendra décision selon sondages",
+    "Pas d’autres détails sur intentions de Hollande"
+   ],
+   "mots_cles": [
+    "Glucksmann",
+    "Hollande",
+    "soutien",
+    "sondages",
+    "présidentielle 2027"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8961c42f8f16044fd2c038afdbfa0392",
+   "titre": "Projet pétrolier au large des îles Malouines : le tribunal international du droit de la mer rejette la demande de blocage de l’Argentine",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/28/projet-petrolier-au-large-des-iles-malouines-le-tribunal-international-du-droit-de-la-mer-rejette-la-demande-de-blocage-de-l-argentine_6816110_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-28T13:56",
+   "recap": "Le tribunal international du droit de la mer a rejeté la demande de l’Argentine visant à bloquer l’exploitation pétrolière au large des îles Malouines. L’Argentine, qui conteste le droit du Royaume‑Uni que d’autoriser l’exploration, avait sollicité l’ordonnance de Londres de prendre toutes les mesures nécessaires pour empêcher tout nouveau forage ou toute installation de production. Le tribunal a jugé que la demande n’était pas justifiée et a maintenu la légalité des opérations prévues par le Royaume‑Uni. Cette décision confirme la position actuelle du Royaume‑Uni sur le droit de l’exploitation pétrolière dans la région. L’Argentine devra désormais chercher d’autres voies juridiques ou diplomatiques pour contester la situation. La suite attendue est donc un éventuel recours ou une négociation bilatérale.",
+   "points_cles": [
+    "Tribunal rejette la demande de blocage",
+    "Argentine conteste le droit du Royaume‑Uni",
+    "Ordonnance de Londres non imposée",
+    "Situation juridique maintenue",
+    "Suite : recours ou négociation"
+   ],
+   "mots_cles": [
+    "Tribunal international du droit de la mer",
+    "Îles Malouines",
+    "Argentine",
+    "Royaume‑Uni",
+    "exploration pétrolière"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "e25c50f92f9513c1b51e06a0ba138834",
+   "titre": "Vidéo. La rapporteuse spéciale de l’ONU pour les territoires palestiniens refoulée à son arrivée au Costa Rica",
+   "lien": "https://www.lemonde.fr/international/video/2026/11/28/video-la-rapporteuse-speciale-de-l-onu-pour-les-territoires-palestiniens-refoulee-a-son-arrivee-au-costa-rica_6816109_3210.html",
+   "source": "Le Monde",
+   "domaine": "International",
+   "partiel": true,
+   "date": "2026-11-28T13:56",
+   "recap": "Francesca Albanese, rapporteuse spéciale de l’ONU pour les territoires palestiniens, a été refoulée à son arrivée au Costa Rica. Les services d’immigration costaricains ont indiqué qu’elle est sous le coup d’une alerte internationale pour liens avec des actes terroristes. Aucun détail supplémentaire sur les accusations ou les preuves n’est fourni dans le texte. L’incident soulève des questions sur la sécurité et les procédures d’entrée des diplomates. La suite attendue est que l’ONU et le Costa Rica clarifient la situation et déterminent les mesures à prendre.",
+   "points_cles": [
+    "Albanese refoulée au Costa Rica",
+    "alerte internationale pour liens terroristes",
+    "absence de détails supplémentaires"
+   ],
+   "mots_cles": [
+    "Francesca Albanese",
+    "ONU",
+    "Costa Rica",
+    "alerte internationale"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "df6e9fdfa218ad77df177965c3b36d03",
+   "titre": "Binance, géant mondial des cryptomonnaies, prépare sa sortie de l’Europe, faute de visa des régulateurs",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/28/binance-geant-mondial-des-cryptomonnaies-prepare-sa-sortie-de-l-europe-faute-de-visa-des-regulateurs_6816107_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-28T13:55",
+   "recap": "Binance, plateforme d’échange de cryptoactifs, n’a pas obtenu l’agrément requis pour opérer dans l’Union européenne. En conséquence, elle prévoit de fermer ses serveurs le 31 décembre. Avant cette date, elle facture des commissions à ses clients européens, les incitant à clôturer leurs comptes. La décision est motivée par l’absence de visa des régulateurs européens.",
+   "points_cles": [
+    "Binance n’a pas reçu l’agrément UE",
+    "Fermeture des serveurs prévue le 31 décembre",
+    "Facturation de commissions aux clients européens",
+    "Incitation à la clôture des comptes"
+   ],
+   "mots_cles": [
+    "Binance",
+    "agrément UE",
+    "visa régulateurs",
+    "fermeture serveurs",
+    "commissions"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "8c10c79c427f9636efb65db56cf1f661",
+   "titre": "A un banquet du Canon français, à Biarritz, des manifestants bloquent les participants, qu’ils accusent de véhiculer des idées d’extrême droite",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/28/a-un-banquet-du-canon-francais-a-biarritz-des-manifestants-bloquent-les-participants-qu-ils-accusent-de-vehiculer-des-idees-d-extreme-droite_6816103_3224.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-28T13:55",
+   "recap": "Un banquet du Canon français à Biarritz, cofinancé par le milliardaire Pierre-Edouard Stérin, a été interrompu par des manifestants qui ont bloqué les participants. Les manifestants ont accusé les convives d’y véhiculer des idées d’extrême droite. Ils avaient annoncé un « rempart humain » pour empêcher les 1 500 participants attendus de rejoindre le site.",
+   "points_cles": [
+    "Banquet du Canon français à Biarritz",
+    "Cofinancé par Pierre-Edouard Stérin",
+    "Manifestants bloquent les participants",
+    "Accusations d’extrême droite",
+    "Rempart humain prévu"
+   ],
+   "mots_cles": [
+    "Banquet",
+    "Biarritz",
+    "Manifestants",
+    "Pierre-Edouard Stérin",
+    "Extrême droite"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "3b954bc3bd81ff0c195143db498ea14e",
+   "titre": "L’horlogerie suisse rattrapée par les faiblesses de sa stratégie de montée en gamme",
+   "lien": "https://www.lemonde.fr/economie/article/2026/11/28/l-horlogerie-suisse-rattrapee-par-les-faiblesses-de-sa-strategie-de-montee-en-gamme_6816102_3234.html",
+   "source": "Le Monde",
+   "domaine": "Économie",
+   "partiel": true,
+   "date": "2026-11-28T13:55",
+   "recap": "Le secteur de l’horlogerie suisse connaît un paradoxe : malgré cinq mois consécutifs de hausse des exportations, les plans sociaux se multiplient dans les manufactures. Cette situation s’explique par une réorganisation brutale vers l’ultraluxe, entreprise pour compenser la baisse des ventes en Chine et au Moyen‑Orient. Les entreprises se concentrent donc sur des modèles haut de gamme, ce qui entraîne des coûts de production plus élevés et une réduction de la main‑d’œuvre, d’où les licenciements. Cette stratégie vise à maintenir la compétitivité sur un marché global de plus en plus exigeant, mais elle soulève des inquiétudes quant à la durabilité de la croissance et à l’impact social.",
+   "points_cles": [
+    "Exportations en hausse mais plans sociaux en hausse",
+    "Réorganisation vers l’ultraluxe pour compenser les marchés faibles",
+    "Baisse des ventes en Chine et au Moyen‑Orient",
+    "Coûts de production élevés et licenciements",
+    "Stratégie visant la compétitivité globale"
+   ],
+   "mots_cles": [
+    "horlogerie suisse",
+    "ultraluxe",
+    "exportations",
+    "plans sociaux",
+    "réorganisation"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "ad573c36d4706b10c8cd94543d304e46",
+   "titre": "« Etablir une règle d’or budgétaire n’ôtera pas le besoin de relever l’âge de la retraite ou d’augmenter le temps de travail »",
+   "lien": "https://www.lemonde.fr/idees/article/2026/11/28/etablir-une-regle-d-or-budgetaire-n-otera-pas-le-besoin-de-relever-l-age-de-la-retraite-ou-d-augmenter-le-temps-de-travail_6816099_3232.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-28T13:54",
+   "recap": "Sylvie Goulard, ancienne députée européenne, critique la défense de la règle d’or budgétaire par les responsables politiques français, affirmant qu’ils ignorent les engagements économiques qui en découlent. Elle souligne que la règle d’or est un signe de reconnaissance pour l’Union européenne. Le texte provient d’une tribune publiée dans le journal Le Monde.",
+   "points_cles": [
+    "Goulard critique la défense française de la règle d’or",
+    "Elle affirme que les engagements économiques sont ignorés",
+    "La règle d’or est vue comme une reconnaissance européenne"
+   ],
+   "mots_cles": [
+    "règle d’or",
+    "engagements économiques",
+    "Union européenne",
+    "Sylvie Goulard",
+    "responsables politiques"
+   ],
+   "nature": "opinion"
+  },
+  {
+   "id": "eb726852e1c5490aa87e70cbf55be183",
+   "titre": "Les militants des quartiers populaires veulent compter dans le jeu politique face à LFI et préparer « l’après-Mélenchon »",
+   "lien": "https://www.lemonde.fr/politique/article/2026/11/28/les-militants-des-quartiers-populaires-veulent-compter-dans-le-jeu-politique-face-a-lfi-et-preparer-l-apres-melenchon_6816089_823448.html",
+   "source": "Le Monde",
+   "domaine": "Politique",
+   "partiel": true,
+   "date": "2026-11-28T13:54",
+   "recap": "Les militants antiracistes, organisés en une Assemblée des quartiers, expriment leur frustration d’être exploités uniquement pour des tâches logistiques comme la mise en place d’affiches. Ils souhaitent désormais influencer le paysage politique, surtout en vue des élections législatives prévues après la présidentielle de 2027. Cette mobilisation vise à renforcer leur voix face à LFI et à préparer une stratégie pour l’après-Mélenchon.",
+   "points_cles": [
+    "Militants antiracistes organisés en Assemblée des quartiers",
+    "Frustration d’être utilisés uniquement pour des tâches logistiques",
+    "Objectif d’influencer la politique avant les élections législatives 2027",
+    "Préparation d’une stratégie post-Mélenchon"
+   ],
+   "mots_cles": [
+    "militants antiracistes",
+    "Assemblée des quartiers",
+    "élections législatives",
+    "LFI",
+    "Mélenchon"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "e232687b73b6924261f14ddca56ca069",
+   "titre": "La vie brisée des victimes de balles perdues, drame collatéral des fusillades du narcotrafic",
+   "lien": "https://www.lemonde.fr/societe/article/2026/11/28/derriere-les-morts-en-cascade-et-les-blesses-graves-la-balle-perdue-repand-son-parfum-de-suspicion_6816068_3224.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-28T13:53",
+   "recap": "La multiplication des fusillades liées au narcotrafic entraîne une hausse de victimes indirectes, c’est‑à‑dire des personnes touchées par des balles perdues. Ces victimes subissent des séquelles physiques et psychologiques qui bouleversent leur vie. Elles peuvent également faire face à une certaine défiance de la part de la société, liée aux circonstances de leur accident.",
+   "points_cles": [
+    "Fusillades liées au narcotrafic augmentent les victimes indirectes",
+    "Les victimes subissent des séquelles physiques et psychologiques",
+    "La société peut manifester une défiance envers ces victimes"
+   ],
+   "mots_cles": [
+    "fusillades",
+    "narcotrafic",
+    "victimes indirectes",
+    "séquelles",
+    "défiance"
+   ],
+   "nature": "fait"
+  },
+  {
+   "id": "842f36ab86f156e234e6735c2866b4b8",
+   "titre": "Guerre en Ukraine : Kiev assume l’extension du conflit sur de nouveaux fronts",
+   "lien": "https://www.lemonde.fr/international/article/2026/11/28/guerre-en-ukraine-kiev-assume-l-extension-du-conflit-sur-de-nouveaux-fronts_6816064_3210.html",
+   "source": "Le Monde",
+   "domaine": "Actualité",
+   "partiel": true,
+   "date": "2026-11-28T13:53",
+   "recap": "L’Ukraine a récemment intensifié ses attaques contre des navires russes, notamment en mer Baltique, en Méditerranée et même au port libyen de Benghazi. Cette offensive vise à inciter l’alliance occidentale à maintenir son soutien. Cependant, les pays européens restent divisés, certains soutenant l’action ukrainienne tandis que d’autres expriment des inquiétudes quant aux conséquences de cette escalade.",
+   "points_cles": [
+    "Ukraine intensifie ses frappes navales contre la Russie",
+    "Objectif : convaincre l’OTAN de poursuivre l’aide",
+    "Réactions mitigées en Europe, soutien et inquiétude"
+   ],
+   "mots_cles": [
+    "Ukraine",
+    "Navires russes",
+    "Mer Baltique",
+    "Méditerranée",
+    "Benghazi",
+    "OTAN"
+   ],
+   "nature": "fait"
+  },
   {
    "id": "d7e242579a8fea2587b09f72d0a144be",
    "titre": "La première voiture électrique de Volvo fête ses 50 ans ! On l'a imaginée en version moderne",
